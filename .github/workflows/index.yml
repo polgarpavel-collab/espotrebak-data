@@ -1,0 +1,41 @@
+name: Index tonerů a inkoustů – denní přegenerování
+
+on:
+  schedule:
+    - cron: '41 1 * * *'   # 2:41 v zimě / 3:41 v létě – po nočním importu zboží (~1:15 a ~1:40)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: index
+  cancel-in-progress: false
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Přegenerovat index
+        run: |
+          PREV=toner-index.json
+          # první běh: výchozí data ze Správce souborů e-shopu
+          [ -f "$PREV" ] || PREV=https://www.espotrebak.cz/fotky22220/toner-index-v7.txt
+          python3 esp_toner_index.py https://www.espotrebak.cz/fotky22220/xml/heureka_cz.xml "$PREV" . vyrazeno.txt
+          cat report.md >> "$GITHUB_STEP_SUMMARY"
+      - name: Uložit, jen pokud se index změnil
+        run: |
+          if [ -z "$(git status --porcelain -- toner-index.json nesparovano.txt)" ]; then
+            echo "Index beze změn – nic se neukládá."
+            exit 0
+          fi
+          git config user.name "espotrebak-index"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add toner-index.json report.json report.md nesparovano.txt
+          git commit -m "Index $(date +%F)"
+          git push
