@@ -578,7 +578,6 @@
 /hp-originalni-toner-su878a-mlt-d201s-201s-black-10000str
 /hp-originalni-toner-su885a-mlt-d203e-d203e-black-10000str-extra-high-capacity
 /hp-originalni-toner-su916a-mlt-d203u-203u-black-15000str-ultra-high-capacity
-/hp-originalni-toner-su925a-mlt-d204e-204e-black-10000str-extra-high-capacity
 /hp-originalni-toner-sv031a-mlt-d304e-304e-black-40000str-ultra-high-capacity
 /hp-originalni-toner-sv048a-mlt-d305l-305l-black-15000str-high-capacity
 /hp-originalni-toner-sv058a-mlt-d307e-307e-black-20000str-extra-high-capacity
@@ -2023,5 +2022,4 @@
 /xerox-originalni-toner-106r04082-cyan-26500str-high-capacity
 /xerox-originalni-toner-106r04083-magenta-26500str-high-capacity
 /xerox-originalni-toner-106r04084-yellow-26500str-high-capacity
-/xerox-originalni-toner-106r04646-white-5000str
 /xerox-originalni-waste-toner-container-008r08101-121000str

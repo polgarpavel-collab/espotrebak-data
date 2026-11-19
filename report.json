@@ -1,6 +1,10 @@
 {
- "datum": "2026-11-17",
- "odebrano": [],
+ "datum": "2026-11-19",
+ "odebrano": [
+  "G&G kompatibilní toner s HP CF280X, NT-PH280XC, HP 80X, black, 6900str.",
+  "HP originální ink F6U68AE, HP 302XL, black",
+  "HP originální ink T0B27A, HP 982X, cyan, 16000str., high capacity"
+ ],
  "pridano": [],
  "nesparovano": [
   {
@@ -798,15 +802,6 @@
     "203U",
     "MLTD203U",
     "SU916A"
-   ]
-  },
-  {
-   "n": "HP originální toner SU925A, MLT-D204E, 204E, black, 10000str., extra high capacity",
-   "u": "/hp-originalni-toner-su925a-mlt-d204e-204e-black-10000str-extra-high-capacity",
-   "kody": [
-    "204E",
-    "MLTD204E",
-    "SU925A"
    ]
   },
   {
@@ -9981,13 +9976,6 @@
    ]
   },
   {
-   "n": "Xerox originální toner 106R04646, white, 5000str.",
-   "u": "/xerox-originalni-toner-106r04646-white-5000str",
-   "kody": [
-    "106R04646"
-   ]
-  },
-  {
    "n": "Xerox originální ink 108R00840, black, 40000str., 4ks",
    "u": "/xerox-originalni-ink-108r00840-black-40000str-4ks",
    "kody": [
@@ -15114,12 +15102,12 @@
   "Kyocera": 417,
   "Konica Minolta": 329,
   "Epson": 254,
-  "HP": 208,
+  "HP": 207,
   "OKI": 178,
   "Lexmark": 150,
   "Sharp": 150,
   "Canon": 126,
-  "Xerox": 112,
+  "Xerox": 111,
   "Brother": 28,
   "Utax": 17,
   "Samsung": 16,
@@ -15138,16 +15126,16 @@
   "Neutre": 1
  },
  "souhrn": {
-  "datum": "2026-11-17",
-  "produktu": 3512,
+  "datum": "2026-11-19",
+  "produktu": 3509,
   "sad": 1094,
   "tiskaren": 5487,
-  "odebrano": 0,
+  "odebrano": 3,
   "pridano": 0,
-  "nesparovano": 2027,
+  "nesparovano": 2025,
   "nesparovano_nove": 0,
   "tiskarny_preznaceny": 0,
   "tiskarny_slouceno": 0,
-  "velikost_kb": 962
+  "velikost_kb": 961
  }
 }
