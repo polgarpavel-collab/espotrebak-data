@@ -505,7 +505,6 @@
 /hp-originalni-toner-cf313a-hp-826a-magenta-31500str
 /hp-originalni-toner-cz192a-hp-93a-black-12000str
 /hp-originalni-toner-q2672a-hp-309a-yellow-4000str-doprodej
-/hp-originalni-toner-q6463a-hp-644a-magenta-12000str-doprodej
 /hp-originalni-toner-ss546a-clt-c804s-c804s-cyan-15000str
 /hp-originalni-toner-ss553a-clt-c806s-c806s-cyan-30000str
 /hp-originalni-toner-ss560a-clt-c808s-cyan-20000str

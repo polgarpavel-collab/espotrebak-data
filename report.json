@@ -1,9 +1,8 @@
 {
- "datum": "2026-11-19",
+ "datum": "2026-11-20",
  "odebrano": [
-  "G&G kompatibilní toner s HP CF280X, NT-PH280XC, HP 80X, black, 6900str.",
-  "HP originální ink F6U68AE, HP 302XL, black",
-  "HP originální ink T0B27A, HP 982X, cyan, 16000str., high capacity"
+  "HP originální ink C9351AE, HP 21, black, 150str., 5ml",
+  "HP originální ink CB335EE, HP 350, black, 4,5ml"
  ],
  "pridano": [],
  "nesparovano": [
@@ -147,14 +146,6 @@
    "kody": [
     "HP309A",
     "Q2672A"
-   ]
-  },
-  {
-   "n": "HP originální toner Q6463A, HP 644A, magenta, 12000str., DOPRODEJ",
-   "u": "/hp-originalni-toner-q6463a-hp-644a-magenta-12000str-doprodej",
-   "kody": [
-    "HP644A",
-    "Q6463A"
    ]
   },
   {
@@ -15102,7 +15093,7 @@
   "Kyocera": 417,
   "Konica Minolta": 329,
   "Epson": 254,
-  "HP": 207,
+  "HP": 206,
   "OKI": 178,
   "Lexmark": 150,
   "Sharp": 150,
@@ -15126,13 +15117,13 @@
   "Neutre": 1
  },
  "souhrn": {
-  "datum": "2026-11-19",
-  "produktu": 3509,
+  "datum": "2026-11-20",
+  "produktu": 3507,
   "sad": 1094,
   "tiskaren": 5487,
-  "odebrano": 3,
+  "odebrano": 2,
   "pridano": 0,
-  "nesparovano": 2025,
+  "nesparovano": 2024,
   "nesparovano_nove": 0,
   "tiskarny_preznaceny": 0,
   "tiskarny_slouceno": 0,
