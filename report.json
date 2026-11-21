@@ -1,8 +1,9 @@
 {
- "datum": "2026-11-20",
+ "datum": "2026-11-21",
  "odebrano": [
-  "HP originální ink C9351AE, HP 21, black, 150str., 5ml",
-  "HP originální ink CB335EE, HP 350, black, 4,5ml"
+  "HP originální ink T0B29A, HP 982X, yellow, 16000str., high capacity",
+  "Brother originální ink refill unit LK5792001, Brother MFC-J6910DW, J6710DW, J6510DW, J5910DW, ink doplňovací jednotka",
+  "Xerox originální toner 006R01573, black, 9000str."
  ],
  "pridano": [],
  "nesparovano": [
@@ -15117,16 +15118,16 @@
   "Neutre": 1
  },
  "souhrn": {
-  "datum": "2026-11-20",
-  "produktu": 3507,
-  "sad": 1094,
-  "tiskaren": 5487,
-  "odebrano": 2,
+  "datum": "2026-11-21",
+  "produktu": 3504,
+  "sad": 1093,
+  "tiskaren": 5483,
+  "odebrano": 3,
   "pridano": 0,
   "nesparovano": 2024,
   "nesparovano_nove": 0,
   "tiskarny_preznaceny": 0,
   "tiskarny_slouceno": 0,
-  "velikost_kb": 961
+  "velikost_kb": 960
  }
 }
