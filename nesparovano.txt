@@ -396,7 +396,6 @@
 /epson-originalni-ink-c13t97440n-yellow
 /epson-originalni-ink-case-eject-1487320-epson-pouzdro
 /epson-originalni-toner-c13s050523-black-3200str-return
-/g-g-kompatibilni-ink-s-pfi107mbk-nc-00107mbk-6704b001-matte-black-130ml-doprodej
 /g-g-kompatibilni-toner-s-canon-054m-nt-pc054m-magenta-1200str-doprodej
 /g-g-kompatibilni-toner-s-canon-069bkh-nt-cc069xbk-black-high-capacity
 /g-g-kompatibilni-toner-s-canon-069c-nt-cc069c-cyan-1900str-doprodej

@@ -1,10 +1,6 @@
 {
- "datum": "2026-11-21",
- "odebrano": [
-  "HP originální ink T0B29A, HP 982X, yellow, 16000str., high capacity",
-  "Brother originální ink refill unit LK5792001, Brother MFC-J6910DW, J6710DW, J6510DW, J5910DW, ink doplňovací jednotka",
-  "Xerox originální toner 006R01573, black, 9000str."
- ],
+ "datum": "2026-11-22",
+ "odebrano": [],
  "pridano": [],
  "nesparovano": [
   {
@@ -14815,15 +14811,6 @@
    ]
   },
   {
-   "n": "G&G kompatibilní ink s PFI107MBK, NC-00107MBK, 6704B001, matte black, 130ml, DOPRODEJ",
-   "u": "/g-g-kompatibilni-ink-s-pfi107mbk-nc-00107mbk-6704b001-matte-black-130ml-doprodej",
-   "kody": [
-    "6704B001",
-    "NC00107MBK",
-    "PFI107MBK"
-   ]
-  },
-  {
    "n": "G&G kompatibilní toner W2201X, NT-PH2201XC-B-V2-S1, cyan, 5500str., high capacity, DOPRODEJ",
    "u": "/g-g-kompatibilni-toner-w2201x-nt-ph2201xc-b-v2-s1-cyan-5500str-high-capacity-doprodej",
    "kody": [
@@ -15106,8 +15093,8 @@
   "UPrint": 7,
   "Toshiba": 6,
   "Katun": 6,
-  "G&G": 5,
   "Kompatibilní": 4,
+  "G&G": 4,
   "Oce": 3,
   "Triumph": 3,
   "Tally": 2,
@@ -15118,13 +15105,13 @@
   "Neutre": 1
  },
  "souhrn": {
-  "datum": "2026-11-21",
+  "datum": "2026-11-22",
   "produktu": 3504,
   "sad": 1093,
   "tiskaren": 5483,
-  "odebrano": 3,
+  "odebrano": 0,
   "pridano": 0,
-  "nesparovano": 2024,
+  "nesparovano": 2023,
   "nesparovano_nove": 0,
   "tiskarny_preznaceny": 0,
   "tiskarny_slouceno": 0,
