@@ -1,4 +1,4 @@
-# Index tonerů a inkoustů – 2026-11-22
+# Index tonerů a inkoustů – 2026-11-23
 
 - Produktů ve vyhledávači: **3504**, tiskáren: **5483**, velikost 960 KB
 - Nově přidáno: **0**, odebráno (už nejsou v e-shopu): **0**
