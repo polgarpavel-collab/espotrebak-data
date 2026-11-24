@@ -1,6 +1,8 @@
 {
- "datum": "2026-11-23",
- "odebrano": [],
+ "datum": "2026-11-24",
+ "odebrano": [
+  "Katun Performance kompatibilní toner s Brother TN3280, black, 8000str."
+ ],
  "pridano": [],
  "nesparovano": [
   {
@@ -15105,11 +15107,11 @@
   "Neutre": 1
  },
  "souhrn": {
-  "datum": "2026-11-23",
-  "produktu": 3504,
+  "datum": "2026-11-24",
+  "produktu": 3503,
   "sad": 1093,
   "tiskaren": 5483,
-  "odebrano": 0,
+  "odebrano": 1,
   "pridano": 0,
   "nesparovano": 2023,
   "nesparovano_nove": 0,
