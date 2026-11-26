@@ -1,8 +1,6 @@
 {
- "datum": "2026-11-24",
- "odebrano": [
-  "Katun Performance kompatibilní toner s Brother TN3280, black, 8000str."
- ],
+ "datum": "2026-11-26",
+ "odebrano": [],
  "pridano": [],
  "nesparovano": [
   {
@@ -8943,14 +8941,6 @@
    ]
   },
   {
-   "n": "Sharp originální toner MX-560GT, MX-561GT, black, 40000str.",
-   "u": "/sharp-originalni-toner-mx-560gt-mx-561gt-black-40000str",
-   "kody": [
-    "MX560GT",
-    "MX561GT"
-   ]
-  },
-  {
    "n": "Sharp originální toner MX61GTCA, cyan, 24000str.",
    "u": "/sharp-originalni-toner-mx61gtca-cyan-24000str",
    "kody": [
@@ -11818,13 +11808,6 @@
    "u": "/katun-access-kompatibilni-toner-s-sharp-mx-23gtba-black-18000str-415g",
    "kody": [
     "MX23GTBA"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Sharp MX-23GTCA, cyan, 10000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-sharp-mx-23gtca-cyan-10000str",
-   "kody": [
-    "MX23GTCA"
    ]
   },
   {
@@ -15086,7 +15069,7 @@
   "HP": 206,
   "OKI": 178,
   "Lexmark": 150,
-  "Sharp": 150,
+  "Sharp": 148,
   "Canon": 126,
   "Xerox": 111,
   "Brother": 28,
@@ -15107,13 +15090,13 @@
   "Neutre": 1
  },
  "souhrn": {
-  "datum": "2026-11-24",
+  "datum": "2026-11-26",
   "produktu": 3503,
   "sad": 1093,
   "tiskaren": 5483,
-  "odebrano": 1,
+  "odebrano": 0,
   "pridano": 0,
-  "nesparovano": 2023,
+  "nesparovano": 2021,
   "nesparovano_nove": 0,
   "tiskarny_preznaceny": 0,
   "tiskarny_slouceno": 0,

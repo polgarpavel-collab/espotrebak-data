@@ -891,7 +891,6 @@
 /katun-performance-kompatibilni-toner-s-oki-44315305-yellow-6000str
 /katun-performance-kompatibilni-toner-s-oki-44315306-magenta-6000str
 /katun-performance-kompatibilni-toner-s-oki-44315307-cyan-6000str
-/katun-performance-kompatibilni-toner-s-sharp-mx-23gtca-cyan-10000str
 /katun-performance-kompatibilni-toner-s-sharp-mx-23gtma-magenta-10000str
 /katun-performance-kompatibilni-toner-s-sharp-mx-23gtya-yellow-10000str
 /katun-performance-kompatibilni-toner-s-sharp-mx-315gt-black-27500str
@@ -1816,7 +1815,6 @@
 /sharp-originalni-toner-mx-51gtca-cyan-18000str
 /sharp-originalni-toner-mx-51gtma-magenta-18000str
 /sharp-originalni-toner-mx-51gtya-yellow-18000str
-/sharp-originalni-toner-mx-560gt-mx-561gt-black-40000str
 /sharp-originalni-toner-mx-61gtbb-black-20000str
 /sharp-originalni-toner-mx-61gtcb-cyan-12000str
 /sharp-originalni-toner-mx-61gtmb-magenta-12000str
