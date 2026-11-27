@@ -1,6 +1,8 @@
 {
- "datum": "2026-11-26",
- "odebrano": [],
+ "datum": "2026-11-27",
+ "odebrano": [
+  "G&G kompatibilní toner s Canon 057H, NT-PC057X, black, 10000str., POZOR bez čipu, high capacity"
+ ],
  "pridano": [],
  "nesparovano": [
   {
@@ -1952,13 +1954,6 @@
    "u": "/lexmark-originalni-toner-c252uk0-black-8000str-ultra-high-capacity-return",
    "kody": [
     "C252UK0"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner C320010, black, 1500str.",
-   "u": "/lexmark-originalni-toner-c320010-black-1500str",
-   "kody": [
-    "C320010"
    ]
   },
   {
@@ -15068,7 +15063,7 @@
   "Epson": 254,
   "HP": 206,
   "OKI": 178,
-  "Lexmark": 150,
+  "Lexmark": 149,
   "Sharp": 148,
   "Canon": 126,
   "Xerox": 111,
@@ -15090,13 +15085,13 @@
   "Neutre": 1
  },
  "souhrn": {
-  "datum": "2026-11-26",
-  "produktu": 3503,
+  "datum": "2026-11-27",
+  "produktu": 3502,
   "sad": 1093,
   "tiskaren": 5483,
-  "odebrano": 0,
+  "odebrano": 1,
   "pridano": 0,
-  "nesparovano": 2021,
+  "nesparovano": 2020,
   "nesparovano_nove": 0,
   "tiskarny_preznaceny": 0,
   "tiskarny_slouceno": 0,

@@ -1578,7 +1578,6 @@
 /lexmark-originalni-toner-c232hm0-magenta-2300str-high-capacity-return
 /lexmark-originalni-toner-c250u10-black-8000str-ultra-high-capacity
 /lexmark-originalni-toner-c252uk0-black-8000str-ultra-high-capacity-return
-/lexmark-originalni-toner-c320010-black-1500str
 /lexmark-originalni-toner-c330h20-cyan-2500str-high-capacity
 /lexmark-originalni-toner-c330h40-yellow-2500str-high-capacity
 /lexmark-originalni-toner-c342xc0-cyan-4500str-return
