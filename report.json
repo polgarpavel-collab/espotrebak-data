@@ -1,50 +1,207 @@
 {
- "datum": "2026-11-27",
+ "datum": "2026-11-28",
  "odebrano": [
-  "G&G kompatibilní toner s Canon 057H, NT-PC057X, black, 10000str., POZOR bez čipu, high capacity"
+  "HP originální ink 51645AE, HP 45, black, 930str., 42ml",
+  "Xerox kompatibilní toner s CE251A, cyan, 7000str.",
+  "Xerox kompatibilní toner s CE252A, yellow, 7000str.",
+  "Xerox kompatibilní toner s CE253A, magenta, 7000str.",
+  "Kompatibilní toner s CE310A, H.310/H.350AB, black, 1200str.",
+  "Kompatibilní toner s CE311A, H311/H.351AC, cyan, 1000str.",
+  "Kompatibilní toner s CE312A, H.312/H.352AY, yellow, 1000str.",
+  "Kompatibilní toner s CE313A, H313/H.353AM, magenta, 1000str.",
+  "Xerox kompatibilní toner s CE390A, black, 10000str.",
+  "Kompatibilní toner s CF287A, H.87A, black, 9000str.",
+  "Kompatibilní toner s CF410A, H.410AB, black, 2300str.",
+  "G&G kompatibilní toner s HP CF542A, NT-PH203Y, HP 203A, yellow, 1300str.",
+  "Kompatibilní toner s Q2613X, H.15X/13X/24X/EP25, black, 3500str.",
+  "G&G kompatibilní toner s HP W1350A, NT-PH1350C, HP 135, black, 1100str.",
+  "G&G kompatibilní toner s HP W1350X, NT-PH1350, HP 135, black, 2400str., high capacity",
+  "G&G kompatibilní toner s HP W1390X, NT-PH1390XC, black",
+  "G&G kompatibilní toner s HP W1420A, NT-PH1420C, black, 950str.",
+  "G&G kompatibilní toner s HP W1420A, NT-PH1420LC, black, 2000str.",
+  "G&G kompatibilní toner s HP W1490A, NT-PH1490C, black",
+  "G&G kompatibilní toner s HP W1490X, NT-PH1490XC, black",
+  "Xerox kompatibilní toner s W2070A, HP 117A, black, 1000str.",
+  "Xerox kompatibilní toner s W2073A, HP 117A, magenta, 700str.",
+  "G&G kompatibilní ink s LC-427XLBK, NP-B-0427XLBK, black",
+  "G&G kompatibilní ink s LC-427XLC, NP-B-0427XLC, cyan",
+  "G&G kompatibilní ink s LC-427XLM, NP-B-0427XLM, magenta",
+  "G&G kompatibilní ink s LC-427XLY, NP-B-0427XLY, yellow",
+  "HP originální ink C8727AE, po expiraci typ HP 27, black, 10ml",
+  "Canon originální toner C-EXV50 BK, 9436B002_P, black, 17600str., bez čipu",
+  "Katun Performance kompatibilní toner s Canon 041HBK, 0453C002, black, 20000str., high capacity",
+  "Katun Performance kompatibilní toner s Canon 045HBK, 1246C002, black, 2800str., high capacity",
+  "Katun Performance kompatibilní toner s Canon 045HC, 1245C002, cyan, 2200str., high capacity",
+  "Katun Performance kompatibilní toner s Canon 045HM, 1244C002, magenta, 2200str., high capacity",
+  "Katun Performance kompatibilní toner s Canon 045HY, 1243C002, yellow, 2200str., high capacity",
+  "Katun Performance kompatibilní toner s Canon FX7, 7621A002, black, 4500str.",
+  "Katun Performance kompatibilní toner s HP CE250X, Canon 2645B002, HP 504X, CRG723H, black, 10500str., CE250X",
+  "Katun Performance kompatibilní toner s HP CE251A, Canon 2643B002, HP 504A, CRG723C, cyan, 7000str., CE251A",
+  "Katun Performance kompatibilní toner s HP CE252A, Canon 2641B002, HP 504A, CRG723Y, yellow, 7000str., CE252A",
+  "Katun Performance kompatibilní toner s HP CE253A, Canon 2642B002, HP 504A, CRG723M, magenta, 7000str., CE253A",
+  "Katun Performance kompatibilní toner s HP CE255A, HP 55A, black, 6000str., CE255A",
+  "Katun Performance kompatibilní toner s HP CE255X, HP 55X, black, 12500str., CE255X",
+  "Katun Performance kompatibilní toner s HP CE260X, HP 649X, black, 17000str., high capacity, CE260X",
+  "Katun Performance kompatibilní toner s HP CE261A, HP 648A, cyan, 11000str., CE261A",
+  "Katun Performance kompatibilní toner s HP CE262A, HP 648A, yellow, 11000str., CE262A",
+  "Katun Performance kompatibilní toner s HP CE263A, HP 648A, magenta, 11000str., CE263A",
+  "Katun Performance kompatibilní toner s HP CE400X, HP 507X, black, 11000str., CE400X",
+  "Katun Performance kompatibilní toner s HP CE401A, HP 507A, cyan, 6000str., CE401A",
+  "Katun Performance kompatibilní toner s HP CE402A, HP 507A, yellow, 6000str., CE402A",
+  "Katun Performance kompatibilní toner s HP CE403A, HP 507A, magenta, 6000str., CE403A",
+  "Katun Performance kompatibilní toner s HP CE505X, HP 05X, black, 6500str., old: 37485, high capacity, CE505X",
+  "Katun Performance kompatibilní toner s HP CF217A, HP 17A, black, 1600str., CF217A",
+  "Katun Performance kompatibilní toner s HP CF226A, HP 26A, black, 3100str., 700g, CF226A",
+  "Katun Performance kompatibilní toner s HP CF230A, HP 30A, black, 1600str., CF230A",
+  "Katun Performance kompatibilní toner s HP CF230X, HP 30X, black, 3500str., high capacity, CF230X",
+  "Katun Performance kompatibilní toner s HP CF237A, HP 37A, black, 11000str., CF237A",
+  "Katun Select kompatibilní toner s HP CF237A, HP 37A, black, 11000str., CF237A",
+  "Katun Performance kompatibilní toner s HP CF279A, HP 79A, black, 1000str., CF279A",
+  "Katun Performance kompatibilní toner s HP CF280X, HP 80X, black, 6900str., 1050g, CF280X",
+  "Katun Performance kompatibilní toner s HP CF281X, HP 81X, black, 25000str., CF281X",
+  "Katun Performance kompatibilní toner s HP CF283A, HP 83A, black, 1500str., 830g, CF283A",
+  "Katun Performance kompatibilní toner s HP CF287A, HP 87A, black, 8550str., 930g, CF287A",
+  "Katun Performance kompatibilní toner s HP CF287X, HP 87X, black, 18000str., high capacity, 1230g, CF287X",
+  "Katun Performance kompatibilní toner s HP CF325X, HP 25X, black, 40000str., CF325X",
+  "Katun Performance kompatibilní toner s HP CF360A, HP 508A, black, 6000str., 2850g, CF360A",
+  "Katun Performance kompatibilní toner s HP CF361A, HP 508A, cyan, 5000str., 860g, CF361A",
+  "Katun Performance kompatibilní toner s HP CF362A, HP 508A, yellow, 5000str., 860g, CF362A",
+  "Katun Performance kompatibilní toner s HP CF363A, HP 508A, magenta, 5000str., 860g, CF363A",
+  "Katun Performance kompatibilní toner s HP CF400X, HP 201X, black, 2800str., 770g, CF400X",
+  "Katun Performance kompatibilní toner s HP CF401X, HP 201X, cyan, 2300str., 770g, CF401X",
+  "Katun Performance kompatibilní toner s HP CF402X, HP 201X, yellow, 2300str., 770g, CF402X",
+  "Katun Performance kompatibilní toner s HP CF403X, HP 201X, magenta, 2300str., 770g, CF403X",
+  "Katun Performance kompatibilní toner s HP CF410X, HP 410X, black, 6500str., high capacity, 680g, CF410X",
+  "Katun Performance kompatibilní toner s HP CF411X, HP 410X, cyan, 5000str., high capacity, 650g, CF411X",
+  "Katun Performance kompatibilní toner s HP CF412X, HP 410X, yellow, 5000str., high capacity, 650g, CF412X",
+  "Katun Performance kompatibilní toner s HP CF413X, HP 410X, magenta, 5000str., high capacity, 650g, CF413X",
+  "Katun Performance kompatibilní toner s HP CF530A, HP 205A, black, 1100str., CF530A",
+  "Katun Performance kompatibilní toner s HP CF531A, HP 205A, cyan, 900str., CF531A",
+  "Katun Performance kompatibilní toner s HP CF532A, HP 205A, yellow, 900str., CF532A",
+  "Katun Performance kompatibilní toner s HP CF533A, HP 205A, magenta, 900str., CF533A",
+  "Katun Performance kompatibilní toner s HP Q6473A, HP 502A, magenta, 4000str., Q6473A",
+  "Katun Performance kompatibilní toner s Brother TN2120, black, 2600str.",
+  "Katun Performance kompatibilní toner s Brother TN230C, cyan, 1400str.",
+  "Katun Performance kompatibilní toner s Brother TN230M, magenta, 1400str.",
+  "Katun Performance kompatibilní toner s Brother TN2421, TN2420, black, 3000str.",
+  "Katun Performance kompatibilní toner s Brother TN325M, magenta, 3500str.",
+  "Katun Performance kompatibilní toner s Brother TN325Y, yellow, 3500str.",
+  "Katun Performance kompatibilní toner s Brother TN326C, cyan, 3500str.",
+  "Katun Performance kompatibilní toner s Brother TN326Y, yellow, 3500str.",
+  "Katun Performance kompatibilní toner s Canon CEXV22, 1872B002, black, 48000str.",
+  "Katun Performance kompatibilní toner s Canon CEXV29C, 2794B002, cyan, 484g",
+  "Katun Performance kompatibilní toner s Canon CEXV29M, 2798B002, magenta, 484g",
+  "Katun Performance kompatibilní toner s Canon CEXV29Y, 2802B002, yellow, 484g",
+  "Katun Performance kompatibilní toner s Canon CEXV34K, 3782B002, black, 23000str., 420g",
+  "Katun Performance kompatibilní toner s Canon CEXV34C, 3783B002, cyan, 19000str., 270g",
+  "Katun Performance kompatibilní toner s Canon CEXV34Y, 3785B002, yellow, 19000str., 270g",
+  "Katun Performance kompatibilní toner s Canon CEXV38, 4791B002, black, 34200str.",
+  "Katun Performance kompatibilní toner s Canon CEXV47C, 8517B002, cyan, 21500str.",
+  "Katun Performance kompatibilní toner s Canon CEXV47M, 8518B002, magenta, 21500str.",
+  "Katun Performance kompatibilní toner s Canon CEXV47Y, 8519B002, yellow, 21500str.",
+  "Katun Performance kompatibilní toner s Canon CEXV48K, 9106B002, black, 16500str., 318g",
+  "Katun Performance kompatibilní toner s Canon CEXV48C, 9107B002, cyan, 11500str., 197g",
+  "Katun Performance kompatibilní toner s Canon CEXV48M, 9108B002, magenta, 11500str., 197g",
+  "Katun Performance kompatibilní toner s Canon CEXV48Y, 9109B002, yellow, 11500str., 197g",
+  "Katun Performance kompatibilní toner s Canon CEXV49K, 8524B002, black, 36000str., 790g",
+  "Katun Performance kompatibilní toner s Canon CEXV49C, 8525B002, cyan, 19000str., 463g",
+  "Katun Performance kompatibilní toner s Canon CEXV49M, 8526B002, magenta, 19000str., 463g",
+  "Katun Performance kompatibilní toner s Canon CEXV49Y, 8527b002, yellow, 19000str., 463g",
+  "Katun Performance kompatibilní toner s Canon CEXV51C, 0482C002, cyan, 60000str., 681g",
+  "Katun Performance kompatibilní toner s Canon CEXV51M, 0483C002, magenta, 60000str., 681g",
+  "Katun Performance kompatibilní toner s Canon CEXV51Y, 0484C002, yellow, 60000str., 681g",
+  "HP originální ink F6V25AE, po expiraci typ HP 652, black, 360str.",
+  "G&G kompatibilní toner s 067 H M, 5104C002, magenta, 2350str., high capacity",
+  "Canon kompatibilní toner s 067 H Y, 5103C002, yellow, 2350str., high capacity",
+  "Katun Performance kompatibilní toner s HP CE505A, HP 05A, black, 2300str., CE505A",
+  "G&G kompatibilní toner s HP CF259X, NT-PH259X, HP 59X, black, 10000str., POZOR bez čipu",
+  "G&G kompatibilní toner s 067 H C, 5105C002, cyan, 2350str., high capacity",
+  "G&G kompatibilní toner s 067 H BK, 5106C002, black, 3130str., high capacity",
+  "G&G kompatibilní toner s HP CF383A, NT-PHF383M, HP 312A, magenta, 2700str.",
+  "G&G kompatibilní toner s HP W1420A, NT-PH1420C, black, 950str.",
+  "Canon originální toner 057 H BK, 3010C002, black, 10000str., poškozený obal typ high capacity",
+  "Canon originální toner 737 BK, 9435B002, black, 2400str.",
+  "Canon originální toner C-EXV14 BK, 0384B006, black, 8300str., poškozený obal typ 1ks v balení, 460g",
+  "Epson originální ink C13T75444N, T7544, XXL, yellow, 69ml",
+  "G&G kompatibilní toner s Canon 057H, NT-PC057X, black, 10000str., high capacity",
+  "G&G kompatibilní toner s HP CF281X, NT-PH281XWC, HP 81X, black, 25000str.",
+  "HP originální toner W2412A, HP 216A, yellow, 850str.",
+  "G&G kompatibilní toner s HP CE410A, NT-PH305BK(CE410A), HP 305A, black, 2090str.",
+  "Canon originální toner C-EXV21 C, 0453B002, cyan, 14000str., 260g",
+  "G&G kompatibilní toner s HP CF279A, NT-PH279LC, black, 1000str.",
+  "G&G kompatibilní toner s Canon 045HY, NT-PC045XY, yellow, 2200str.",
+  "Katun Select kompatibilní toner s HP CB435A, CB436A, Canon 1870B002, 3484B002, HP 35A, HP 36A, CRG712, CRG725, black, 1500str., CB",
+  "Canon originální ink CLI-551XL BK/C/M/Y PHOTO VALUE, 6443B008, CMYK",
+  "Canon originální ink PGI-2500 BK/C/M/Y MULTI, 9290B006, CMYK",
+  "Canon originální ink PGI-2500XL BK TWIN, 9254B011, black",
+  "Xerox originální toner 106R02308, black, 2300str.",
+  "Canon originální ink PG-540Lx2/CL-541XL, CMYK",
+  "Canon originální ink PG-545XLx2/CL-546XL, CMYK",
+  "Canon originální ink PG-560XLx2/CL-561XL MULTI, 3712C009, CMYK",
+  "Canon originální ink PFI-300 CO, 4201C001, chroma optimizer, 14,4ml",
+  "Canon originální ink PFI-300 C, 4194C001, cyan, 14,4ml",
+  "Canon originální ink PFI-300 M, 4195C001, magenta, 14,4ml",
+  "Canon originální ink PFI-300 R, 4199C001, red, 14,4ml",
+  "Canon originální ink PFI-300 Y, 4196C001, yellow, 14,4ml",
+  "Canon originální ink PG-545XL/CL-546XL PHOTO VALUE, 8286B012, CMYK",
+  "Canon originální ink PGI-525 BK TWIN, 4529B017, black",
+  "Epson originální ink C13T33374011, T33, CMYK, 6,4/4x4,5ml",
+  "Katun Business Ink kompatibilní ink s F6U16AE, HP 953XL, cyan, 1600str., 20ml, high capacity",
+  "Allprint kompatibilní ink s N9K08AE, HP 304XL, black, 20ml, DOPRODEJ",
+  "Xerox originální toner 006R04360, black, 3000str.",
+  "Xerox originální toner 006R04361, cyan, 2000str.",
+  "Xerox originální toner 006R04362, magenta, 2000str.",
+  "Xerox originální toner 006R04363, yellow, 2000str.",
+  "Canon originální ink PG-510/CL-511 PVP, 2970B017, color",
+  "Katun Performance kompatibilní toner s Lexmark C544X1KG, C544X2KG, black, 6000str., extra high capacity, return",
+  "Katun Performance kompatibilní toner s Lexmark C544X1CG, C544X2CG, cyan, 4000str., extra high capacity, return",
+  "Katun Performance kompatibilní toner s Lexmark C544X1MG, C544X2MG, magenta, 4000str., extra high capacity, return",
+  "Katun Performance kompatibilní toner s Lexmark C544X1YG, C544X2YG, yellow, 4000str., extra high capacity, return",
+  "Katun Performance kompatibilní toner s Lexmark 24B6010, 24B6010, yellow, 3000str., high capacity",
+  "Katun Performance kompatibilní toner s Lexmark 24B6008, 24B6008, cyan, 3000str., high capacity",
+  "Katun Performance kompatibilní toner s Lexmark 24B6009, 24B6009, magenta, 3000str., high capacity",
+  "Katun Performance kompatibilní toner s Lexmark 24B6011, 24B6011, black, 6000str., high capacity",
+  "Katun Performance kompatibilní toner s Lexmark 24B6186, black, 16000str., return",
+  "Katun Performance kompatibilní toner s Lexmark 24B6213, black, 10000str., return",
+  "Katun Performance kompatibilní toner s Lexmark 50F0HA0, 50F2U00, 500HA, black, 5000str., high capacity",
+  "Katun Performance kompatibilní toner s Lexmark 51B2H00, black, 8500str.",
+  "Katun Performance kompatibilní toner s Lexmark 51B2X00, black, 20000str., return",
+  "Katun Performance kompatibilní toner s Lexmark 53B0HA0, 53B2H00, black, 25000str., high capacity",
+  "Katun Performance kompatibilní toner s Lexmark 53B2000, black, 11000str.",
+  "Katun Performance kompatibilní toner s Lexmark 64036HE, 64016HE, X644H11E, X644H21E, black, 21000str.",
+  "Katun Performance kompatibilní toner s Lexmark 70C2HC0, cyan, 3000str., high capacity, return",
+  "Katun Performance kompatibilní toner s Lexmark 70C2HK0, black, 4000str., high capacity, return",
+  "Katun Performance kompatibilní toner s Lexmark 70C2HM0, magenta, 3000str., high capacity, return",
+  "Katun Performance kompatibilní toner s Lexmark 70C2HY0, yellow, 3000str., high capacity, return",
+  "Katun Performance kompatibilní toner s Lexmark 71B20K0, black, 3000str.",
+  "Katun Performance kompatibilní toner s Lexmark 71B20M0, magenta, 2300str.",
+  "Katun Performance kompatibilní toner s Lexmark 71B20Y0, yellow",
+  "Katun Performance kompatibilní toner s Lexmark 71B2HC0, cyan, 3500str.",
+  "Katun Performance kompatibilní toner s Lexmark 71B2HY0, yellow, 3500str.",
+  "Katun Performance kompatibilní toner s Lexmark 80C2HC0, cyan, 3000str., return",
+  "Katun Performance kompatibilní toner s Lexmark 80C2HK0, black, 4000str., return",
+  "Katun Performance kompatibilní toner s Lexmark 80C2HM0, magenta, 3000str., return",
+  "Katun Performance kompatibilní toner s Lexmark 80C2HY0, yellow, 3000str., return",
+  "Katun Performance kompatibilní toner s Lexmark 80C2SC0, cyan, 2000str., return",
+  "Katun Performance kompatibilní toner s Lexmark 80C2SK0, black, 2500str., return",
+  "Katun Performance kompatibilní toner s Lexmark 80C2SM0, magenta, 2000str., return",
+  "Katun Performance kompatibilní toner s Lexmark 80C2SY0, yellow, 2000str., return",
+  "Katun Performance kompatibilní toner s Lexmark E260A11E, E360H11E, E360H21E, E460X11E, E4, black, 3500str., return",
+  "Allprint kompatibilní toner s Lexmark X950X2YG, yellow, 24000str., extra high capacity",
+  "Katun Performance kompatibilní toner s Xerox 106R02229, cyan, 6000str., high capacity",
+  "HP originální toner W2030XR, HP 415X, black, 7500str., high capacity",
+  "Canon originální ink PGI-520 BK TWIN, 2932B019, black",
+  "Katun Performance kompatibilní toner s Xerox 106R02231, yellow, 6000str., high capacity, DOPRODEJ",
+  "Canon originální toner 041 H BK, 0453C004, black, 20000str., high capacity",
+  "HP originální ink 3YL81AE, po expiraci typ HP 912XL, high capacity, cyan, 700str., 8.5ml",
+  "Canon originální ink PFI-5100 10ink multi pack, 6951C009, multi color pack 10 ink, 10-pack",
+  "G&G kompatibilní toner s HP W1106A, NT-PH1106XXLC, HP 106A, black, 5000str., high capacity, DOPRODEJ",
+  "Neutre kompatibilní toner s HP CF211A, Canon CRG731, H.131ACE, cyan, 1400str., DOPRODEJ",
+  "G&G kompatibilní ink s C9351A, HP 21XL, NH-R9351BK(HP21), black, 475str., DOPRODEJ",
+  "Xerox kompatibilní toner s W2071A, HP 117A, cyan, 700str., DOPRODEJ"
  ],
  "pridano": [],
  "nesparovano": [
-  {
-   "n": "G&G kompatibilní toner s Canon 069BKH, NT-CC069XBK, black, high capacity",
-   "u": "/g-g-kompatibilni-toner-s-canon-069bkh-nt-cc069xbk-black-high-capacity",
-   "kody": [
-    "069BKH",
-    "NTCC069XBK"
-   ]
-  },
-  {
-   "n": "G&G kompatibilní toner s Canon 069CH, NT-CC069XC, cyan, high capacity",
-   "u": "/g-g-kompatibilni-toner-s-canon-069ch-nt-cc069xc-cyan-high-capacity",
-   "kody": [
-    "069CH",
-    "NTCC069XC"
-   ]
-  },
-  {
-   "n": "G&G kompatibilní toner s Canon 069MH, NT-CC069XM, magenta, high capacity",
-   "u": "/g-g-kompatibilni-toner-s-canon-069mh-nt-cc069xm-magenta-high-capacity",
-   "kody": [
-    "069MH",
-    "NTCC069XM"
-   ]
-  },
-  {
-   "n": "G&G kompatibilní toner s Canon 069YH, NT-CC069XY, yellow, high capacity",
-   "u": "/g-g-kompatibilni-toner-s-canon-069yh-nt-cc069xy-yellow-high-capacity",
-   "kody": [
-    "069YH",
-    "NTCC069XY"
-   ]
-  },
-  {
-   "n": "G&G kompatibilní toner s Canon 069Y, NT-CC069Y, yellow",
-   "u": "/g-g-kompatibilni-toner-s-canon-069y-nt-cc069y-yellow",
-   "kody": [
-    "069Y",
-    "NTCC069Y"
-   ]
-  },
   {
    "n": "Canon originální toner 073 BK, 5724C001, black, 27000str.",
    "u": "/canon-originalni-toner-073-bk-5724c001-black-27000str",
@@ -74,14 +231,6 @@
    "u": "/epson-originalni-toner-c13s050523-black-3200str-return",
    "kody": [
     "C13S050523"
-   ]
-  },
-  {
-   "n": "Kompatibilní toner s C13S050709, E.0709, black, 2500str.",
-   "u": "/kompatibilni-toner-s-c13s050709-e-0709-black-2500str",
-   "kody": [
-    "C13S050709",
-    "E0709"
    ]
   },
   {
@@ -145,13 +294,6 @@
    "kody": [
     "HP309A",
     "Q2672A"
-   ]
-  },
-  {
-   "n": "Xerox kompatibilní toner s Q7582A, yellow, 6000str.",
-   "u": "/xerox-kompatibilni-toner-s-q7582a-yellow-6000str",
-   "kody": [
-    "Q7582A"
    ]
   },
   {
@@ -360,15 +502,6 @@
     "C404S",
     "CLTC404S",
     "ST966A"
-   ]
-  },
-  {
-   "n": "HP originální toner ST984A, CLT-C406S, C406S, cyan, 1000str., poškozený obal typ B",
-   "u": "/hp-originalni-toner-st984a-clt-c406s-c406s-cyan-1000str-poskozeny-obal-typ-b",
-   "kody": [
-    "C406S",
-    "CLTC406S",
-    "ST984A"
    ]
   },
   {
@@ -837,15 +970,6 @@
    ]
   },
   {
-   "n": "HP originální toner SV128A, MLT-P208A, 208A, black, 10000str., Dual pack",
-   "u": "/hp-originalni-toner-sv128a-mlt-p208a-208a-black-10000str-dual-pack",
-   "kody": [
-    "208A",
-    "MLTP208A",
-    "SV128A"
-   ]
-  },
-  {
    "n": "HP originální toner SV131A, MLT-P309E, 309E, black, 80000str., extra high capacity, dual pack, DOPRODEJ",
    "u": "/hp-originalni-toner-sv131a-mlt-p309e-309e-black-80000str-extra-high-capacity-dual-pack-doprodej",
    "kody": [
@@ -878,14 +1002,6 @@
     "D6555A",
     "SCXD6555A",
     "SV208A"
-   ]
-  },
-  {
-   "n": "HP originální toner W1331A, HP 331A, black, 5000str.",
-   "u": "/hp-originalni-toner-w1331a-hp-331a-black-5000str",
-   "kody": [
-    "HP331A",
-    "W1331A"
    ]
   },
   {
@@ -1025,153 +1141,6 @@
    ]
   },
   {
-   "n": "HP originální toner W2130A, HP 213A, black, 3500str.",
-   "u": "/hp-originalni-toner-w2130a-hp-213a-black-3500str",
-   "kody": [
-    "HP213A",
-    "W2130A"
-   ]
-  },
-  {
-   "n": "HP originální toner W2130X, HP 213X, black, 9000str., high capacity",
-   "u": "/hp-originalni-toner-w2130x-hp-213x-black-9000str-high-capacity",
-   "kody": [
-    "HP213X",
-    "W2130X"
-   ]
-  },
-  {
-   "n": "HP originální toner W2130Y, HP 213Y, black, 18000str.",
-   "u": "/hp-originalni-toner-w2130y-hp-213y-black-18000str",
-   "kody": [
-    "HP213Y",
-    "W2130Y"
-   ]
-  },
-  {
-   "n": "HP originální toner W2131A, HP 213A, cyan, 3000str.",
-   "u": "/hp-originalni-toner-w2131a-hp-213a-cyan-3000str",
-   "kody": [
-    "HP213A",
-    "W2131A"
-   ]
-  },
-  {
-   "n": "HP originální toner W2131X, HP 213X, cyan, 6000str., high capacity, LJ Enterprise Flow MFP 6800\"",
-   "u": "/hp-originalni-toner-w2131x-hp-213x-cyan-6000str-high-capacity-lj-enterprise-flow-mfp-6800",
-   "kody": [
-    "6800\"",
-    "HP213X",
-    "W2131X"
-   ]
-  },
-  {
-   "n": "HP originální toner W2131Y, HP 213Y, cyan, 12000str., extra high capacity, DesignJet D5800\"",
-   "u": "/hp-originalni-toner-w2131y-hp-213y-cyan-12000str-extra-high-capacity-designjet-d5800",
-   "kody": [
-    "D5800\"",
-    "HP213Y",
-    "W2131Y"
-   ]
-  },
-  {
-   "n": "HP originální toner W2132A, HP 213A, yellow, 3000str.",
-   "u": "/hp-originalni-toner-w2132a-hp-213a-yellow-3000str",
-   "kody": [
-    "HP213A",
-    "W2132A"
-   ]
-  },
-  {
-   "n": "HP originální toner W2132X, HP 213X, yellow, 6000str., high capacity",
-   "u": "/hp-originalni-toner-w2132x-hp-213x-yellow-6000str-high-capacity",
-   "kody": [
-    "HP213X",
-    "W2132X"
-   ]
-  },
-  {
-   "n": "HP originální toner W2132Y, HP 213Y, yellow, 12000str., LJ Enterprise Flow MFP 6800\"",
-   "u": "/hp-originalni-toner-w2132y-hp-213y-yellow-12000str-lj-enterprise-flow-mfp-6800",
-   "kody": [
-    "6800\"",
-    "HP213Y",
-    "W2132Y"
-   ]
-  },
-  {
-   "n": "HP originální toner W2133A, HP 213A, magenta, 3000str.",
-   "u": "/hp-originalni-toner-w2133a-hp-213a-magenta-3000str",
-   "kody": [
-    "HP213A",
-    "W2133A"
-   ]
-  },
-  {
-   "n": "HP originální toner W2133X, HP 213X, magenta, 6000str., high capacity",
-   "u": "/hp-originalni-toner-w2133x-hp-213x-magenta-6000str-high-capacity",
-   "kody": [
-    "HP213X",
-    "W2133X"
-   ]
-  },
-  {
-   "n": "HP originální toner W2133Y, HP 213Y, magenta, 12000str., DesignJet D5800\"",
-   "u": "/hp-originalni-toner-w2133y-hp-213y-magenta-12000str-designjet-d5800",
-   "kody": [
-    "D5800\"",
-    "HP213Y",
-    "W2133Y"
-   ]
-  },
-  {
-   "n": "HP originální toner W2140Z, HP 214Z, black, 31000str.",
-   "u": "/hp-originalni-toner-w2140z-hp-214z-black-31000str",
-   "kody": [
-    "HP214Z",
-    "W2140Z"
-   ]
-  },
-  {
-   "n": "HP originální toner W2141Z, HP 214Z, cyan, 26000str.",
-   "u": "/hp-originalni-toner-w2141z-hp-214z-cyan-26000str",
-   "kody": [
-    "HP214Z",
-    "W2141Z"
-   ]
-  },
-  {
-   "n": "HP originální toner W2142Z, HP 214Z, yellow, 26000str.",
-   "u": "/hp-originalni-toner-w2142z-hp-214z-yellow-26000str",
-   "kody": [
-    "HP214Z",
-    "W2142Z"
-   ]
-  },
-  {
-   "n": "HP originální toner W2143Z, HP 214Z, magenta, 26000str.",
-   "u": "/hp-originalni-toner-w2143z-hp-214z-magenta-26000str",
-   "kody": [
-    "HP214Z",
-    "W2143Z"
-   ]
-  },
-  {
-   "n": "HP originální toner W2170Z, HP 217Z, black, 32000str.",
-   "u": "/hp-originalni-toner-w2170z-hp-217z-black-32000str",
-   "kody": [
-    "HP217Z",
-    "W2170Z"
-   ]
-  },
-  {
-   "n": "IBM originální toner 39V1644, black, 11000str., return, DOPRODEJ",
-   "u": "/ibm-originalni-toner-39v1644-black-11000str-return-doprodej",
-   "kody": [
-    "39V1644"
-   ]
-  },
-  {
    "n": "Lexmark originální toner 12040SE, black, 2000str.",
    "u": "/lexmark-originalni-toner-12040se-black-2000str",
    "kody": [
@@ -1249,41 +1218,6 @@
    ]
   },
   {
-   "n": "Lexmark originální toner 24B6020, black, 35000str.",
-   "u": "/lexmark-originalni-toner-24b6020-black-35000str",
-   "kody": [
-    "24B6020"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 24B6326, black, 25000str., high capacity, return",
-   "u": "/lexmark-originalni-toner-24b6326-black-25000str-high-capacity-return",
-   "kody": [
-    "24B6326"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 24B6516, cyan, 10000str., high capacity, return",
-   "u": "/lexmark-originalni-toner-24b6516-cyan-10000str-high-capacity-return",
-   "kody": [
-    "24B6516"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 24B6719, 24B6719, yellow",
-   "u": "/lexmark-originalni-toner-24b6719-24b6719-yellow",
-   "kody": [
-    "24B6719"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 24B6888, black, 21000str.",
-   "u": "/lexmark-originalni-toner-24b6888-black-21000str",
-   "kody": [
-    "24B6888"
-   ]
-  },
-  {
    "n": "Lexmark originální toner 24B6890, black, 21000str.",
    "u": "/lexmark-originalni-toner-24b6890-black-21000str",
    "kody": [
@@ -1333,31 +1267,10 @@
    ]
   },
   {
-   "n": "Lexmark originální toner 24B7184, yellow, 6000str.",
-   "u": "/lexmark-originalni-toner-24b7184-yellow-6000str",
-   "kody": [
-    "24B7184"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 24B7185, black, 9000str.",
-   "u": "/lexmark-originalni-toner-24b7185-black-9000str",
-   "kody": [
-    "24B7185"
-   ]
-  },
-  {
    "n": "Lexmark originální toner 24B7499, cyan, 6000str.",
    "u": "/lexmark-originalni-toner-24b7499-cyan-6000str",
    "kody": [
     "24B7499"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 24B7500, magenta, 6000str.",
-   "u": "/lexmark-originalni-toner-24b7500-magenta-6000str",
-   "kody": [
-    "24B7500"
    ]
   },
   {
@@ -1379,13 +1292,6 @@
    "u": "/lexmark-originalni-toner-34040hw-black-6000str",
    "kody": [
     "34040HW"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 52D2X0E, black, 45000str., high capacity",
-   "u": "/lexmark-originalni-toner-52d2x0e-black-45000str-high-capacity",
-   "kody": [
-    "52D2X0E"
    ]
   },
   {
@@ -1424,116 +1330,10 @@
    ]
   },
   {
-   "n": "Lexmark originální toner 56F2X00, 56F2X, black, 20000str., extra high capacity, return",
-   "u": "/lexmark-originalni-toner-56f2x00-56f2x-black-20000str-extra-high-capacity-return",
-   "kody": [
-    "56F2X",
-    "56F2X00"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 56F2X0E, black, 20000str., corporate cartridge, extra high capacity",
-   "u": "/lexmark-originalni-toner-56f2x0e-black-20000str-corporate-cartridge-extra-high-capacity",
-   "kody": [
-    "56F2X0E"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 58D2000, black, 7500str., return",
-   "u": "/lexmark-originalni-toner-58d2000-black-7500str-return",
-   "kody": [
-    "58D2000"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 58D2H00, black, 15000str., high capacity, return",
-   "u": "/lexmark-originalni-toner-58d2h00-black-15000str-high-capacity-return",
-   "kody": [
-    "58D2H00"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 58D2H0E, black, 15000str., high capacity, return",
-   "u": "/lexmark-originalni-toner-58d2h0e-black-15000str-high-capacity-return",
-   "kody": [
-    "58D2H0E"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 58D2U00, black, 55000str., ultra high capacity, return",
-   "u": "/lexmark-originalni-toner-58d2u00-black-55000str-ultra-high-capacity-return",
-   "kody": [
-    "58D2U00"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 58D2U0E, black, 55000str., ultra high capacity",
-   "u": "/lexmark-originalni-toner-58d2u0e-black-55000str-ultra-high-capacity",
-   "kody": [
-    "58D2U0E"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 58D2X0E, black, 35000str., extra high capacity, return",
-   "u": "/lexmark-originalni-toner-58d2x0e-black-35000str-extra-high-capacity-return",
-   "kody": [
-    "58D2X0E"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 60F200E, black, 2500str.",
-   "u": "/lexmark-originalni-toner-60f200e-black-2500str",
-   "kody": [
-    "60F200E"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 62D2H0E, black, 25000str., High capacity",
-   "u": "/lexmark-originalni-toner-62d2h0e-black-25000str-high-capacity",
-   "kody": [
-    "62D2H0E"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 70C20YE, yellow, 1000str., return",
-   "u": "/lexmark-originalni-toner-70c20ye-yellow-1000str-return",
-   "kody": [
-    "70C20YE"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 70C2HKE, black, 4000str., return",
-   "u": "/lexmark-originalni-toner-70c2hke-black-4000str-return",
-   "kody": [
-    "70C2HKE"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 70C2XCE, cyan, 4000str., extra high capacity",
-   "u": "/lexmark-originalni-toner-70c2xce-cyan-4000str-extra-high-capacity",
-   "kody": [
-    "70C2XCE"
-   ]
-  },
-  {
    "n": "Lexmark originální toner 70C2XM0, magenta, 4000str., extra high capacity, return",
    "u": "/lexmark-originalni-toner-70c2xm0-magenta-4000str-extra-high-capacity-return",
    "kody": [
     "70C2XM0"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 70C2XME, magenta, 4000str., extra high capacity, return",
-   "u": "/lexmark-originalni-toner-70c2xme-magenta-4000str-extra-high-capacity-return",
-   "kody": [
-    "70C2XME"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 70C2XYE, yellow, 4000str., extra high capacity, return",
-   "u": "/lexmark-originalni-toner-70c2xye-yellow-4000str-extra-high-capacity-return",
-   "kody": [
-    "70C2XYE"
    ]
   },
   {
@@ -1548,97 +1348,6 @@
    "u": "/lexmark-originalni-toner-71b0040-yellow-2300str",
    "kody": [
     "71B0040"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 72K2XCE, cyan, 22000str., extra high capacity",
-   "u": "/lexmark-originalni-toner-72k2xce-cyan-22000str-extra-high-capacity",
-   "kody": [
-    "72K2XCE"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 72K2XME, magenta, 22000str., extra high capacity",
-   "u": "/lexmark-originalni-toner-72k2xme-magenta-22000str-extra-high-capacity",
-   "kody": [
-    "72K2XME"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 72K2XYE, yellow, 22000str., extra high capacity",
-   "u": "/lexmark-originalni-toner-72k2xye-yellow-22000str-extra-high-capacity",
-   "kody": [
-    "72K2XYE"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 73B0020, cyan, 15000str.",
-   "u": "/lexmark-originalni-toner-73b0020-cyan-15000str",
-   "kody": [
-    "73B0020"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 73B0030, magenta, 15000str.",
-   "u": "/lexmark-originalni-toner-73b0030-magenta-15000str",
-   "kody": [
-    "73B0030"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 73B0040, yellow, 15000str.",
-   "u": "/lexmark-originalni-toner-73b0040-yellow-15000str",
-   "kody": [
-    "73B0040"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 74C20CE, cyan, 3000str., return",
-   "u": "/lexmark-originalni-toner-74c20ce-cyan-3000str-return",
-   "kody": [
-    "74C20CE"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 74C2HCE, cyan, 12000str., corporate cartridge, high capacity, return",
-   "u": "/lexmark-originalni-toner-74c2hce-cyan-12000str-corporate-cartridge-high-capacity-return",
-   "kody": [
-    "74C2HCE"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 74C2HME, magenta, 12000str., corporate cartridge, high capacity, return",
-   "u": "/lexmark-originalni-toner-74c2hme-magenta-12000str-corporate-cartridge-high-capacity-return",
-   "kody": [
-    "74C2HME"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 74C2HYE, yellow, 12000str., corporate cartridge, high capacity, return",
-   "u": "/lexmark-originalni-toner-74c2hye-yellow-12000str-corporate-cartridge-high-capacity-return",
-   "kody": [
-    "74C2HYE"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 74C2SKE, black, 7000str., corporate cartridge",
-   "u": "/lexmark-originalni-toner-74c2ske-black-7000str-corporate-cartridge",
-   "kody": [
-    "74C2SKE"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 74C2SME, magenta, 7000str., corporate cartridge",
-   "u": "/lexmark-originalni-toner-74c2sme-magenta-7000str-corporate-cartridge",
-   "kody": [
-    "74C2SME"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 74C2SYE, yellow, 7000str., corporate cartridge",
-   "u": "/lexmark-originalni-toner-74c2sye-yellow-7000str-corporate-cartridge",
-   "kody": [
-    "74C2SYE"
    ]
   },
   {
@@ -1663,13 +1372,6 @@
    ]
   },
   {
-   "n": "Lexmark originální toner 76C0HK0, black, 34000str.",
-   "u": "/lexmark-originalni-toner-76c0hk0-black-34000str",
-   "kody": [
-    "76C0HK0"
-   ]
-  },
-  {
    "n": "Lexmark originální toner 78C0X10, black, 8500str., extra high capacity",
    "u": "/lexmark-originalni-toner-78c0x10-black-8500str-extra-high-capacity",
    "kody": [
@@ -1677,80 +1379,10 @@
    ]
   },
   {
-   "n": "Lexmark originální toner 78C20M0, magenta, 1400str., return",
-   "u": "/lexmark-originalni-toner-78c20m0-magenta-1400str-return",
-   "kody": [
-    "78C20M0"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 78C20Y0, yellow, 1400str., return",
-   "u": "/lexmark-originalni-toner-78c20y0-yellow-1400str-return",
-   "kody": [
-    "78C20Y0"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 78C2UC0, cyan, 7000str., ultra high capacity, return",
-   "u": "/lexmark-originalni-toner-78c2uc0-cyan-7000str-ultra-high-capacity-return",
-   "kody": [
-    "78C2UC0"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 78C2UCE, cyan, 7000str., ultra high capacity",
-   "u": "/lexmark-originalni-toner-78c2uce-cyan-7000str-ultra-high-capacity",
-   "kody": [
-    "78C2UCE"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 78C2UME, magenta, 7000str., ultra high capacity",
-   "u": "/lexmark-originalni-toner-78c2ume-magenta-7000str-ultra-high-capacity",
-   "kody": [
-    "78C2UME"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 78C2UYE, yellow, 7000str., ultra high capacity",
-   "u": "/lexmark-originalni-toner-78c2uye-yellow-7000str-ultra-high-capacity",
-   "kody": [
-    "78C2UYE"
-   ]
-  },
-  {
    "n": "Lexmark originální toner 78C2XCE, cyan, 5000str., extra high capacity",
    "u": "/lexmark-originalni-toner-78c2xce-cyan-5000str-extra-high-capacity",
    "kody": [
     "78C2XCE"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 78C2XK0, black, 8500str., extra high capacity, return, 360g",
-   "u": "/lexmark-originalni-toner-78c2xk0-black-8500str-extra-high-capacity-return-360g",
-   "kody": [
-    "78C2XK0"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 78C2XKE, black, 8500str., extra high capacity",
-   "u": "/lexmark-originalni-toner-78c2xke-black-8500str-extra-high-capacity",
-   "kody": [
-    "78C2XKE"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 78C2XME, magenta, 5000str., extra high capacity",
-   "u": "/lexmark-originalni-toner-78c2xme-magenta-5000str-extra-high-capacity",
-   "kody": [
-    "78C2XME"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 78C2XYE, yellow, 5000str., extra high capacity",
-   "u": "/lexmark-originalni-toner-78c2xye-yellow-5000str-extra-high-capacity",
-   "kody": [
-    "78C2XYE"
    ]
   },
   {
@@ -1775,20 +1407,6 @@
    ]
   },
   {
-   "n": "Lexmark originální toner 80C0S40, yellow, 2000str.",
-   "u": "/lexmark-originalni-toner-80c0s40-yellow-2000str",
-   "kody": [
-    "80C0S40"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 80C2HCE, cyan, 3000str.",
-   "u": "/lexmark-originalni-toner-80c2hce-cyan-3000str",
-   "kody": [
-    "80C2HCE"
-   ]
-  },
-  {
    "n": "Lexmark originální toner 80C2XCE, cyan, 4000str.",
    "u": "/lexmark-originalni-toner-80c2xce-cyan-4000str",
    "kody": [
@@ -1810,34 +1428,6 @@
    ]
   },
   {
-   "n": "Lexmark originální toner 82K2XCE, cyan, 22000str., extra high capacity, return",
-   "u": "/lexmark-originalni-toner-82k2xce-cyan-22000str-extra-high-capacity-return",
-   "kody": [
-    "82K2XCE"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 82K2XME, magenta, 22000str., extra high capacity, return",
-   "u": "/lexmark-originalni-toner-82k2xme-magenta-22000str-extra-high-capacity-return",
-   "kody": [
-    "82K2XME"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 82K2XY0, yellow, 22000str.",
-   "u": "/lexmark-originalni-toner-82k2xy0-yellow-22000str",
-   "kody": [
-    "82K2XY0"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner 82K2XYE, yellow, 22000str., extra high capacity, return",
-   "u": "/lexmark-originalni-toner-82k2xye-yellow-22000str-extra-high-capacity-return",
-   "kody": [
-    "82K2XYE"
-   ]
-  },
-  {
    "n": "Lexmark originální toner 84C2HKE, black, 25000str., high capacity, return",
    "u": "/lexmark-originalni-toner-84c2hke-black-25000str-high-capacity-return",
    "kody": [
@@ -1856,13 +1446,6 @@
    "u": "/lexmark-originalni-toner-86c0hk0-black-34000str",
    "kody": [
     "86C0HK0"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner B2300A0, black, 3000str., return",
-   "u": "/lexmark-originalni-toner-b2300a0-black-3000str-return",
-   "kody": [
-    "B2300A0"
    ]
   },
   {
@@ -1936,27 +1519,6 @@
    ]
   },
   {
-   "n": "Lexmark originální toner C232HM0, magenta, 2300str., high capacity, return",
-   "u": "/lexmark-originalni-toner-c232hm0-magenta-2300str-high-capacity-return",
-   "kody": [
-    "C232HM0"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner C250U10, black, 8000str., ultra high capacity",
-   "u": "/lexmark-originalni-toner-c250u10-black-8000str-ultra-high-capacity",
-   "kody": [
-    "C250U10"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner C252UK0, black, 8000str., ultra high capacity, return",
-   "u": "/lexmark-originalni-toner-c252uk0-black-8000str-ultra-high-capacity-return",
-   "kody": [
-    "C252UK0"
-   ]
-  },
-  {
    "n": "Lexmark originální toner C330H20, cyan, 2500str., high capacity",
    "u": "/lexmark-originalni-toner-c330h20-cyan-2500str-high-capacity",
    "kody": [
@@ -1971,20 +1533,6 @@
    ]
   },
   {
-   "n": "Lexmark originální toner C342XC0, cyan, 4500str., return",
-   "u": "/lexmark-originalni-toner-c342xc0-cyan-4500str-return",
-   "kody": [
-    "C342XC0"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner C342XM0, magenta, 4500str., return",
-   "u": "/lexmark-originalni-toner-c342xm0-magenta-4500str-return",
-   "kody": [
-    "C342XM0"
-   ]
-  },
-  {
    "n": "Lexmark originální toner C342XY0, yellow, 4500str., return",
    "u": "/lexmark-originalni-toner-c342xy0-yellow-4500str-return",
    "kody": [
@@ -1996,20 +1544,6 @@
    "u": "/lexmark-originalni-toner-c736h1yg-yellow-10000str-high-capacity-return-doprodej",
    "kody": [
     "C736H1YG"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner C746A3MG, magenta, 7000str.",
-   "u": "/lexmark-originalni-toner-c746a3mg-magenta-7000str",
-   "kody": [
-    "C746A3MG"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner C748H2MG, magenta, 10000str., high capacity, DOPRODEJ",
-   "u": "/lexmark-originalni-toner-c748h2mg-magenta-10000str-high-capacity-doprodej",
-   "kody": [
-    "C748H2MG"
    ]
   },
   {
@@ -2033,13 +1567,6 @@
    "u": "/lexmark-originalni-toner-e260a31e-black-3500str",
    "kody": [
     "E260A31E"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner E352H31E, black, 9000str.",
-   "u": "/lexmark-originalni-toner-e352h31e-black-9000str",
-   "kody": [
-    "E352H31E"
    ]
   },
   {
@@ -2068,13 +1595,6 @@
    "u": "/lexmark-originalni-toner-t654x31e-black-36000str-corporate-cartridge-extra-high-capacity",
    "kody": [
     "T654X31E"
-   ]
-  },
-  {
-   "n": "Lexmark originální toner X746A2CG, cyan, 70000str.",
-   "u": "/lexmark-originalni-toner-x746a2cg-cyan-70000str",
-   "kody": [
-    "X746A2CG"
    ]
   },
   {
@@ -2223,82 +1743,11 @@
    ]
   },
   {
-   "n": "Canon originální ink 0620B027, CMYK, 280str.",
-   "u": "/canon-originalni-ink-0620b027-cmyk-280str",
-   "kody": [
-    "0620B027"
-   ]
-  },
-  {
-   "n": "Canon originální ink GI-53 GY, 4708C001, grey, 3700str.",
-   "u": "/canon-originalni-ink-gi-53-gy-4708c001-grey-3700str",
-   "kody": [
-    "4708C001",
-    "GI53"
-   ]
-  },
-  {
-   "n": "Canon originální ink GI-53 Bk, 4699C001, black, 3700str.",
-   "u": "/canon-originalni-ink-gi-53-bk-4699c001-black-3700str",
-   "kody": [
-    "4699C001",
-    "GI53"
-   ]
-  },
-  {
-   "n": "Canon originální ink GI-53 C, 4673C001, cyan, 3700str.",
-   "u": "/canon-originalni-ink-gi-53-c-4673c001-cyan-3700str",
-   "kody": [
-    "4673C001",
-    "GI53"
-   ]
-  },
-  {
-   "n": "Canon originální ink GI-53 M, 4681C001, magenta, 3700str.",
-   "u": "/canon-originalni-ink-gi-53-m-4681c001-magenta-3700str",
-   "kody": [
-    "4681C001",
-    "GI53"
-   ]
-  },
-  {
-   "n": "Canon originální ink GI-53 R, 4717C001, red, 3700str.",
-   "u": "/canon-originalni-ink-gi-53-r-4717c001-red-3700str",
-   "kody": [
-    "4717C001",
-    "GI53"
-   ]
-  },
-  {
-   "n": "Canon originální ink GI-53 Y, 4690C001, yellow, 3700str.",
-   "u": "/canon-originalni-ink-gi-53-y-4690c001-yellow-3700str",
-   "kody": [
-    "4690C001",
-    "GI53"
-   ]
-  },
-  {
    "n": "Canon originální ink PFI-030 M, 3491C001, magenta, 55ml, DOPRODEJ",
    "u": "/canon-originalni-ink-pfi-030-m-3491c001-magenta-55ml-doprodej",
    "kody": [
     "3491C001",
     "PFI030"
-   ]
-  },
-  {
-   "n": "Canon originální ink PFI-300P M, 4198C001, photo magenta, 14,4ml",
-   "u": "/canon-originalni-ink-pfi-300p-m-4198c001-photo-magenta-14-4ml",
-   "kody": [
-    "4198C001",
-    "PFI300P"
-   ]
-  },
-  {
-   "n": "Canon originální ink PGI 570 XL PGBK Twin Pack, 0318C010, black, 500str., high capacity, 2-pack",
-   "u": "/canon-originalni-ink-pgi-570-xl-pgbk-twin-pack-0318c010-black-500str-high-capacity-2-pack",
-   "kody": [
-    "0318C010",
-    "570"
    ]
   },
   {
@@ -2433,13 +1882,6 @@
    ]
   },
   {
-   "n": "Epson originální ink C13T32404010, gloss optimizer, 14ml",
-   "u": "/epson-originalni-ink-c13t32404010-gloss-optimizer-14ml",
-   "kody": [
-    "C13T32404010"
-   ]
-  },
-  {
    "n": "UPrint kompatibilní ink s C13T347, T347, E-34XL PACK, black/cyan/magenta/yellow, 1x1100+3x950str., 1x23,4+3x14ml",
    "u": "/uprint-kompatibilni-ink-s-c13t347-t347-e-34xl-pack-black/cyan/magenta/yellow-1x1100-3x950str-1x23-4-3x14ml",
    "kody": [
@@ -2467,14 +1909,6 @@
    "u": "/epson-originalni-ink-c13t41e540-matte-black-700ml",
    "kody": [
     "C13T41E540"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T41R34N, T41R340, magenta, 110ml",
-   "u": "/epson-originalni-ink-c13t41r34n-t41r340-magenta-110ml",
-   "kody": [
-    "C13T41R34N",
-    "T41R340"
    ]
   },
   {
@@ -2550,22 +1984,6 @@
    ]
   },
   {
-   "n": "Epson originální ink C13T44Q140, T44Q140, photo black, 350ml, UltraChrome PRO 12",
-   "u": "/epson-originalni-ink-c13t44q140-t44q140-photo-black-350ml-ultrachrome-pro-12",
-   "kody": [
-    "C13T44Q140",
-    "T44Q140"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T44Q240, T44Q240, cyan, 350ml, UltraChrome PRO 12",
-   "u": "/epson-originalni-ink-c13t44q240-t44q240-cyan-350ml-ultrachrome-pro-12",
-   "kody": [
-    "C13T44Q240",
-    "T44Q240"
-   ]
-  },
-  {
    "n": "Epson originální ink C13T44Q440, T44Q440, yellow, 350ml, UltraChrome PRO 12",
    "u": "/epson-originalni-ink-c13t44q440-t44q440-yellow-350ml-ultrachrome-pro-12",
    "kody": [
@@ -2628,13 +2046,6 @@
    ]
   },
   {
-   "n": "Epson originální ink C13T46S30N, magenta",
-   "u": "/epson-originalni-ink-c13t46s30n-magenta",
-   "kody": [
-    "C13T46S30N"
-   ]
-  },
-  {
    "n": "Epson originální ink C13T46S400, yellow",
    "u": "/epson-originalni-ink-c13t46s400-yellow",
    "kody": [
@@ -2646,13 +2057,6 @@
    "u": "/epson-originalni-ink-c13t46s500-light-cyan",
    "kody": [
     "C13T46S500"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T46S60N, vivid light magenta",
-   "u": "/epson-originalni-ink-c13t46s60n-vivid-light-magenta",
-   "kody": [
-    "C13T46S60N"
    ]
   },
   {
@@ -2698,13 +2102,6 @@
    ]
   },
   {
-   "n": "Epson originální ink C13T47A30N, magenta",
-   "u": "/epson-originalni-ink-c13t47a30n-magenta",
-   "kody": [
-    "C13T47A30N"
-   ]
-  },
-  {
    "n": "Epson originální ink C13T47A400, yellow",
    "u": "/epson-originalni-ink-c13t47a400-yellow",
    "kody": [
@@ -2719,24 +2116,10 @@
    ]
   },
   {
-   "n": "Epson originální ink C13T47A60N, light magenta",
-   "u": "/epson-originalni-ink-c13t47a60n-light-magenta",
-   "kody": [
-    "C13T47A60N"
-   ]
-  },
-  {
    "n": "Epson originální ink C13T47A700, gray",
    "u": "/epson-originalni-ink-c13t47a700-gray",
    "kody": [
     "C13T47A700"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T47A80N, matte black",
-   "u": "/epson-originalni-ink-c13t47a80n-matte-black",
-   "kody": [
-    "C13T47A80N"
    ]
   },
   {
@@ -2751,31 +2134,6 @@
    "u": "/epson-originalni-ink-c13t47ad00-violet",
    "kody": [
     "C13T47AD00"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T49H20N, T49H, cyan",
-   "u": "/epson-originalni-ink-c13t49h20n-t49h-cyan",
-   "kody": [
-    "C13T49H20N",
-    "T49H"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T49H300, T49H3, magenta",
-   "u": "/epson-originalni-ink-c13t49h300-t49h3-magenta",
-   "kody": [
-    "C13T49H300",
-    "T49H3"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T49H400, T49H4, yellow6",
-   "u": "/epson-originalni-ink-c13t49h400-t49h4-yellow6",
-   "kody": [
-    "C13T49H400",
-    "T49H4",
-    "YELLOW6"
    ]
   },
   {
@@ -2891,143 +2249,10 @@
    ]
   },
   {
-   "n": "Epson originální ink C13T591100, photo black, 700ml",
-   "u": "/epson-originalni-ink-c13t591100-photo-black-700ml",
-   "kody": [
-    "C13T591100"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T591200, cyan, 700ml",
-   "u": "/epson-originalni-ink-c13t591200-cyan-700ml",
-   "kody": [
-    "C13T591200"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T591300, vivid magenta, 700ml",
-   "u": "/epson-originalni-ink-c13t591300-vivid-magenta-700ml",
-   "kody": [
-    "C13T591300"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T591400, yellow, 700ml",
-   "u": "/epson-originalni-ink-c13t591400-yellow-700ml",
-   "kody": [
-    "C13T591400"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T591500, light cyan, 700ml",
-   "u": "/epson-originalni-ink-c13t591500-light-cyan-700ml",
-   "kody": [
-    "C13T591500"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T591700, light black, 700ml",
-   "u": "/epson-originalni-ink-c13t591700-light-black-700ml",
-   "kody": [
-    "C13T591700"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T591800, matte black, 700ml",
-   "u": "/epson-originalni-ink-c13t591800-matte-black-700ml",
-   "kody": [
-    "C13T591800"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T591900, light light black, 700ml",
-   "u": "/epson-originalni-ink-c13t591900-light-light-black-700ml",
-   "kody": [
-    "C13T591900"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T596C00, white, 350ml",
-   "u": "/epson-originalni-ink-c13t596c00-white-350ml",
-   "kody": [
-    "C13T596C00"
-   ]
-  },
-  {
    "n": "Epson originální ink C13T612100, photo black, 220ml",
    "u": "/epson-originalni-ink-c13t612100-photo-black-220ml",
    "kody": [
     "C13T612100"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T642000, cleaning, 150ml",
-   "u": "/epson-originalni-ink-c13t642000-cleaning-150ml",
-   "kody": [
-    "C13T642000"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T642100, photo black, 150ml",
-   "u": "/epson-originalni-ink-c13t642100-photo-black-150ml",
-   "kody": [
-    "C13T642100"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T642200, cyan, 150ml",
-   "u": "/epson-originalni-ink-c13t642200-cyan-150ml",
-   "kody": [
-    "C13T642200"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T642300, magenta, 150ml",
-   "u": "/epson-originalni-ink-c13t642300-magenta-150ml",
-   "kody": [
-    "C13T642300"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T642400, yellow, 150ml",
-   "u": "/epson-originalni-ink-c13t642400-yellow-150ml",
-   "kody": [
-    "C13T642400"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T642500, light cyan, 150ml",
-   "u": "/epson-originalni-ink-c13t642500-light-cyan-150ml",
-   "kody": [
-    "C13T642500"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T642600, light magenta, 150ml",
-   "u": "/epson-originalni-ink-c13t642600-light-magenta-150ml",
-   "kody": [
-    "C13T642600"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T642700, light black, 150ml",
-   "u": "/epson-originalni-ink-c13t642700-light-black-150ml",
-   "kody": [
-    "C13T642700"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T642800, matte black, 150ml",
-   "u": "/epson-originalni-ink-c13t642800-matte-black-150ml",
-   "kody": [
-    "C13T642800"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T642900, light light black, 150ml",
-   "u": "/epson-originalni-ink-c13t642900-light-light-black-150ml",
-   "kody": [
-    "C13T642900"
    ]
   },
   {
@@ -3042,13 +2267,6 @@
    "u": "/epson-originalni-ink-c13t69220n-cyan-110ml",
    "kody": [
     "C13T69220N"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T69240N, yellow, 110ml",
-   "u": "/epson-originalni-ink-c13t69240n-yellow-110ml",
-   "kody": [
-    "C13T69240N"
    ]
   },
   {
@@ -3097,14 +2315,6 @@
    ]
   },
   {
-   "n": "Epson originální ink C13T75534N, T7553, XL, magenta, 4000str., 39ml, 1ks",
-   "u": "/epson-originalni-ink-c13t75534n-t7553-xl-magenta-4000str-39ml-1ks",
-   "kody": [
-    "C13T75534N",
-    "T7553"
-   ]
-  },
-  {
    "n": "Epson originální ink C13T75544N, T7554, XL, yellow, 4000str., 39ml, 1ks",
    "u": "/epson-originalni-ink-c13t75544n-t7554-xl-yellow-4000str-39ml-1ks",
    "kody": [
@@ -3137,13 +2347,6 @@
    ]
   },
   {
-   "n": "Epson originální ink C13T85030N, magenta, 80ml",
-   "u": "/epson-originalni-ink-c13t85030n-magenta-80ml",
-   "kody": [
-    "C13T85030N"
-   ]
-  },
-  {
    "n": "Epson originální ink C13T85060N, vivid light magenta, 80ml",
    "u": "/epson-originalni-ink-c13t85060n-vivid-light-magenta-80ml",
    "kody": [
@@ -3155,36 +2358,6 @@
    "u": "/epson-originalni-ink-c13t85080n-matte-black-80ml",
    "kody": [
     "C13T85080N"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T90714N, T9071, XXL, black, 202ml",
-   "u": "/epson-originalni-ink-c13t90714n-t9071-xxl-black-202ml",
-   "kody": [
-    "C13T90714N",
-    "T9071"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T90724N, T9072, XXL, cyan, 69ml",
-   "u": "/epson-originalni-ink-c13t90724n-t9072-xxl-cyan-69ml",
-   "kody": [
-    "C13T90724N",
-    "T9072"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T91330N, vivid magenta, 200ml",
-   "u": "/epson-originalni-ink-c13t91330n-vivid-magenta-200ml",
-   "kody": [
-    "C13T91330N"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T91360N, vivid light magenta, 200ml",
-   "u": "/epson-originalni-ink-c13t91360n-vivid-light-magenta-200ml",
-   "kody": [
-    "C13T91360N"
    ]
   },
   {
@@ -3301,50 +2474,10 @@
    ]
   },
   {
-   "n": "Oce originální ink 1060023044, black, 2 ksks",
-   "u": "/oce-originalni-ink-1060023044-black-2-ksks",
-   "kody": []
-  },
-  {
    "n": "UPrint kompatibilní gelová náplň s 405761, R-41XLB, black, 2500str.",
    "u": "/uprint-kompatibilni-gelova-napln-s-405761-r-41xlb-black-2500str",
    "kody": [
     "R41XLB"
-   ]
-  },
-  {
-   "n": "Xerox originální ink 106R01301, cyan, 220ml",
-   "u": "/xerox-originalni-ink-106r01301-cyan-220ml",
-   "kody": [
-    "106R01301"
-   ]
-  },
-  {
-   "n": "Xerox originální ink 106R01302, magenta, 220ml",
-   "u": "/xerox-originalni-ink-106r01302-magenta-220ml",
-   "kody": [
-    "106R01302"
-   ]
-  },
-  {
-   "n": "Xerox originální ink 106R01303, yellow, 220ml",
-   "u": "/xerox-originalni-ink-106r01303-yellow-220ml",
-   "kody": [
-    "106R01303"
-   ]
-  },
-  {
-   "n": "Xerox originální ink 108R01022, cyan, 16900str., 6ks",
-   "u": "/xerox-originalni-ink-108r01022-cyan-16900str-6ks",
-   "kody": [
-    "108R01022"
-   ]
-  },
-  {
-   "n": "Xerox originální ink 108R01023, magenta, 16900str., 6ks",
-   "u": "/xerox-originalni-ink-108r01023-magenta-16900str-6ks",
-   "kody": [
-    "108R01023"
    ]
   },
   {
@@ -3364,13 +2497,6 @@
    ]
   },
   {
-   "n": "Brother originální toner TN3610XL, black, 25000str.",
-   "u": "/brother-originalni-toner-tn3610xl-black-25000str",
-   "kody": [
-    "TN3610XL"
-   ]
-  },
-  {
    "n": "Brother originální toner TN4100, black, 7500str.",
    "u": "/brother-originalni-toner-tn4100-black-7500str",
    "kody": [
@@ -3383,62 +2509,6 @@
    "kody": [
     "2799B002",
     "CEXV30"
-   ]
-  },
-  {
-   "n": "Canon originální toner C-EXV51LC C, 0485C002, cyan, 26000str., low capacity",
-   "u": "/canon-originalni-toner-c-exv51lc-c-0485c002-cyan-26000str-low-capacity",
-   "kody": [
-    "0485C002",
-    "CEXV51LC"
-   ]
-  },
-  {
-   "n": "Canon originální toner C-EXV51L M, 0486C002, magenta, 26000str., low capacity",
-   "u": "/canon-originalni-toner-c-exv51l-m-0486c002-magenta-26000str-low-capacity",
-   "kody": [
-    "0486C002",
-    "CEXV51L"
-   ]
-  },
-  {
-   "n": "Canon originální toner C-EXV51L Y, 0487C002, yellow, 26000str., low capacity",
-   "u": "/canon-originalni-toner-c-exv51l-y-0487c002-yellow-26000str-low-capacity",
-   "kody": [
-    "0487C002",
-    "CEXV51L"
-   ]
-  },
-  {
-   "n": "Canon originální toner C-EXV58 BK, 3763C002, black, 71000str.",
-   "u": "/canon-originalni-toner-c-exv58-bk-3763c002-black-71000str",
-   "kody": [
-    "3763C002",
-    "CEXV58"
-   ]
-  },
-  {
-   "n": "Canon originální toner C-EXV58 C, 3764C002, cyan, 60000str.",
-   "u": "/canon-originalni-toner-c-exv58-c-3764c002-cyan-60000str",
-   "kody": [
-    "3764C002",
-    "CEXV58"
-   ]
-  },
-  {
-   "n": "Canon originální toner C-EXV58 M, 3765C002, magenta, 60000str.",
-   "u": "/canon-originalni-toner-c-exv58-m-3765c002-magenta-60000str",
-   "kody": [
-    "3765C002",
-    "CEXV58"
-   ]
-  },
-  {
-   "n": "Canon originální toner C-EXV58 Y, 3766C002, yellow, 60000str.",
-   "u": "/canon-originalni-toner-c-exv58-y-3766c002-yellow-60000str",
-   "kody": [
-    "3766C002",
-    "CEXV58"
    ]
   },
   {
@@ -3455,78 +2525,6 @@
    "kody": [
     "5141C002",
     "CEXV62"
-   ]
-  },
-  {
-   "n": "Canon originální toner C-EXV64 BK, 5753C002, black, 60000str.",
-   "u": "/canon-originalni-toner-c-exv64-bk-5753c002-black-60000str",
-   "kody": [
-    "5753C002",
-    "CEXV64"
-   ]
-  },
-  {
-   "n": "Canon originální toner CEXV64, 5754C002, cyan, 25500str.",
-   "u": "/canon-originalni-toner-cexv64-5754c002-cyan-25500str",
-   "kody": [
-    "5754C002",
-    "CEXV64"
-   ]
-  },
-  {
-   "n": "Canon originální toner CEXV64, 5755C002, magenta, 25500str.",
-   "u": "/canon-originalni-toner-cexv64-5755c002-magenta-25500str",
-   "kody": [
-    "5755C002",
-    "CEXV64"
-   ]
-  },
-  {
-   "n": "Canon originální toner CEXV64, 5756C002, yellow, 25500str.",
-   "u": "/canon-originalni-toner-cexv64-5756c002-yellow-25500str",
-   "kody": [
-    "5756C002",
-    "CEXV64"
-   ]
-  },
-  {
-   "n": "Canon originální toner C-EXV65 BK, 5761C001, black, 17500str.",
-   "u": "/canon-originalni-toner-c-exv65-bk-5761c001-black-17500str",
-   "kody": [
-    "5761C001",
-    "CEXV65"
-   ]
-  },
-  {
-   "n": "Canon originální toner C-EXV65 C, 5762C001, cyan, 11000str.",
-   "u": "/canon-originalni-toner-c-exv65-c-5762c001-cyan-11000str",
-   "kody": [
-    "5762C001",
-    "CEXV65"
-   ]
-  },
-  {
-   "n": "Canon originální toner C-EXV65 M, 5763C001, magenta, 11000str.",
-   "u": "/canon-originalni-toner-c-exv65-m-5763c001-magenta-11000str",
-   "kody": [
-    "5763C001",
-    "CEXV65"
-   ]
-  },
-  {
-   "n": "Canon originální toner C-EXV65 Y, 5764C001, yellow, 11000str.",
-   "u": "/canon-originalni-toner-c-exv65-y-5764c001-yellow-11000str",
-   "kody": [
-    "5764C001",
-    "CEXV65"
-   ]
-  },
-  {
-   "n": "Canon originální toner C-EXV66 BK, 5745C002, black, 44500str.",
-   "u": "/canon-originalni-toner-c-exv66-bk-5745c002-black-44500str",
-   "kody": [
-    "5745C002",
-    "CEXV66"
    ]
   },
   {
@@ -3770,14 +2768,6 @@
    ]
   },
   {
-   "n": "Kyocera originální toner TK-1248, 1T02Y80NL0, black, 1500str.",
-   "u": "/kyocera-originalni-toner-tk-1248-1t02y80nl0-black-1500str",
-   "kody": [
-    "1T02Y80NL0",
-    "TK1248"
-   ]
-  },
-  {
    "n": "Kyocera originální toner TK130, 1T02HS0EU0, 1T02HS0EUC, black, 7200str.",
    "u": "/kyocera-originalni-toner-tk130-1t02hs0eu0-1t02hs0euc-black-7200str",
    "kody": [
@@ -3976,35 +2966,11 @@
    ]
   },
   {
-   "n": "Kyocera originální toner kit TK-3300, 1T0C100NL0, black, 14500str.",
-   "u": "/kyocera-originalni-toner-kit-tk-3300-1t0c100nl0-black-14500str",
-   "kody": [
-    "1T0C100NL0",
-    "TK3300"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner kit TK-3400, 1T0C0Y0NL0, black, 12500str.",
-   "u": "/kyocera-originalni-toner-kit-tk-3400-1t0c0y0nl0-black-12500str",
-   "kody": [
-    "1T0C0Y0NL0",
-    "TK3400"
-   ]
-  },
-  {
    "n": "Kyocera originální toner TK-3410, 1T0C0X0NL0, black, 15500str.",
    "u": "/kyocera-originalni-toner-tk-3410-1t0c0x0nl0-black-15500str",
    "kody": [
     "1T0C0X0NL0",
     "TK3410"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner TK-3430, 1T0C0W0NL0, black, 25000str.",
-   "u": "/kyocera-originalni-toner-tk-3430-1t0c0w0nl0-black-25000str",
-   "kody": [
-    "1T0C0W0NL0",
-    "TK3430"
    ]
   },
   {
@@ -4456,26 +3422,10 @@
    ]
   },
   {
-   "n": "G&G kompatibilní toner s Kyocera TK5240K, NT-CKTK5240BK, black, 4000str.",
-   "u": "/g-g-kompatibilni-toner-s-kyocera-tk5240k-nt-cktk5240bk-black-4000str",
-   "kody": [
-    "NTCKTK5240BK",
-    "TK5240K"
-   ]
-  },
-  {
    "n": "Kyocera originální toner TK-5240C, 1T02R7CNL0, cyan, 3000str.",
    "u": "/kyocera-originalni-toner-tk-5240c-1t02r7cnl0-cyan-3000str",
    "kody": [
     "1T02R7CNL0",
-    "TK5240C"
-   ]
-  },
-  {
-   "n": "G&G kompatibilní toner s Kyocera TK5240C, NT-CKTK5240C, cyan, 3000str.",
-   "u": "/g-g-kompatibilni-toner-s-kyocera-tk5240c-nt-cktk5240c-cyan-3000str",
-   "kody": [
-    "NTCKTK5240C",
     "TK5240C"
    ]
   },
@@ -4488,26 +3438,10 @@
    ]
   },
   {
-   "n": "G&G kompatibilní toner s Kyocera TK5240M, NT-CKTK5240M, magenta, 3000str.",
-   "u": "/g-g-kompatibilni-toner-s-kyocera-tk5240m-nt-cktk5240m-magenta-3000str",
-   "kody": [
-    "NTCKTK5240M",
-    "TK5240M"
-   ]
-  },
-  {
    "n": "Kyocera originální toner TK-5240Y, 1T02R7ANL0, yellow, 3000str.",
    "u": "/kyocera-originalni-toner-tk-5240y-1t02r7anl0-yellow-3000str",
    "kody": [
     "1T02R7ANL0",
-    "TK5240Y"
-   ]
-  },
-  {
-   "n": "G&G kompatibilní toner s Kyocera TK5240Y, NT-CKTK5240Y, yellow, 3000str.",
-   "u": "/g-g-kompatibilni-toner-s-kyocera-tk5240y-nt-cktk5240y-yellow-3000str",
-   "kody": [
-    "NTCKTK5240Y",
     "TK5240Y"
    ]
   },
@@ -4536,26 +3470,10 @@
    ]
   },
   {
-   "n": "G&G kompatibilní toner s Kyocera TK5270M, NT-PKTK5270M, magenta, 6000str.",
-   "u": "/g-g-kompatibilni-toner-s-kyocera-tk5270m-nt-pktk5270m-magenta-6000str",
-   "kody": [
-    "NTPKTK5270M",
-    "TK5270M"
-   ]
-  },
-  {
    "n": "Kyocera originální toner TK-5270Y, 1T02TVANL0, yellow, 6000str.",
    "u": "/kyocera-originalni-toner-tk-5270y-1t02tvanl0-yellow-6000str",
    "kody": [
     "1T02TVANL0",
-    "TK5270Y"
-   ]
-  },
-  {
-   "n": "G&G kompatibilní toner s Kyocera TK5270Y, NT-PKTK5270Y, yellow, 6000str.",
-   "u": "/g-g-kompatibilni-toner-s-kyocera-tk5270y-nt-pktk5270y-yellow-6000str",
-   "kody": [
-    "NTPKTK5270Y",
     "TK5270Y"
    ]
   },
@@ -4568,26 +3486,10 @@
    ]
   },
   {
-   "n": "G&G kompatibilní toner s Kyocera TK5280K, NT-CKTK5280BK, black, 13000str.",
-   "u": "/g-g-kompatibilni-toner-s-kyocera-tk5280k-nt-cktk5280bk-black-13000str",
-   "kody": [
-    "NTCKTK5280BK",
-    "TK5280K"
-   ]
-  },
-  {
    "n": "Kyocera originální toner TK-5280C, 1T02TWCNL0, cyan, 11000str., obsahuje odpadní nádobku",
    "u": "/kyocera-originalni-toner-tk-5280c-1t02twcnl0-cyan-11000str-obsahuje-odpadni-nadobku",
    "kody": [
     "1T02TWCNL0",
-    "TK5280C"
-   ]
-  },
-  {
-   "n": "G&G kompatibilní toner s Kyocera TK5280C, NT-CKTK5280C, cyan, 11000str.",
-   "u": "/g-g-kompatibilni-toner-s-kyocera-tk5280c-nt-cktk5280c-cyan-11000str",
-   "kody": [
-    "NTCKTK5280C",
     "TK5280C"
    ]
   },
@@ -4600,26 +3502,10 @@
    ]
   },
   {
-   "n": "G&G kompatibilní toner s Kyocera TK5280M, NT-CKTK5280M, magenta, 11000str.",
-   "u": "/g-g-kompatibilni-toner-s-kyocera-tk5280m-nt-cktk5280m-magenta-11000str",
-   "kody": [
-    "NTCKTK5280M",
-    "TK5280M"
-   ]
-  },
-  {
    "n": "Kyocera originální toner TK-5280Y, 1T02TWANL0, yellow, 11000str., obsahuje odpadní nádobku",
    "u": "/kyocera-originalni-toner-tk-5280y-1t02twanl0-yellow-11000str-obsahuje-odpadni-nadobku",
    "kody": [
     "1T02TWANL0",
-    "TK5280Y"
-   ]
-  },
-  {
-   "n": "G&G kompatibilní toner s Kyocera TK5280Y, NT-CKTK5280Y, yellow, 11000str.",
-   "u": "/g-g-kompatibilni-toner-s-kyocera-tk5280y-nt-cktk5280y-yellow-11000str",
-   "kody": [
-    "NTCKTK5280Y",
     "TK5280Y"
    ]
   },
@@ -4685,14 +3571,6 @@
    "kody": [
     "1T02VMANL0",
     "TK5305Y"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner 1T02ZL0NL0, TK-5345K, black, 17000str.",
-   "u": "/kyocera-originalni-toner-1t02zl0nl0-tk-5345k-black-17000str",
-   "kody": [
-    "1T02ZL0NL0",
-    "TK5345K"
    ]
   },
   {
@@ -4772,38 +3650,6 @@
    ]
   },
   {
-   "n": "Kyocera originální toner TK5405K, 1T02Z60NL0, black, 17000str.",
-   "u": "/kyocera-originalni-toner-tk5405k-1t02z60nl0-black-17000str",
-   "kody": [
-    "1T02Z60NL0",
-    "TK5405K"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner TK5405C, 1T02Z6CNL0, cyan, 10000str.",
-   "u": "/kyocera-originalni-toner-tk5405c-1t02z6cnl0-cyan-10000str",
-   "kody": [
-    "1T02Z6CNL0",
-    "TK5405C"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner TK5405M, 1T02Z6BNL0, magenta, 10000str.",
-   "u": "/kyocera-originalni-toner-tk5405m-1t02z6bnl0-magenta-10000str",
-   "kody": [
-    "1T02Z6BNL0",
-    "TK5405M"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner TK5405Y, 1T02Z6ANL0, yellow, 10000str.",
-   "u": "/kyocera-originalni-toner-tk5405y-1t02z6anl0-yellow-10000str",
-   "kody": [
-    "1T02Z6ANL0",
-    "TK5405Y"
-   ]
-  },
-  {
    "n": "Kyocera originální toner TK540C, 0T2HLCEU, cyan, 4000str.",
    "u": "/kyocera-originalni-toner-tk540c-0t2hlceu-cyan-4000str",
    "kody": [
@@ -4833,37 +3679,6 @@
    "kody": [
     "0T2HLAEU",
     "TK540Y"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner TK5440K, 1T0C0A0NL0, black, 2800str.",
-   "u": "/kyocera-originalni-toner-tk5440k-1t0c0a0nl0-black-2800str",
-   "kody": [
-    "1T0C0A0NL0",
-    "TK5440K"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner TK5440C, cyan, 2400str.",
-   "u": "/kyocera-originalni-toner-tk5440c-cyan-2400str",
-   "kody": [
-    "TK5440C"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner TK5440M, 1T0C0ABNL0, magenta, 2400str.",
-   "u": "/kyocera-originalni-toner-tk5440m-1t0c0abnl0-magenta-2400str",
-   "kody": [
-    "1T0C0ABNL0",
-    "TK5440M"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner TK5440Y, 1T0C0AANL0, yellow, 2400str.",
-   "u": "/kyocera-originalni-toner-tk5440y-1t0c0aanl0-yellow-2400str",
-   "kody": [
-    "1T0C0AANL0",
-    "TK5440Y"
    ]
   },
   {
@@ -5098,14 +3913,6 @@
    ]
   },
   {
-   "n": "Kyocera originální toner 1T02XF0NL0, TK-6345K, black, 40000str.",
-   "u": "/kyocera-originalni-toner-1t02xf0nl0-tk-6345k-black-40000str",
-   "kody": [
-    "1T02XF0NL0",
-    "TK6345K"
-   ]
-  },
-  {
    "n": "Kyocera originální toner TK65, 370QD0KX, black, 20000str.",
    "u": "/kyocera-originalni-toner-tk65-370qd0kx-black-20000str",
    "kody": [
@@ -5221,14 +4028,6 @@
    "kody": [
     "1T02P70NL0",
     "TK7300"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner TK-7310, 1T02Y40NL0, black, 15000str.",
-   "u": "/kyocera-originalni-toner-tk-7310-1t02y40nl0-black-15000str",
-   "kody": [
-    "1T02Y40NL0",
-    "TK7310"
    ]
   },
   {
@@ -5493,14 +4292,6 @@
    ]
   },
   {
-   "n": "Kyocera originální toner TK-8375C, 1T02XDCNL0, cyan, 20000str.",
-   "u": "/kyocera-originalni-toner-tk-8375c-1t02xdcnl0-cyan-20000str",
-   "kody": [
-    "1T02XDCNL0",
-    "TK8375C"
-   ]
-  },
-  {
    "n": "Kyocera originální toner TK-8375M, 1T02XDBNL0, magenta, 20000str.",
    "u": "/kyocera-originalni-toner-tk-8375m-1t02xdbnl0-magenta-20000str",
    "kody": [
@@ -5610,38 +4401,6 @@
    "kody": [
     "1T02RMANL0",
     "TK8525Y"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner 1T02YMCNL0, TK-8545C, cyan, 25000str.",
-   "u": "/kyocera-originalni-toner-1t02ymcnl0-tk-8545c-cyan-25000str",
-   "kody": [
-    "1T02YMCNL0",
-    "TK8545C"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner 1T02YMBNL0, TK-8545M, magenta, 25000str.",
-   "u": "/kyocera-originalni-toner-1t02ymbnl0-tk-8545m-magenta-25000str",
-   "kody": [
-    "1T02YMBNL0",
-    "TK8545M"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner 1T02YMANL0, TK-8545Y, yellow, 25000str.",
-   "u": "/kyocera-originalni-toner-1t02ymanl0-tk-8545y-yellow-25000str",
-   "kody": [
-    "1T02YMANL0",
-    "TK8545Y"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner TK-8555K, 1T02XC0NL0, black, 40000str.",
-   "u": "/kyocera-originalni-toner-tk-8555k-1t02xc0nl0-black-40000str",
-   "kody": [
-    "1T02XC0NL0",
-    "TK8555K"
    ]
   },
   {
@@ -5873,14 +4632,6 @@
    "u": "/kyocera-originalni-toner-tk895y-1t02k0anl0-yellow-6000str",
    "kody": [
     "1T02K0ANL0",
-    "TK895Y"
-   ]
-  },
-  {
-   "n": "G&G kompatibilní toner s Kyocera TK895Y, NT-CKTK895Y, yellow, 6000str.",
-   "u": "/g-g-kompatibilni-toner-s-kyocera-tk895y-nt-cktk895y-yellow-6000str",
-   "kody": [
-    "NTCKTK895Y",
     "TK895Y"
    ]
   },
@@ -6789,14 +5540,6 @@
    ]
   },
   {
-   "n": "Konica Minolta originální toner A1U9352, TN616M-L, magenta, 27900str.",
-   "u": "/konica-minolta-originalni-toner-a1u9352-tn616m-l-magenta-27900str",
-   "kody": [
-    "A1U9352",
-    "TN616ML"
-   ]
-  },
-  {
    "n": "Konica Minolta originální toner A3VX450, TN619C, A3VX455, cyan, 70000str.",
    "u": "/konica-minolta-originalni-toner-a3vx450-tn619c-a3vx455-cyan-70000str",
    "kody": [
@@ -6880,27 +5623,11 @@
    ]
   },
   {
-   "n": "Konica Minolta originální toner A5E7451, TN622C, cyan, 95000str.",
-   "u": "/konica-minolta-originalni-toner-a5e7451-tn622c-cyan-95000str",
-   "kody": [
-    "A5E7451",
-    "TN622C"
-   ]
-  },
-  {
    "n": "Konica Minolta originální toner A5E7151, TN622K, black, 88000str.",
    "u": "/konica-minolta-originalni-toner-a5e7151-tn622k-black-88000str",
    "kody": [
     "A5E7151",
     "TN622K"
-   ]
-  },
-  {
-   "n": "Konica Minolta originální toner A5E7351, TN622M, magenta, 92000str.",
-   "u": "/konica-minolta-originalni-toner-a5e7351-tn622m-magenta-92000str",
-   "kody": [
-    "A5E7351",
-    "TN622M"
    ]
   },
   {
@@ -6945,31 +5672,6 @@
    ]
   },
   {
-   "n": "Konica Minolta originální toner ACV1150, TN626K, black, 28000str.",
-   "u": "/konica-minolta-originalni-toner-acv1150-tn626k-black-28000str",
-   "kody": [
-    "ACV1150",
-    "TN626K"
-   ]
-  },
-  {
-   "n": "Konica Minolta originální toner ACV1350, ACV135A, TN626M, magenta, 28000str.",
-   "u": "/konica-minolta-originalni-toner-acv1350-acv135a-tn626m-magenta-28000str",
-   "kody": [
-    "ACV1350",
-    "ACV135A",
-    "TN626M"
-   ]
-  },
-  {
-   "n": "Konica Minolta originální toner ACV145H, TN626C, cyan, 14000str.",
-   "u": "/konica-minolta-originalni-toner-acv145h-tn626c-cyan-14000str",
-   "kody": [
-    "ACV145H",
-    "TN626C"
-   ]
-  },
-  {
    "n": "Konica Minolta originální toner ACV125H, TN626Y, yellow, 14000str.",
    "u": "/konica-minolta-originalni-toner-acv125h-tn626y-yellow-14000str",
    "kody": [
@@ -7007,22 +5709,6 @@
    "kody": [
     "ACVV350",
     "TN627M"
-   ]
-  },
-  {
-   "n": "Konica Minolta originální toner ACVV250, TN627Y, yellow, 219800str.",
-   "u": "/konica-minolta-originalni-toner-acvv250-tn627y-yellow-219800str",
-   "kody": [
-    "ACVV250",
-    "TN627Y"
-   ]
-  },
-  {
-   "n": "Konica Minolta originální toner AC79050, TN628, black, 24000str.",
-   "u": "/konica-minolta-originalni-toner-ac79050-tn628-black-24000str",
-   "kody": [
-    "AC79050",
-    "TN628"
    ]
   },
   {
@@ -7103,14 +5789,6 @@
    "kody": [
     "ACP8450",
     "TN715C"
-   ]
-  },
-  {
-   "n": "Konica Minolta originální toner A8H5050, TN-812, black, 40800str.",
-   "u": "/konica-minolta-originalni-toner-a8h5050-tn-812-black-40800str",
-   "kody": [
-    "A8H5050",
-    "TN812"
    ]
   },
   {
@@ -7473,14 +6151,6 @@
    ]
   },
   {
-   "n": "Konica Minolta originální toner ACF0051, TNP75K, black, 20000str.",
-   "u": "/konica-minolta-originalni-toner-acf0051-tnp75k-black-20000str",
-   "kody": [
-    "ACF0051",
-    "TNP75K"
-   ]
-  },
-  {
    "n": "Konica Minolta originální toner ACF0050, TNP76K, black, 12000str.",
    "u": "/konica-minolta-originalni-toner-acf0050-tnp76k-black-12000str",
    "kody": [
@@ -7585,22 +6255,6 @@
    ]
   },
   {
-   "n": "Konica Minolta originální toner ACTD050, TNP-90K, black, 20000str.",
-   "u": "/konica-minolta-originalni-toner-actd050-tnp-90k-black-20000str",
-   "kody": [
-    "ACTD050",
-    "TNP90K"
-   ]
-  },
-  {
-   "n": "Konica Minolta originální toner ACTD051, TNP-91K, black, 20000str.",
-   "u": "/konica-minolta-originalni-toner-actd051-tnp-91k-black-20000str",
-   "kody": [
-    "ACTD051",
-    "TNP91K"
-   ]
-  },
-  {
    "n": "Konica Minolta originální toner AE1Y150, TNP-92K, black, 6000str.",
    "u": "/konica-minolta-originalni-toner-ae1y150-tnp-92k-black-6000str",
    "kody": [
@@ -7630,38 +6284,6 @@
    "kody": [
     "AE1Y250",
     "TNP92Y"
-   ]
-  },
-  {
-   "n": "Konica Minolta originální toner AE1Y151, TNP-93K, black, 6000str.",
-   "u": "/konica-minolta-originalni-toner-ae1y151-tnp-93k-black-6000str",
-   "kody": [
-    "AE1Y151",
-    "TNP93K"
-   ]
-  },
-  {
-   "n": "Konica Minolta originální toner AE1Y451, TNP-93C, cyan, 4000str.",
-   "u": "/konica-minolta-originalni-toner-ae1y451-tnp-93c-cyan-4000str",
-   "kody": [
-    "AE1Y451",
-    "TNP93C"
-   ]
-  },
-  {
-   "n": "Konica Minolta originální toner AE1Y351, TNP-93M, magenta, 4000str.",
-   "u": "/konica-minolta-originalni-toner-ae1y351-tnp-93m-magenta-4000str",
-   "kody": [
-    "AE1Y351",
-    "TNP93M"
-   ]
-  },
-  {
-   "n": "Konica Minolta originální toner AE1Y251, TNP-93Y, yellow, 4000str.",
-   "u": "/konica-minolta-originalni-toner-ae1y251-tnp-93y-yellow-4000str",
-   "kody": [
-    "AE1Y251",
-    "TNP93Y"
    ]
   },
   {
@@ -7816,23 +6438,9 @@
    "kody": []
   },
   {
-   "n": "G&G kompatibilní toner s OKI 46508712, NT-COC332XFBK, black, 3500str.",
-   "u": "/g-g-kompatibilni-toner-s-oki-46508712-nt-coc332xfbk-black-3500str",
-   "kody": [
-    "NTCOC332XFBK"
-   ]
-  },
-  {
    "n": "OKI originální toner 46508711, cyan, 3000str., high capacity",
    "u": "/oki-originalni-toner-46508711-cyan-3000str-high-capacity",
    "kody": []
-  },
-  {
-   "n": "G&G kompatibilní toner s OKI 46508711, NT-COC332XFC, cyan, 3000str.",
-   "u": "/g-g-kompatibilni-toner-s-oki-46508711-nt-coc332xfc-cyan-3000str",
-   "kody": [
-    "NTCOC332XFC"
-   ]
   },
   {
    "n": "OKI originální toner 46508710, magenta, 3000str., high capacity",
@@ -7840,24 +6448,9 @@
    "kody": []
   },
   {
-   "n": "G&G kompatibilní toner s OKI 46508710, NT-COC332XFM,GG-COC332XFM, magenta, 3000str.",
-   "u": "/g-g-kompatibilni-toner-s-oki-46508710-nt-coc332xfm-gg-coc332xfm-magenta-3000str",
-   "kody": [
-    "GGCOC332XFM",
-    "NTCOC332XFM"
-   ]
-  },
-  {
    "n": "OKI originální toner 46508709, yellow, 3000str., high capacity",
    "u": "/oki-originalni-toner-46508709-yellow-3000str-high-capacity",
    "kody": []
-  },
-  {
-   "n": "G&G kompatibilní toner s OKI 46508709, NT-COC332XFY, yellow, 3000str.",
-   "u": "/g-g-kompatibilni-toner-s-oki-46508709-nt-coc332xfy-yellow-3000str",
-   "kody": [
-    "NTCOC332XFY"
-   ]
   },
   {
    "n": "OKI originální toner 46508716, black, 1500str.",
@@ -8092,11 +6685,6 @@
   {
    "n": "OKI originální toner 46507505, yellow, 6000str.",
    "u": "/oki-originalni-toner-46507505-yellow-6000str",
-   "kody": []
-  },
-  {
-   "n": "OKI originální toner 09006130, black, 7000str.",
-   "u": "/oki-originalni-toner-09006130-black-7000str",
    "kody": []
   },
   {
@@ -8360,16 +6948,6 @@
    "kody": []
   },
   {
-   "n": "OKI originální toner 45396303, cyan, 6000str.",
-   "u": "/oki-originalni-toner-45396303-cyan-6000str",
-   "kody": []
-  },
-  {
-   "n": "OKI originální toner 45396302, magenta, 6000str.",
-   "u": "/oki-originalni-toner-45396302-magenta-6000str",
-   "kody": []
-  },
-  {
    "n": "OKI originální toner 45396301, yellow, 6000str.",
    "u": "/oki-originalni-toner-45396301-yellow-6000str",
    "kody": []
@@ -8475,11 +7053,6 @@
    "kody": []
   },
   {
-   "n": "OKI originální toner 45862816, cyan, 10000str.",
-   "u": "/oki-originalni-toner-45862816-cyan-10000str",
-   "kody": []
-  },
-  {
    "n": "OKI originální toner 45862815, magenta, 10000str.",
    "u": "/oki-originalni-toner-45862815-magenta-10000str",
    "kody": []
@@ -8565,20 +7138,6 @@
    ]
   },
   {
-   "n": "Sharp originální toner BPB50GTA, black, 30000str.",
-   "u": "/sharp-originalni-toner-bpb50gta-black-30000str",
-   "kody": [
-    "BPB50GTA"
-   ]
-  },
-  {
-   "n": "Sharp originální toner BPDU70SA, black, 20000str.",
-   "u": "/sharp-originalni-toner-bpdu70sa-black-20000str",
-   "kody": [
-    "BPDU70SA"
-   ]
-  },
-  {
    "n": "Sharp originální toner BPGT200, black, 20000str.",
    "u": "/sharp-originalni-toner-bpgt200-black-20000str",
    "kody": [
@@ -8600,38 +7159,10 @@
    ]
   },
   {
-   "n": "Sharp originální toner BPGT20CA, cyan, 10000str.",
-   "u": "/sharp-originalni-toner-bpgt20ca-cyan-10000str",
-   "kody": [
-    "BPGT20CA"
-   ]
-  },
-  {
-   "n": "Sharp originální toner BPGT20MA, magenta, 10000str.",
-   "u": "/sharp-originalni-toner-bpgt20ma-magenta-10000str",
-   "kody": [
-    "BPGT20MA"
-   ]
-  },
-  {
-   "n": "Sharp originální toner BPGT20MB, magenta, 5000str.",
-   "u": "/sharp-originalni-toner-bpgt20mb-magenta-5000str",
-   "kody": [
-    "BPGT20MB"
-   ]
-  },
-  {
    "n": "Sharp originální toner BPGT20YA, yellow, 10000str.",
    "u": "/sharp-originalni-toner-bpgt20ya-yellow-10000str",
    "kody": [
     "BPGT20YA"
-   ]
-  },
-  {
-   "n": "Sharp originální toner BPGT20YB, yellow, 5000str.",
-   "u": "/sharp-originalni-toner-bpgt20yb-yellow-5000str",
-   "kody": [
-    "BPGT20YB"
    ]
   },
   {
@@ -8642,38 +7173,10 @@
    ]
   },
   {
-   "n": "Sharp originální toner BPGT30BA, black, 20000str.",
-   "u": "/sharp-originalni-toner-bpgt30ba-black-20000str",
-   "kody": [
-    "BPGT30BA"
-   ]
-  },
-  {
-   "n": "Sharp originální toner BPGT30MA, magenta, 15000str.",
-   "u": "/sharp-originalni-toner-bpgt30ma-magenta-15000str",
-   "kody": [
-    "BPGT30MA"
-   ]
-  },
-  {
-   "n": "Sharp originální toner BPGT30YA, yellow, 15000str.",
-   "u": "/sharp-originalni-toner-bpgt30ya-yellow-15000str",
-   "kody": [
-    "BPGT30YA"
-   ]
-  },
-  {
    "n": "Sharp originální toner BPGT70BA, black, 40000str.",
    "u": "/sharp-originalni-toner-bpgt70ba-black-40000str",
    "kody": [
     "BPGT70BA"
-   ]
-  },
-  {
-   "n": "Sharp originální toner BPGT70BB, black, 20000str.",
-   "u": "/sharp-originalni-toner-bpgt70bb-black-20000str",
-   "kody": [
-    "BPGT70BB"
    ]
   },
   {
@@ -8684,24 +7187,10 @@
    ]
   },
   {
-   "n": "Sharp originální toner BPGT70CB, cyan, 12000str.",
-   "u": "/sharp-originalni-toner-bpgt70cb-cyan-12000str",
-   "kody": [
-    "BPGT70CB"
-   ]
-  },
-  {
    "n": "Sharp originální toner BPGT70MA, magenta, 24000str.",
    "u": "/sharp-originalni-toner-bpgt70ma-magenta-24000str",
    "kody": [
     "BPGT70MA"
-   ]
-  },
-  {
-   "n": "Sharp originální toner BPGT70MB, magenta, 12000str.",
-   "u": "/sharp-originalni-toner-bpgt70mb-magenta-12000str",
-   "kody": [
-    "BPGT70MB"
    ]
   },
   {
@@ -8712,38 +7201,10 @@
    ]
   },
   {
-   "n": "Sharp originální toner BPGT70YB, yellow, 12000str.",
-   "u": "/sharp-originalni-toner-bpgt70yb-yellow-12000str",
-   "kody": [
-    "BPGT70YB"
-   ]
-  },
-  {
    "n": "Sharp originální toner DX20GTBA, black, 5000str.",
    "u": "/sharp-originalni-toner-dx20gtba-black-5000str",
    "kody": [
     "DX20GTBA"
-   ]
-  },
-  {
-   "n": "Sharp originální toner DX20GTCA, cyan, 3000str.",
-   "u": "/sharp-originalni-toner-dx20gtca-cyan-3000str",
-   "kody": [
-    "DX20GTCA"
-   ]
-  },
-  {
-   "n": "Sharp originální toner DX20GTMA, magenta, 3000str.",
-   "u": "/sharp-originalni-toner-dx20gtma-magenta-3000str",
-   "kody": [
-    "DX20GTMA"
-   ]
-  },
-  {
-   "n": "Sharp originální toner DX20GTYA, yellow, 3000str.",
-   "u": "/sharp-originalni-toner-dx20gtya-yellow-3000str",
-   "kody": [
-    "DX20GTYA"
    ]
   },
   {
@@ -8775,13 +7236,6 @@
    ]
   },
   {
-   "n": "Sharp originální toner MX-18GTBA, black, 13200str.",
-   "u": "/sharp-originalni-toner-mx-18gtba-black-13200str",
-   "kody": [
-    "MX18GTBA"
-   ]
-  },
-  {
    "n": "Sharp originální toner MX-237GT, black, 20000str.",
    "u": "/sharp-originalni-toner-mx-237gt-black-20000str",
    "kody": [
@@ -8803,13 +7257,6 @@
    ]
   },
   {
-   "n": "Sharp originální toner MX-27GTCA, cyan, 15000str.",
-   "u": "/sharp-originalni-toner-mx-27gtca-cyan-15000str2",
-   "kody": [
-    "MX27GTCA"
-   ]
-  },
-  {
    "n": "Sharp originální toner MX-27GTMA, magenta, 15000str.",
    "u": "/sharp-originalni-toner-mx-27gtma-magenta-15000str",
    "kody": [
@@ -8817,22 +7264,8 @@
    ]
   },
   {
-   "n": "Sharp originální toner MX-27GTMA, magenta, 15000str.",
-   "u": "/sharp-originalni-toner-mx-27gtma-magenta-15000str2",
-   "kody": [
-    "MX27GTMA"
-   ]
-  },
-  {
    "n": "Sharp originální toner MX-27GTYA, yellow, 15000str.",
    "u": "/sharp-originalni-toner-mx-27gtya-yellow-15000str",
-   "kody": [
-    "MX27GTYA"
-   ]
-  },
-  {
-   "n": "Sharp originální toner MX-27GTYA, yellow, 15000str.",
-   "u": "/sharp-originalni-toner-mx-27gtya-yellow-15000str2",
    "kody": [
     "MX27GTYA"
    ]
@@ -8964,27 +7397,6 @@
    ]
   },
   {
-   "n": "Sharp originální toner MX-61GTCB, cyan, 12000str.",
-   "u": "/sharp-originalni-toner-mx-61gtcb-cyan-12000str",
-   "kody": [
-    "MX61GTCB"
-   ]
-  },
-  {
-   "n": "Sharp originální toner MX-61GTMB, magenta, 12000str.",
-   "u": "/sharp-originalni-toner-mx-61gtmb-magenta-12000str",
-   "kody": [
-    "MX61GTMB"
-   ]
-  },
-  {
-   "n": "Sharp originální toner MX-61GTYB, yellow, 12000str.",
-   "u": "/sharp-originalni-toner-mx-61gtyb-yellow-12000str",
-   "kody": [
-    "MX61GTYB"
-   ]
-  },
-  {
    "n": "Sharp originální toner MX-62GTBA, black, 65000str.",
    "u": "/sharp-originalni-toner-mx-62gtba-black-65000str",
    "kody": [
@@ -9034,31 +7446,10 @@
    ]
   },
   {
-   "n": "Sharp originální toner MX-B42T, black, 20000str.",
-   "u": "/sharp-originalni-toner-mx-b42t-black-20000str",
-   "kody": [
-    "MXB42T"
-   ]
-  },
-  {
    "n": "Sharp originální toner MX-B45GT, black, 30000str.",
    "u": "/sharp-originalni-toner-mx-b45gt-black-30000str",
    "kody": [
     "MXB45GT"
-   ]
-  },
-  {
-   "n": "Sharp originální toner MXB46T, black, 25000str.",
-   "u": "/sharp-originalni-toner-mxb46t-black-25000str",
-   "kody": [
-    "MXB46T"
-   ]
-  },
-  {
-   "n": "Sharp originální toner MXB47T, black, 31000str.",
-   "u": "/sharp-originalni-toner-mxb47t-black-31000str",
-   "kody": [
-    "MXB47T"
    ]
   },
   {
@@ -9118,34 +7509,6 @@
    ]
   },
   {
-   "n": "Sharp originální toner MXC36TB, black, 20000str.",
-   "u": "/sharp-originalni-toner-mxc36tb-black-20000str",
-   "kody": [
-    "MXC36TB"
-   ]
-  },
-  {
-   "n": "Sharp originální toner MXC36TC, cyan, 11700str.",
-   "u": "/sharp-originalni-toner-mxc36tc-cyan-11700str",
-   "kody": [
-    "MXC36TC"
-   ]
-  },
-  {
-   "n": "Sharp originální toner MXC36TM, magenta, 11700str.",
-   "u": "/sharp-originalni-toner-mxc36tm-magenta-11700str",
-   "kody": [
-    "MXC36TM"
-   ]
-  },
-  {
-   "n": "Sharp originální toner MXC36TY, yellow, 11700str.",
-   "u": "/sharp-originalni-toner-mxc36ty-yellow-11700str",
-   "kody": [
-    "MXC36TY"
-   ]
-  },
-  {
    "n": "Sharp originální toner MX-C38GTB, black, 10000str.",
    "u": "/sharp-originalni-toner-mx-c38gtb-black-10000str",
    "kody": [
@@ -9175,13 +7538,6 @@
   },
   {
    "n": "Sharp originální toner MXC50TC, cyan, 13000str.",
-   "u": "/sharp-originalni-toner-mxc50tc-cyan-13000str",
-   "kody": [
-    "MXC50TC"
-   ]
-  },
-  {
-   "n": "Sharp originální toner MXC50TC, cyan, 13000str.",
    "u": "/sharp-originalni-toner-mxc50tc-cyan-13000str2",
    "kody": [
     "MXC50TC"
@@ -9202,34 +7558,6 @@
    ]
   },
   {
-   "n": "Sharp originální toner MXC52TB, black, 25000str.",
-   "u": "/sharp-originalni-toner-mxc52tb-black-25000str",
-   "kody": [
-    "MXC52TB"
-   ]
-  },
-  {
-   "n": "Sharp originální toner MXC52TC, cyan, 14200str.",
-   "u": "/sharp-originalni-toner-mxc52tc-cyan-14200str",
-   "kody": [
-    "MXC52TC"
-   ]
-  },
-  {
-   "n": "Sharp originální toner MXC52TC, magenta, 14200str.",
-   "u": "/sharp-originalni-toner-mxc52tc-magenta-14200str",
-   "kody": [
-    "MXC52TC"
-   ]
-  },
-  {
-   "n": "Sharp originální toner MXC52TY, yellow, 14200str.",
-   "u": "/sharp-originalni-toner-mxc52ty-yellow-14200str",
-   "kody": [
-    "MXC52TY"
-   ]
-  },
-  {
    "n": "Sharp originální toner SF-216T1, black, 5000str., 200g",
    "u": "/sharp-originalni-toner-sf-216t1-black-5000str-200g",
    "kody": [
@@ -9241,38 +7569,6 @@
    "u": "/sharp-originalni-toner-sf-240lt1-black-16500str-600g",
    "kody": [
     "SF240LT1"
-   ]
-  },
-  {
-   "n": "Triumph Adler originální toner 1T02L70TA0, CK-8511K, black, 20000str.",
-   "u": "/triumph-adler-originalni-toner-1t02l70ta0-ck-8511k-black-20000str",
-   "kody": [
-    "1T02L70TA0",
-    "CK8511K"
-   ]
-  },
-  {
-   "n": "Triumph Adler originální toner 1T02NDATA0,1T02NDATA1, CK-8514Y, yellow, 20000str.",
-   "u": "/triumph-adler-originalni-toner-1t02ndata0-1t02ndata1-ck-8514y-yellow-20000str",
-   "kody": [
-    "1T02NDATA0",
-    "1T02NDATA1",
-    "CK8514Y"
-   ]
-  },
-  {
-   "n": "Triumph-Adler originální toner 1T02YMBTA0, CK-8532M, magenta, 20000str.",
-   "u": "/triumph-adler-originalni-toner-1t02ymbta0-ck-8532m-magenta-20000str",
-   "kody": [
-    "1T02YMBTA0",
-    "CK8532M"
-   ]
-  },
-  {
-   "n": "Triumph Adler originální toner PK-5011Y, yellow, 5000str.",
-   "u": "/triumph-adler-originalni-toner-pk-5011y-yellow-5000str",
-   "kody": [
-    "PK5011Y"
    ]
   },
   {
@@ -9376,62 +7672,6 @@
    ]
   },
   {
-   "n": "Utax originální toner CK-8520C, 1T02P3CUT0, cyan, 6000str.",
-   "u": "/utax-originalni-toner-ck-8520c-1t02p3cut0-cyan-6000str",
-   "kody": [
-    "1T02P3CUT0",
-    "CK8520C"
-   ]
-  },
-  {
-   "n": "Utax originální toner CK-8520M, 1T02P3BUT0, magenta, 6000str.",
-   "u": "/utax-originalni-toner-ck-8520m-1t02p3but0-magenta-6000str",
-   "kody": [
-    "1T02P3BUT0",
-    "CK8520M"
-   ]
-  },
-  {
-   "n": "Utax originální toner CK-8520Y, 1T02P3AUT0, yellow, 6000str.",
-   "u": "/utax-originalni-toner-ck-8520y-1t02p3aut0-yellow-6000str",
-   "kody": [
-    "1T02P3AUT0",
-    "CK8520Y"
-   ]
-  },
-  {
-   "n": "Utax originální toner CK-8530M, 1T02YPBUT0, magenta, 12000str.",
-   "u": "/utax-originalni-toner-ck-8530m-1t02ypbut0-magenta-12000str",
-   "kody": [
-    "1T02YPBUT0",
-    "CK8530M"
-   ]
-  },
-  {
-   "n": "Utax originální toner CK-8530Y, 1T02YPAUT0, yellow, 12000str.",
-   "u": "/utax-originalni-toner-ck-8530y-1t02ypaut0-yellow-12000str",
-   "kody": [
-    "1T02YPAUT0",
-    "CK8530Y"
-   ]
-  },
-  {
-   "n": "Utax originální toner 1T02YMCUT0, CK-8532C, cyan, 20000str.",
-   "u": "/utax-originalni-toner-1t02ymcut0-ck-8532c-cyan-20000str",
-   "kody": [
-    "1T02YMCUT0",
-    "CK8532C"
-   ]
-  },
-  {
-   "n": "Utax originální toner 1T02YMAUT0, CK-8532Y, yellow, 20000str.",
-   "u": "/utax-originalni-toner-1t02ymaut0-ck-8532y-yellow-20000str",
-   "kody": [
-    "1T02YMAUT0",
-    "CK8532Y"
-   ]
-  },
-  {
    "n": "Utax originální toner 4462110014, magenta, 5000str.",
    "u": "/utax-originalni-toner-4462110014-magenta-5000str",
    "kody": []
@@ -9442,64 +7682,6 @@
    "kody": [
     "1T02NSBUT0",
     "PK5012M"
-   ]
-  },
-  {
-   "n": "Utax originální toner 1T02R7BUT0, PK-5015M, magenta, 3000str.",
-   "u": "/utax-originalni-toner-1t02r7but0-pk-5015m-magenta-3000str",
-   "kody": [
-    "1T02R7BUT0",
-    "PK5015M"
-   ]
-  },
-  {
-   "n": "Xerox originální 005R00730, black, 100Kstr.",
-   "u": "/xerox-originalni-005r00730-black-100kstr",
-   "kody": [
-    "005R00730",
-    "100KSTR"
-   ]
-  },
-  {
-   "n": "Xerox originální 005R00731, cyan, 100Kstr., WC7965/7975,Color C60/C70/C75/J75",
-   "u": "/xerox-originalni-005r00731-cyan-100kstr-wc7965/7975-color-c60/c70/c75/j75",
-   "kody": [
-    "005R00731",
-    "100KSTR",
-    "7975",
-    "C60",
-    "C70",
-    "C75",
-    "J75",
-    "WC7965"
-   ]
-  },
-  {
-   "n": "Xerox originální 005R00733, magenta, 100Kstr., WC7965/7975,Color C60/C70/C75/J75",
-   "u": "/xerox-originalni-005r00733-magenta-100kstr-wc7965/7975-color-c60/c70/c75/j75",
-   "kody": [
-    "005R00733",
-    "100KSTR",
-    "7975",
-    "C60",
-    "C70",
-    "C75",
-    "J75",
-    "WC7965"
-   ]
-  },
-  {
-   "n": "Xerox originální 005R00733, yellow, 100Kstr., WC7965/7975,Color C60/C70/C75/J75",
-   "u": "/xerox-originalni-005r00733-yellow-100kstr-wc7965/7975-color-c60/c70/c75/j75",
-   "kody": [
-    "005R00733",
-    "100KSTR",
-    "7975",
-    "C60",
-    "C70",
-    "C75",
-    "J75",
-    "WC7965"
    ]
   },
   {
@@ -9517,90 +7699,6 @@
    ]
   },
   {
-   "n": "Xerox originální toner 006R01754, black, 28000str.",
-   "u": "/xerox-originalni-toner-006r01754-black-28000str",
-   "kody": [
-    "006R01754"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R01755, cyan, 28000str.",
-   "u": "/xerox-originalni-toner-006r01755-cyan-28000str",
-   "kody": [
-    "006R01755"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R01756, magenta, 28000str.",
-   "u": "/xerox-originalni-toner-006r01756-magenta-28000str",
-   "kody": [
-    "006R01756"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R01757, yellow, 28000str.",
-   "u": "/xerox-originalni-toner-006r01757-yellow-28000str",
-   "kody": [
-    "006R01757"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R01760, magenta, 21000str.",
-   "u": "/xerox-originalni-toner-006r01760-magenta-21000str",
-   "kody": [
-    "006R01760"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R01761, yellow, 21000str.",
-   "u": "/xerox-originalni-toner-006r01761-yellow-21000str",
-   "kody": [
-    "006R01761"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R01819, black, 34300str.",
-   "u": "/xerox-originalni-toner-006r01819-black-34300str",
-   "kody": [
-    "006R01819"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R1824, black, 31300str.",
-   "u": "/xerox-originalni-toner-006r1824-black-31300str",
-   "kody": [
-    "006R1824"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R01828, black, 31300str.",
-   "u": "/xerox-originalni-toner-006r01828-black-31300str",
-   "kody": [
-    "006R01828"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R01829, cyan, 18500str.",
-   "u": "/xerox-originalni-toner-006r01829-cyan-18500str",
-   "kody": [
-    "006R01829"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R01830, magenta, 18500str.",
-   "u": "/xerox-originalni-toner-006r01830-magenta-18500str",
-   "kody": [
-    "006R01830"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R04370, magenta, 5500str.",
-   "u": "/xerox-originalni-toner-006r04370-magenta-5500str",
-   "kody": [
-    "006R04370"
-   ]
-  },
-  {
    "n": "Xerox originální toner 006R04379, black, 3000str., 1ks",
    "u": "/xerox-originalni-toner-006r04379-black-3000str-1ks",
    "kody": [
@@ -9608,38 +7706,10 @@
    ]
   },
   {
-   "n": "Xerox originální toner 006R04381, black, 20000str.",
-   "u": "/xerox-originalni-toner-006r04381-black-20000str",
-   "kody": [
-    "006R04381"
-   ]
-  },
-  {
    "n": "Xerox originální toner 006R04402, black, 1200str.",
    "u": "/xerox-originalni-toner-006r04402-black-1200str",
    "kody": [
     "006R04402"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R04404, black, 6000str., extra high capacity",
-   "u": "/xerox-originalni-toner-006r04404-black-6000str-extra-high-capacity",
-   "kody": [
-    "006R04404"
-   ]
-  },
-  {
-   "n": "Xerox originální cartridge 006R04620, black, 8000str., standard capacity",
-   "u": "/xerox-originalni-cartridge-006r04620-black-8000str-standard-capacity",
-   "kody": [
-    "006R04620"
-   ]
-  },
-  {
-   "n": "Xerox originální cartridge 006R04673, black, 42000str., Extra high capacity",
-   "u": "/xerox-originalni-cartridge-006r04673-black-42000str-extra-high-capacity",
-   "kody": [
-    "006R04673"
    ]
   },
   {
@@ -9654,27 +7724,6 @@
    "u": "/xerox-originalni-cartridge-006r04679-magenta-2000str-standard-capacity",
    "kody": [
     "006R04679"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R04728, black, 6000str., Standard capacity",
-   "u": "/xerox-originalni-toner-006r04728-black-6000str-standard-capacity",
-   "kody": [
-    "006R04728"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R04729, black, 14000str., Standard capacity",
-   "u": "/xerox-originalni-toner-006r04729-black-14000str-standard-capacity",
-   "kody": [
-    "006R04729"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R04730, black, 25000str., Extra high capacity",
-   "u": "/xerox-originalni-toner-006r04730-black-25000str-extra-high-capacity",
-   "kody": [
-    "006R04730"
    ]
   },
   {
@@ -9696,34 +7745,6 @@
    "u": "/xerox-originalni-toner-006r04767-yellow-7000str-high-capacity",
    "kody": [
     "006R04767"
-   ]
-  },
-  {
-   "n": "Xerox originální Toner 106R04054, cyan, 16000str., High capacity",
-   "u": "/xerox-originalni-toner-106r04054-cyan-16000str-high-capacity",
-   "kody": [
-    "106R04054"
-   ]
-  },
-  {
-   "n": "Xerox originální Toner 106R04055, magenta, 16000str., High capacity",
-   "u": "/xerox-originalni-toner-106r04055-magenta-16000str-high-capacity",
-   "kody": [
-    "106R04055"
-   ]
-  },
-  {
-   "n": "Xerox originální Toner 106R04056, yellow, 16000str., High capacity",
-   "u": "/xerox-originalni-toner-106r04056-yellow-16000str-high-capacity",
-   "kody": [
-    "106R04056"
-   ]
-  },
-  {
-   "n": "Xerox originální Toner 106R04057, black, 20000str., High capacity",
-   "u": "/xerox-originalni-toner-106r04057-black-20000str-high-capacity",
-   "kody": [
-    "106R04057"
    ]
   },
   {
@@ -9769,24 +7790,10 @@
    ]
   },
   {
-   "n": "Xerox originální toner 106R01509, yellow, 12000str., určen pro region North America/Western Europe",
-   "u": "/xerox-originalni-toner-106r01509-yellow-12000str-urcen-pro-region-north-america/western-europe",
-   "kody": [
-    "106R01509"
-   ]
-  },
-  {
    "n": "Xerox originální toner 106R01531, black, 11000str.",
    "u": "/xerox-originalni-toner-106r01531-black-11000str",
    "kody": [
     "106R01531"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 106R02739, black, 14400str.",
-   "u": "/xerox-originalni-toner-106r02739-black-14400str",
-   "kody": [
-    "106R02739"
    ]
   },
   {
@@ -9846,20 +7853,6 @@
    ]
   },
   {
-   "n": "Xerox originální toner 106R03765, black, 10700str., high capacity",
-   "u": "/xerox-originalni-toner-106r03765-black-10700str-high-capacity",
-   "kody": [
-    "106R03765"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 106R03766, yellow, 10100str., high capacity",
-   "u": "/xerox-originalni-toner-106r03766-yellow-10100str-high-capacity",
-   "kody": [
-    "106R03766"
-   ]
-  },
-  {
    "n": "Xerox originální toner 106R03767, magenta, 10100str., high capacity",
    "u": "/xerox-originalni-toner-106r03767-magenta-10100str-high-capacity",
    "kody": [
@@ -9874,142 +7867,11 @@
    ]
   },
   {
-   "n": "Xerox originální toner 106R03924, cyan, 16800str., Extra High Capacity",
-   "u": "/xerox-originalni-toner-106r03924-cyan-16800str-extra-high-capacity",
-   "kody": [
-    "106R03924"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 106R03926, yellow, 16800str., Extra High Capacity",
-   "u": "/xerox-originalni-toner-106r03926-yellow-16800str-extra-high-capacity",
-   "kody": [
-    "106R03926"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 106R03927, black, 16900str., Extra High Capacity",
-   "u": "/xerox-originalni-toner-106r03927-black-16900str-extra-high-capacity",
-   "kody": [
-    "106R03927"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 106R03936, cyan, 16800str., extra high capacity",
-   "u": "/xerox-originalni-toner-106r03936-cyan-16800str-extra-high-capacity",
-   "kody": [
-    "106R03936"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 106R03937, magenta, 16800str., extra high capacity",
-   "u": "/xerox-originalni-toner-106r03937-magenta-16800str-extra-high-capacity",
-   "kody": [
-    "106R03937"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 106R03938, yellow, 16800str., extra high capacity",
-   "u": "/xerox-originalni-toner-106r03938-yellow-16800str-extra-high-capacity",
-   "kody": [
-    "106R03938"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 106R03943, black, 25900str., high capacity",
-   "u": "/xerox-originalni-toner-106r03943-black-25900str-high-capacity",
-   "kody": [
-    "106R03943"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 106R03945, black, 46700str., extra high capacity",
-   "u": "/xerox-originalni-toner-106r03945-black-46700str-extra-high-capacity",
-   "kody": [
-    "106R03945"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 106R04082, cyan, 26500str., high capacity",
-   "u": "/xerox-originalni-toner-106r04082-cyan-26500str-high-capacity",
-   "kody": [
-    "106R04082"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 106R04083, magenta, 26500str., high capacity",
-   "u": "/xerox-originalni-toner-106r04083-magenta-26500str-high-capacity",
-   "kody": [
-    "106R04083"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 106R04084, yellow, 26500str., high capacity",
-   "u": "/xerox-originalni-toner-106r04084-yellow-26500str-high-capacity",
-   "kody": [
-    "106R04084"
-   ]
-  },
-  {
-   "n": "Xerox originální ink 108R00840, black, 40000str., 4ks",
-   "u": "/xerox-originalni-ink-108r00840-black-40000str-4ks",
-   "kody": [
-    "108R00840"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R01457, black, 22000str., určen pro region North America/Western Europe",
-   "u": "/xerox-originalni-toner-006r01457-black-22000str-urcen-pro-region-north-america/western-europe",
-   "kody": [
-    "006R01457"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R01460, cyan, 15000str., určen pro region North America/Western Europe",
-   "u": "/xerox-originalni-toner-006r01460-cyan-15000str-urcen-pro-region-north-america/western-europe",
-   "kody": [
-    "006R01460"
-   ]
-  },
-  {
    "n": "Xerox originální toner 006R01644, magenta, 22000str.",
    "u": "/xerox-originalni-toner-006r01644-magenta-22000str",
    "kody": [
     "006R01644"
    ]
-  },
-  {
-   "n": "Xerox originální toner 006R01646, black, 22000str.",
-   "u": "/xerox-originalni-toner-006r01646-black-22000str",
-   "kody": [
-    "006R01646"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R01773, black, 30000str.",
-   "u": "/xerox-originalni-toner-006r01773-black-30000str",
-   "kody": [
-    "006R01773"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 106R03480, black, 5500str.",
-   "u": "/xerox-originalni-toner-106r03480-black-5500str",
-   "kody": [
-    "106R03480"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 106R03536, black, 5000str., METERED",
-   "u": "/xerox-originalni-toner-106r03536-black-5000str-metered",
-   "kody": [
-    "106R03536"
-   ]
-  },
-  {
-   "n": "Epson originální ink case eject 1487320, Epson pouzdro",
-   "u": "/epson-originalni-ink-case-eject-1487320-epson-pouzdro",
-   "kody": []
   },
   {
    "n": "HP originální válec SU418A, CLT-R659, R659, CMYK, 40000str., DOPRODEJ",
@@ -10018,15 +7880,6 @@
     "CLTR659",
     "R659",
     "SU418A"
-   ]
-  },
-  {
-   "n": "Konica Minolta originální toner filter A161R72800, A161R72811, Konica Minolta Bizhub C224, tonerový filtr",
-   "u": "/konica-minolta-originalni-toner-filter-a161r72800-a161r72811-konica-minolta-bizhub-c224-tonerovy-filtr",
-   "kody": [
-    "A161R72800",
-    "A161R72811",
-    "C224"
    ]
   },
   {
@@ -10045,33 +7898,10 @@
    "kody": []
   },
   {
-   "n": "Utax originální toner CK-8515Y, 1T02NHAUT0, yellow, 30000str.",
-   "u": "/utax-originalni-toner-ck-8515y-1t02nhaut0-yellow-30000str",
-   "kody": [
-    "1T02NHAUT0",
-    "CK8515Y"
-   ]
-  },
-  {
    "n": "Epson originální ink C13T54X60N, vivid light magenta, 350ml",
    "u": "/epson-originalni-ink-c13t54x60n-vivid-light-magenta-350ml",
    "kody": [
     "C13T54X60N"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner 1T02XR0NL0, TK-4145, black, 16000str.",
-   "u": "/kyocera-originalni-toner-1t02xr0nl0-tk-4145-black-16000str",
-   "kody": [
-    "1T02XR0NL0",
-    "TK4145"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T91380N, matte black, 200ml",
-   "u": "/epson-originalni-ink-c13t91380n-matte-black-200ml",
-   "kody": [
-    "C13T91380N"
    ]
   },
   {
@@ -10089,178 +7919,9 @@
    ]
   },
   {
-   "n": "Epson originální ink C13T69230N, magenta, 110ml",
-   "u": "/epson-originalni-ink-c13t69230n-magenta-110ml",
-   "kody": [
-    "C13T69230N"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s HP CB380A, HP 823A, black, 16500str., CB380A",
-   "u": "/katun-performance-kompatibilni-toner-s-hp-cb380a-hp-823a-black-16500str-cb380a",
-   "kody": [
-    "CB380A",
-    "HP823A"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s HP Q1339A, HP 39A, black, 18000str., Q1339A",
-   "u": "/katun-performance-kompatibilni-toner-s-hp-q1339a-hp-39a-black-18000str-q1339a",
-   "kody": [
-    "HP39A",
-    "Q1339A"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s HP Q6471A, HP 502A, cyan, 4000str., Q6471A",
-   "u": "/katun-performance-kompatibilni-toner-s-hp-q6471a-hp-502a-cyan-4000str-q6471a",
-   "kody": [
-    "HP502A",
-    "Q6471A"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s HP Q6472A, HP 502A, yellow, 4000str., Q6472A",
-   "u": "/katun-performance-kompatibilni-toner-s-hp-q6472a-hp-502a-yellow-4000str-q6472a",
-   "kody": [
-    "HP502A",
-    "Q6472A"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s HP Q7582A, HP 503A, yellow, 6000str., Q7582A",
-   "u": "/katun-performance-kompatibilni-toner-s-hp-q7582a-hp-503a-yellow-6000str-q7582a",
-   "kody": [
-    "HP503A",
-    "Q7582A"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s HP W9060MC, black, 16000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-hp-w9060mc-black-16000str",
-   "kody": [
-    "W9060MC"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s HP W9061MC, cyan, 12500str.",
-   "u": "/katun-performance-kompatibilni-toner-s-hp-w9061mc-cyan-12500str",
-   "kody": [
-    "W9061MC"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s HP W9062MC, yellow, 12500str.",
-   "u": "/katun-performance-kompatibilni-toner-s-hp-w9062mc-yellow-12500str",
-   "kody": [
-    "W9062MC"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s HP W9063MC, magenta, 12500str.",
-   "u": "/katun-performance-kompatibilni-toner-s-hp-w9063mc-magenta-12500str",
-   "kody": [
-    "W9063MC"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Lexmark 24B6035, black, 16000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-lexmark-24b6035-black-16000str",
-   "kody": [
-    "24B6035"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Lexmark 53B0XA0, 53B2X00, 63B2X00, black, 45000str., extra high capacity, return",
-   "u": "/katun-performance-kompatibilni-toner-s-lexmark-53b0xa0-53b2x00-63b2x00-black-45000str-extra-high-capacity-return",
-   "kody": [
-    "53B0XA0",
-    "53B2X00",
-    "63B2X00"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Lexmark 71B2HC0, black, 6000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-lexmark-71b2hc0-black-6000str",
-   "kody": [
-    "71B2HC0"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Lexmark 71B0HM0, magenta, 3500str.",
-   "u": "/katun-performance-kompatibilni-toner-s-lexmark-71b0hm0-magenta-3500str",
-   "kody": [
-    "71B0HM0"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Lexmark T650H11E, T650H21E, X651H11E, X651H21E, black, 25000str., high capacity, return",
-   "u": "/katun-performance-kompatibilni-toner-s-lexmark-t650h11e-t650h21e-x651h11e-x651h21e-black-25000str-high-capacity-return",
-   "kody": [
-    "T650H11E",
-    "T650H21E",
-    "X651H11E",
-    "X651H21E"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Lexmark T654X11E, T654X21E, X654X11E, X654X21E, black, 36000str., high capacity, return",
-   "u": "/katun-performance-kompatibilni-toner-s-lexmark-t654x11e-t654x21e-x654x11e-x654x21e-black-36000str-high-capacity-return",
-   "kody": [
-    "T654X11E",
-    "T654X21E",
-    "X654X11E",
-    "X654X21E"
-   ]
-  },
-  {
-   "n": "Tally Genicom originální toner 43769, black, 9000str., DOPRODEJ",
-   "u": "/tally-genicom-originalni-toner-43769-black-9000str-doprodej",
-   "kody": []
-  },
-  {
    "n": "Tally Genicom originální toner 43037, black, 6000str.",
    "u": "/tally-genicom-originalni-toner-43037-black-6000str",
    "kody": []
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Xerox 109R00725, 18S0090, black, 3000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-xerox-109r00725-18s0090-black-3000str",
-   "kody": [
-    "109R00725",
-    "18S0090"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Brother TN6600, black, 6000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-brother-tn6600-black-6000str",
-   "kody": [
-    "TN6600"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s C-EXV64 BK, 5753C002, black, 60000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-c-exv64-bk-5753c002-black-60000str",
-   "kody": [
-    "5753C002",
-    "CEXV64"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s CEXV64, 5755C002, magenta, 25500str.",
-   "u": "/katun-performance-kompatibilni-toner-s-cexv64-5755c002-magenta-25500str",
-   "kody": [
-    "5755C002",
-    "CEXV64"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s CEXV64, 5756C002, yellow, 25500str.",
-   "u": "/katun-performance-kompatibilni-toner-s-cexv64-5756c002-yellow-25500str",
-   "kody": [
-    "5756C002",
-    "CEXV64"
-   ]
   },
   {
    "n": "Katun Performance kompatibilní toner s Kyocera TK1115, 1T02M50NL0, black, 1600str.",
@@ -10295,22 +7956,6 @@
    ]
   },
   {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK1160, 1T02RY0NL0, black, 7200str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk1160-1t02ry0nl0-black-7200str",
-   "kody": [
-    "1T02RY0NL0",
-    "TK1160"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK1170, 1T02S50NL0, black, 7200str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk1170-1t02s50nl0-black-7200str",
-   "kody": [
-    "1T02S50NL0",
-    "TK1170"
-   ]
-  },
-  {
    "n": "Katun Performance kompatibilní toner s Kyocera TK160, black, 2500str.",
    "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk160-black-2500str",
    "kody": [
@@ -10323,14 +7968,6 @@
    "kody": [
     "1T02LZ0NL0",
     "TK170K"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK3060, 1T02V30NL0, black, 12500str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk3060-1t02v30nl0-black-12500str",
-   "kody": [
-    "1T02V30NL0",
-    "TK3060"
    ]
   },
   {
@@ -10371,30 +8008,6 @@
    "kody": [
     "1T02NX0NL0",
     "TK3150"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK3160, 1T02T90NL0, black, 12500str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk3160-1t02t90nl0-black-12500str",
-   "kody": [
-    "1T02T90NL0",
-    "TK3160"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK3190, 1T02T60NL0, black, 25000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk3190-1t02t60nl0-black-25000str",
-   "kody": [
-    "1T02T60NL0",
-    "TK3190"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK3200, 1T02X90NL0, black, 40000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk3200-1t02x90nl0-black-40000str",
-   "kody": [
-    "1T02X90NL0",
-    "TK3200"
    ]
   },
   {
@@ -10488,14 +8101,6 @@
    ]
   },
   {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5150M, 1T02NSBNL0, magenta, 10000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5150m-1t02nsbnl0-magenta-10000str",
-   "kody": [
-    "1T02NSBNL0",
-    "TK5150M"
-   ]
-  },
-  {
    "n": "Katun Performance kompatibilní toner s Kyocera TK5150Y, 1T02NSANL0, yellow, 10000str.",
    "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5150y-1t02nsanl0-yellow-10000str",
    "kody": [
@@ -10504,179 +8109,11 @@
    ]
   },
   {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5230K, 1T02R90NL0, black, 2600str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5230k-1t02r90nl0-black-2600str",
-   "kody": [
-    "1T02R90NL0",
-    "TK5230K"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5230C, 1T02R9CNL0, cyan, 2200str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5230c-1t02r9cnl0-cyan-2200str",
-   "kody": [
-    "1T02R9CNL0",
-    "TK5230C"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5230M, 1T02R9BNL0, magenta, 2200str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5230m-1t02r9bnl0-magenta-2200str",
-   "kody": [
-    "1T02R9BNL0",
-    "TK5230M"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5230Y, 1T02R9ANL0, yellow, 2200str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5230y-1t02r9anl0-yellow-2200str",
-   "kody": [
-    "1T02R9ANL0",
-    "TK5230Y"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5240K, 1T02R70NL0, black, 4000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5240k-1t02r70nl0-black-4000str",
-   "kody": [
-    "1T02R70NL0",
-    "TK5240K"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5240C, 1T02R7CNL0, cyan, 3000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5240c-1t02r7cnl0-cyan-3000str",
-   "kody": [
-    "1T02R7CNL0",
-    "TK5240C"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5240M, 1T02R7BNL0, magenta, 3000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5240m-1t02r7bnl0-magenta-3000str",
-   "kody": [
-    "1T02R7BNL0",
-    "TK5240M"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5240Y, 1T02R7ANL0, yellow, 3000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5240y-1t02r7anl0-yellow-3000str",
-   "kody": [
-    "1T02R7ANL0",
-    "TK5240Y"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5270K, 1T02TV0NL0, black, 8000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5270k-1t02tv0nl0-black-8000str",
-   "kody": [
-    "1T02TV0NL0",
-    "TK5270K"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5270C, 1T02TVCNL0, cyan, 6000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5270c-1t02tvcnl0-cyan-6000str",
-   "kody": [
-    "1T02TVCNL0",
-    "TK5270C"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5270M, 1T02TVBNL0, magenta, 6000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5270m-1t02tvbnl0-magenta-6000str",
-   "kody": [
-    "1T02TVBNL0",
-    "TK5270M"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5270Y, 1T02TVANL0, yellow, 6000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5270y-1t02tvanl0-yellow-6000str",
-   "kody": [
-    "1T02TVANL0",
-    "TK5270Y"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5280K, 1T02TW0NL0, black, 13000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5280k-1t02tw0nl0-black-13000str",
-   "kody": [
-    "1T02TW0NL0",
-    "TK5280K"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5280C, 1T02TWCNL0, cyan, 11000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5280c-1t02twcnl0-cyan-11000str",
-   "kody": [
-    "1T02TWCNL0",
-    "TK5280C"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5280M, 1T02TWBNL0, magenta, 11000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5280m-1t02twbnl0-magenta-11000str",
-   "kody": [
-    "1T02TWBNL0",
-    "TK5280M"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5280Y, 1T02TWANL0, yellow, 11000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5280y-1t02twanl0-yellow-11000str",
-   "kody": [
-    "1T02TWANL0",
-    "TK5280Y"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5290K, 1T02TX0NL0, black, 17000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5290k-1t02tx0nl0-black-17000str",
-   "kody": [
-    "1T02TX0NL0",
-    "TK5290K"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5290C, 1T02TXCNL0, cyan, 13000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5290c-1t02txcnl0-cyan-13000str",
-   "kody": [
-    "1T02TXCNL0",
-    "TK5290C"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5290M, 1T02TXBNL0, magenta, 13000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5290m-1t02txbnl0-magenta-13000str",
-   "kody": [
-    "1T02TXBNL0",
-    "TK5290M"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5290Y, 1T02TXANL0, yellow, 13000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5290y-1t02txanl0-yellow-13000str",
-   "kody": [
-    "1T02TXANL0",
-    "TK5290Y"
-   ]
-  },
-  {
    "n": "Katun Performance kompatibilní toner s Kyocera TK5305K, 1T02VM0NL0, black, 12000str.",
    "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5305k-1t02vm0nl0-black-12000str",
    "kody": [
     "1T02VM0NL0",
     "TK5305K"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK5305C, 1T02VMCNL0, cyan, 6000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk5305c-1t02vmcnl0-cyan-6000str",
-   "kody": [
-    "1T02VMCNL0",
-    "TK5305C"
    ]
   },
   {
@@ -10693,14 +8130,6 @@
    "kody": [
     "1T02VMANL0",
     "TK5305Y"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK560C, 0T2HNCEU, cyan, 10000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk560c-0t2hnceu-cyan-10000str",
-   "kody": [
-    "0T2HNCEU",
-    "TK560C"
    ]
   },
   {
@@ -10725,38 +8154,6 @@
    "kody": [
     "0T2HNAEU",
     "TK560Y"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK570C, 1T02HGCEU0, cyan, 12000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk570c-1t02hgceu0-cyan-12000str",
-   "kody": [
-    "1T02HGCEU0",
-    "TK570C"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK570K, 1T02HG0EU0, black, 16000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk570k-1t02hg0eu0-black-16000str",
-   "kody": [
-    "1T02HG0EU0",
-    "TK570K"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK570M, 1T02HGBEU0, magenta, 12000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk570m-1t02hgbeu0-magenta-12000str",
-   "kody": [
-    "1T02HGBEU0",
-    "TK570M"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK570Y, 1T02HGAEU0, yellow, 12000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk570y-1t02hgaeu0-yellow-12000str",
-   "kody": [
-    "1T02HGAEU0",
-    "TK570Y"
    ]
   },
   {
@@ -10821,14 +8218,6 @@
    "kody": [
     "1T02KVANL0",
     "TK590Y"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK603, 370AE010, black, 30000str., 1260g",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk603-370ae010-black-30000str-1260g",
-   "kody": [
-    "370AE010",
-    "TK603"
    ]
   },
   {
@@ -10914,14 +8303,6 @@
    ]
   },
   {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK7300, 1T02P70NL0, black, 15000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk7300-1t02p70nl0-black-15000str",
-   "kody": [
-    "1T02P70NL0",
-    "TK7300"
-   ]
-  },
-  {
    "n": "Katun Performance kompatibilní toner s Kyocera TK8115K, 1T02P30NL0, black, 12000str., 248g",
    "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk8115k-1t02p30nl0-black-12000str-248g",
    "kody": [
@@ -10967,14 +8348,6 @@
    "kody": [
     "1T02MVCNL0",
     "TK8315C"
-   ]
-  },
-  {
-   "n": "Katun Business Color kompatibilní toner s Kyocera TK8315M, 1T02MVBNL0, magenta, 6000str., 149g",
-   "u": "/katun-business-color-kompatibilni-toner-s-kyocera-tk8315m-1t02mvbnl0-magenta-6000str-149g",
-   "kody": [
-    "1T02MVBNL0",
-    "TK8315M"
    ]
   },
   {
@@ -11114,38 +8487,6 @@
    ]
   },
   {
-   "n": "Katun Access kompatibilní toner s Kyocera TK8515K, 1T02ND0NL0, black, 30000str., 642g",
-   "u": "/katun-access-kompatibilni-toner-s-kyocera-tk8515k-1t02nd0nl0-black-30000str-642g",
-   "kody": [
-    "1T02ND0NL0",
-    "TK8515K"
-   ]
-  },
-  {
-   "n": "Katun Access kompatibilní toner s Kyocera TK8515C, 1T02NDCNL0, cyan, 20000str., 461g",
-   "u": "/katun-access-kompatibilni-toner-s-kyocera-tk8515c-1t02ndcnl0-cyan-20000str-461g",
-   "kody": [
-    "1T02NDCNL0",
-    "TK8515C"
-   ]
-  },
-  {
-   "n": "Katun Access kompatibilní toner s Kyocera TK8515M, 1T02NDBNL0, magenta, 20000str., 461g",
-   "u": "/katun-access-kompatibilni-toner-s-kyocera-tk8515m-1t02ndbnl0-magenta-20000str-461g",
-   "kody": [
-    "1T02NDBNL0",
-    "TK8515M"
-   ]
-  },
-  {
-   "n": "Katun Access kompatibilní toner s Kyocera TK8515Y, 1T02NDANL0, yellow, 20000str., 461g",
-   "u": "/katun-access-kompatibilni-toner-s-kyocera-tk8515y-1t02ndanl0-yellow-20000str-461g",
-   "kody": [
-    "1T02NDANL0",
-    "TK8515Y"
-   ]
-  },
-  {
    "n": "Katun Performance kompatibilní toner s Kyocera TK8525K, 1T02RM0NL0, black, 30000str., 539g",
    "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk8525k-1t02rm0nl0-black-30000str-539g",
    "kody": [
@@ -11207,14 +8548,6 @@
    "kody": [
     "1T02JZAEU0",
     "TK865Y"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Kyocera TK895K, 1T02K00NL0, black, 12000str., 265g",
-   "u": "/katun-performance-kompatibilni-toner-s-kyocera-tk895k-1t02k00nl0-black-12000str-265g",
-   "kody": [
-    "1T02K00NL0",
-    "TK895K"
    ]
   },
   {
@@ -11281,14 +8614,6 @@
    ]
   },
   {
-   "n": "Katun Performance kompatibilní toner s Konica Minolta TN221C, A8K3450, cyan, 21000str., 509g",
-   "u": "/katun-performance-kompatibilni-toner-s-konica-minolta-tn221c-a8k3450-cyan-21000str-509g",
-   "kody": [
-    "A8K3450",
-    "TN221C"
-   ]
-  },
-  {
    "n": "Katun Performance kompatibilní toner s Konica Minolta TN221K, A8K3150, black, 24000str., 618g",
    "u": "/katun-performance-kompatibilni-toner-s-konica-minolta-tn221k-a8k3150-black-24000str-618g",
    "kody": [
@@ -11310,30 +8635,6 @@
    "kody": [
     "A8K3250",
     "TN221Y"
-   ]
-  },
-  {
-   "n": "Allprint kompatibilní toner s Konica Minolta TN311, 8938404, black",
-   "u": "/allprint-kompatibilni-toner-s-konica-minolta-tn311-8938404-black",
-   "kody": [
-    "TN311"
-   ]
-  },
-  {
-   "n": "Katun Access kompatibilní toner s Konica Minolta TN312C, 8938-708, cyan, 12000str., 260g",
-   "u": "/katun-access-kompatibilni-toner-s-konica-minolta-tn312c-8938-708-cyan-12000str-260g",
-   "kody": [
-    "TN312C"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Konica Minolta TN320, TN415, A202053, A202052, black, 20000str., 492g",
-   "u": "/katun-performance-kompatibilni-toner-s-konica-minolta-tn320-tn415-a202053-a202052-black-20000str-492g",
-   "kody": [
-    "A202052",
-    "A202053",
-    "TN320",
-    "TN415"
    ]
   },
   {
@@ -11376,38 +8677,6 @@
    "kody": [
     "A87M050",
     "TN323"
-   ]
-  },
-  {
-   "n": "Katun Business Color kompatibilní toner s Konica Minolta TN324C, A8DA450, cyan, 26000str., 549g",
-   "u": "/katun-business-color-kompatibilni-toner-s-konica-minolta-tn324c-a8da450-cyan-26000str-549g",
-   "kody": [
-    "A8DA450",
-    "TN324C"
-   ]
-  },
-  {
-   "n": "Katun Business Color kompatibilní toner s Konica Minolta TN324K, A8DA150, black, 28000str., 579g",
-   "u": "/katun-business-color-kompatibilni-toner-s-konica-minolta-tn324k-a8da150-black-28000str-579g",
-   "kody": [
-    "A8DA150",
-    "TN324K"
-   ]
-  },
-  {
-   "n": "Katun Business Color kompatibilní toner s Konica Minolta TN324M, A8DA350, magenta, 26000str., 549g",
-   "u": "/katun-business-color-kompatibilni-toner-s-konica-minolta-tn324m-a8da350-magenta-26000str-549g",
-   "kody": [
-    "A8DA350",
-    "TN324M"
-   ]
-  },
-  {
-   "n": "Katun Business Color kompatibilní toner s Konica Minolta TN324Y, A8DA250, yellow, 26000str., 562g",
-   "u": "/katun-business-color-kompatibilni-toner-s-konica-minolta-tn324y-a8da250-yellow-26000str-562g",
-   "kody": [
-    "A8DA250",
-    "TN324Y"
    ]
   },
   {
@@ -11477,14 +8746,6 @@
    ]
   },
   {
-   "n": "Katun Access kompatibilní toner s Konica Minolta TN512K, A33K152, black, 29000str., 579g",
-   "u": "/katun-access-kompatibilni-toner-s-konica-minolta-tn512k-a33k152-black-29000str-579g",
-   "kody": [
-    "A33K152",
-    "TN512K"
-   ]
-  },
-  {
    "n": "Katun Access kompatibilní toner s Konica Minolta TN512C, A33K452, cyan, 35000str., 514g",
    "u": "/katun-access-kompatibilni-toner-s-konica-minolta-tn512c-a33k452-cyan-35000str-514g",
    "kody": [
@@ -11533,14 +8794,6 @@
    ]
   },
   {
-   "n": "Katun Business Color kompatibilní toner s Konica Minolta TN611K, A070150, black, 45000str., 765g",
-   "u": "/katun-business-color-kompatibilni-toner-s-konica-minolta-tn611k-a070150-black-45000str-765g",
-   "kody": [
-    "A070150",
-    "TN611K"
-   ]
-  },
-  {
    "n": "Katun Business Color kompatibilní toner s Konica Minolta TN613C, A0TM450, cyan, 30000str., 510g",
    "u": "/katun-business-color-kompatibilni-toner-s-konica-minolta-tn613c-a0tm450-cyan-30000str-510g",
    "kody": [
@@ -11573,14 +8826,6 @@
    ]
   },
   {
-   "n": "Katun Performance kompatibilní toner s Konica Minolta TN710, 02XF, black, 55000str., 1160g",
-   "u": "/katun-performance-kompatibilni-toner-s-konica-minolta-tn710-02xf-black-55000str-1160g",
-   "kody": [
-    "02XF",
-    "TN710"
-   ]
-  },
-  {
    "n": "Katun Performance kompatibilní toner s Konica Minolta TN711K, TN712K, A3VU150, A3VU050, black, 47200str., 980g",
    "u": "/katun-performance-kompatibilni-toner-s-konica-minolta-tn711k-tn712k-a3vu150-a3vu050-black-47200str-980g",
    "kody": [
@@ -11588,30 +8833,6 @@
     "A3VU150",
     "TN711K",
     "TN712K"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Konica Minolta TN711C, A3VU450, cyan, 31500str.",
-   "u": "/katun-performance-kompatibilni-toner-s-konica-minolta-tn711c-a3vu450-cyan-31500str",
-   "kody": [
-    "A3VU450",
-    "TN711C"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Konica Minolta TN711M, A3VU350, magenta, 31500str.",
-   "u": "/katun-performance-kompatibilni-toner-s-konica-minolta-tn711m-a3vu350-magenta-31500str",
-   "kody": [
-    "A3VU350",
-    "TN711M"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Konica Minolta TN711Y, A3VU250, yellow, 31500str.",
-   "u": "/katun-performance-kompatibilni-toner-s-konica-minolta-tn711y-a3vu250-yellow-31500str",
-   "kody": [
-    "A3VU250",
-    "TN711Y"
    ]
   },
   {
@@ -11647,14 +8868,6 @@
    ]
   },
   {
-   "n": "Katun Select kompatibilní toner s Konica Minolta TNP24K, A32W021, black, 8000str.",
-   "u": "/katun-select-kompatibilni-toner-s-konica-minolta-tnp24k-a32w021-black-8000str",
-   "kody": [
-    "A32W021",
-    "TNP24K"
-   ]
-  },
-  {
    "n": "Katun Performance kompatibilní toner s Konica Minolta TNP36, TNP39, A63V00H, A63V00W, black, 10000str., return",
    "u": "/katun-performance-kompatibilni-toner-s-konica-minolta-tnp36-tnp39-a63v00h-a63v00w-black-10000str-return",
    "kody": [
@@ -11670,40 +8883,6 @@
    "kody": [
     "A63T01W",
     "TNP37"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Konica Minolta TNP38, TNP35, black, 20000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-konica-minolta-tnp38-tnp35-black-20000str",
-   "kody": [
-    "TNP35",
-    "TNP38"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Konica Minolta TNP40, TNP42, A6WN01H, black, 20000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-konica-minolta-tnp40-tnp42-a6wn01h-black-20000str",
-   "kody": [
-    "A6WN01H",
-    "TNP40",
-    "TNP42"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Konica Minolta TNP43, A6WT00H, black, 10000str., return",
-   "u": "/katun-performance-kompatibilni-toner-s-konica-minolta-tnp43-a6wt00h-black-10000str-return",
-   "kody": [
-    "A6WT00H",
-    "TNP43"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Konica Minolta TNP44, TNP46, A6VK01H, black, 20000str., return",
-   "u": "/katun-performance-kompatibilni-toner-s-konica-minolta-tnp44-tnp46-a6vk01h-black-20000str-return",
-   "kody": [
-    "A6VK01H",
-    "TNP44",
-    "TNP46"
    ]
   },
   {
@@ -11747,58 +8926,6 @@
    ]
   },
   {
-   "n": "Katun Select kompatibilní toner s OKI 44469706, cyan, 2000str.",
-   "u": "/katun-select-kompatibilni-toner-s-oki-44469706-cyan-2000str",
-   "kody": []
-  },
-  {
-   "n": "Katun Select kompatibilní toner s OKI 44469705, magenta, 2000str.",
-   "u": "/katun-select-kompatibilni-toner-s-oki-44469705-magenta-2000str",
-   "kody": []
-  },
-  {
-   "n": "Katun Select kompatibilní toner s OKI 44469704, yellow, 2000str.",
-   "u": "/katun-select-kompatibilni-toner-s-oki-44469704-yellow-2000str",
-   "kody": []
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s OKI 44315307, cyan, 6000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-oki-44315307-cyan-6000str",
-   "kody": []
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s OKI 44315306, magenta, 6000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-oki-44315306-magenta-6000str",
-   "kody": []
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s OKI 44315305, yellow, 6000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-oki-44315305-yellow-6000str",
-   "kody": []
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s OKI 44059166, magenta, 7300str.",
-   "u": "/katun-performance-kompatibilni-toner-s-oki-44059166-magenta-7300str",
-   "kody": []
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s OKI 44059165, yellow, 7300str.",
-   "u": "/katun-performance-kompatibilni-toner-s-oki-44059165-yellow-7300str",
-   "kody": []
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s OKI 44059210, magenta, 10000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-oki-44059210-magenta-10000str",
-   "kody": []
-  },
-  {
-   "n": "Katun Access kompatibilní toner s Sharp AR-455T, black, 35000str.",
-   "u": "/katun-access-kompatibilni-toner-s-sharp-ar-455t-black-35000str",
-   "kody": [
-    "AR455T"
-   ]
-  },
-  {
    "n": "Katun Access kompatibilní toner s Sharp MX-23GTBA, black, 18000str., 415g",
    "u": "/katun-access-kompatibilni-toner-s-sharp-mx-23gtba-black-18000str-415g",
    "kody": [
@@ -11831,13 +8958,6 @@
    "u": "/katun-business-color-kompatibilni-toner-s-sharp-mx-27gtca-cyan-15000str",
    "kody": [
     "MX27GTCA"
-   ]
-  },
-  {
-   "n": "Katun Business Color kompatibilní toner s Sharp MX-27GTMA, magenta, 15000str.",
-   "u": "/katun-business-color-kompatibilni-toner-s-sharp-mx-27gtma-magenta-15000str",
-   "kody": [
-    "MX27GTMA"
    ]
   },
   {
@@ -11988,166 +9108,10 @@
    ]
   },
   {
-   "n": "Katun Business Color kompatibilní toner s Sharp MX-C38GTB, black, 10000str.",
-   "u": "/katun-business-color-kompatibilni-toner-s-sharp-mx-c38gtb-black-10000str",
-   "kody": [
-    "MXC38GTB"
-   ]
-  },
-  {
    "n": "Katun Business Color kompatibilní toner s Sharp MX-C38GTC, cyan, 10000str.",
    "u": "/katun-business-color-kompatibilni-toner-s-sharp-mx-c38gtc-cyan-10000str",
    "kody": [
     "MXC38GTC"
-   ]
-  },
-  {
-   "n": "Katun Business Color kompatibilní toner s Sharp MX-C38GTM, magenta, 10000str.",
-   "u": "/katun-business-color-kompatibilni-toner-s-sharp-mx-c38gtm-magenta-10000str",
-   "kody": [
-    "MXC38GTM"
-   ]
-  },
-  {
-   "n": "Katun Business Color kompatibilní toner s Sharp MX-C38GTY, yellow, 10000str.",
-   "u": "/katun-business-color-kompatibilni-toner-s-sharp-mx-c38gty-yellow-10000str",
-   "kody": [
-    "MXC38GTY"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Xerox 106R02230, magenta, 6000str., high capacity",
-   "u": "/katun-performance-kompatibilni-toner-s-xerox-106r02230-magenta-6000str-high-capacity",
-   "kody": [
-    "106R02230"
-   ]
-  },
-  {
-   "n": "Katun Performance kompatibilní toner s Xerox 106R02311, black, 5000str.",
-   "u": "/katun-performance-kompatibilni-toner-s-xerox-106r02311-black-5000str",
-   "kody": [
-    "106R02311"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T61480N, matte black, 220ml",
-   "u": "/epson-originalni-ink-c13t61480n-matte-black-220ml",
-   "kody": [
-    "C13T61480N"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T50U30N, magenta",
-   "u": "/epson-originalni-ink-c13t50u30n-magenta",
-   "kody": [
-    "C13T50U30N"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T50U80N, matte black",
-   "u": "/epson-originalni-ink-c13t50u80n-matte-black",
-   "kody": [
-    "C13T50U80N"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner TK-3440, 1T0C0T0NL0, black, 40000str.",
-   "u": "/kyocera-originalni-toner-tk-3440-1t0c0t0nl0-black-40000str",
-   "kody": [
-    "1T0C0T0NL0",
-    "TK3440"
-   ]
-  },
-  {
-   "n": "HP originální ink A24VMA, HP 738M, cyan, 130ml",
-   "u": "/hp-originalni-ink-a24vma-hp-738m-cyan-130ml",
-   "kody": [
-    "A24VMA",
-    "HP738M"
-   ]
-  },
-  {
-   "n": "HP originální ink A24VNA, HP 738M, magenta, 130ml",
-   "u": "/hp-originalni-ink-a24vna-hp-738m-magenta-130ml",
-   "kody": [
-    "A24VNA",
-    "HP738M"
-   ]
-  },
-  {
-   "n": "Canon originální toner C-EXV58LC C, 3767C002, cyan, 26000str., low capacity",
-   "u": "/canon-originalni-toner-c-exv58lc-c-3767c002-cyan-26000str-low-capacity",
-   "kody": [
-    "3767C002",
-    "CEXV58LC"
-   ]
-  },
-  {
-   "n": "Canon originální toner C-EXV58L M, 3768C002, magenta, 26000str., low capacity",
-   "u": "/canon-originalni-toner-c-exv58l-m-3768c002-magenta-26000str-low-capacity",
-   "kody": [
-    "3768C002",
-    "CEXV58L"
-   ]
-  },
-  {
-   "n": "Canon originální toner C-EXV58L Y, 3769C002, yellow, 26000str., low capacity",
-   "u": "/canon-originalni-toner-c-exv58l-y-3769c002-yellow-26000str-low-capacity",
-   "kody": [
-    "3769C002",
-    "CEXV58L"
-   ]
-  },
-  {
-   "n": "HP originální ink A24VLA, black, 130ml",
-   "u": "/hp-originalni-ink-a24vla-black-130ml",
-   "kody": [
-    "A24VLA"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T04A14N, XXL, black, 11500str.",
-   "u": "/epson-originalni-ink-c13t04a14n-xxl-black-11500str",
-   "kody": [
-    "C13T04A14N"
-   ]
-  },
-  {
-   "n": "HP originální ink A24VPA, HP 738M, yellow, 130ml",
-   "u": "/hp-originalni-ink-a24vpa-hp-738m-yellow-130ml",
-   "kody": [
-    "A24VPA",
-    "HP738M"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T61280N, matte black, 220ml",
-   "u": "/epson-originalni-ink-c13t61280n-matte-black-220ml",
-   "kody": [
-    "C13T61280N"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T44Q34N, T44Q34N, vivid magenta, 350ml, UltraChrome PRO 12",
-   "u": "/epson-originalni-ink-c13t44q34n-t44q34n-vivid-magenta-350ml-ultrachrome-pro-12",
-   "kody": [
-    "C13T44Q34N",
-    "T44Q34N"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T44Q84N, T44Q84N, matte black, 350ml, UltraChrome PRO 12",
-   "u": "/epson-originalni-ink-c13t44q84n-t44q84n-matte-black-350ml-ultrachrome-pro-12",
-   "kody": [
-    "C13T44Q84N",
-    "T44Q84N"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R04400, black, 3000str., high capacity",
-   "u": "/xerox-originalni-toner-006r04400-black-3000str-high-capacity",
-   "kody": [
-    "006R04400"
    ]
   },
   {
@@ -12223,14 +9187,6 @@
    ]
   },
   {
-   "n": "Epson originální ink C13T83934N, T8393, XL, magenta, 192.4ml",
-   "u": "/epson-originalni-ink-c13t83934n-t8393-xl-magenta-192-4ml",
-   "kody": [
-    "C13T83934N",
-    "T8393"
-   ]
-  },
-  {
    "n": "UPrint repasovaný toner s Samsung CLT-C404S, S.404SC, cyan, 1000str.",
    "u": "/uprint-repasovany-toner-s-samsung-clt-c404s-s-404sc-cyan-1000str",
    "kody": [
@@ -12243,14 +9199,6 @@
    "u": "/oce-originalni-toner-6696c001-1070129856-2x500g",
    "kody": [
     "6696C001"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T76084N10, T7608, matte black, 25,9ml, 1ks",
-   "u": "/epson-originalni-ink-c13t76084n10-t7608-matte-black-25-9ml-1ks",
-   "kody": [
-    "C13T76084N10",
-    "T7608"
    ]
   },
   {
@@ -12282,13 +9230,6 @@
    ]
   },
   {
-   "n": "Lexmark originální toner 75M2HM0, magenta, 15800str.",
-   "u": "/lexmark-originalni-toner-75m2hm0-magenta-15800str",
-   "kody": [
-    "75M2HM0"
-   ]
-  },
-  {
    "n": "Lexmark originální toner 75M2HY0, yellow, 8800str.",
    "u": "/lexmark-originalni-toner-75m2hy0-yellow-8800str",
    "kody": [
@@ -12296,32 +9237,10 @@
    ]
   },
   {
-   "n": "Xerox originální toner 006R04835, black, 8000str.",
-   "u": "/xerox-originalni-toner-006r04835-black-8000str",
-   "kody": [
-    "006R04835"
-   ]
-  },
-  {
-   "n": "Sharp originální toner MXB70T, black, 45000str.",
-   "u": "/sharp-originalni-toner-mxb70t-black-45000str",
-   "kody": [
-    "MXB70T"
-   ]
-  },
-  {
    "n": "Xerox originální toner 006R04765, cyan, 7000str., high capacity",
    "u": "/xerox-originalni-toner-006r04765-cyan-7000str-high-capacity",
    "kody": [
     "006R04765"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T44J84N, T44J84N, matte black, 700ml, UltraChrome PRO 12",
-   "u": "/epson-originalni-ink-c13t44j84n-t44j84n-matte-black-700ml-ultrachrome-pro-12",
-   "kody": [
-    "C13T44J84N",
-    "T44J84N"
    ]
   },
   {
@@ -12341,22 +9260,6 @@
    ]
   },
   {
-   "n": "Epson originální ink C13T44J34N, T44J34N, vivid magenta, 700ml, UltraChrome PRO 12",
-   "u": "/epson-originalni-ink-c13t44j34n-t44j34n-vivid-magenta-700ml-ultrachrome-pro-12",
-   "kody": [
-    "C13T44J34N",
-    "T44J34N"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T44J64N, T44J64N, vivid light magenta, 700ml, UltraChrome PRO 12",
-   "u": "/epson-originalni-ink-c13t44j64n-t44j64n-vivid-light-magenta-700ml-ultrachrome-pro-12",
-   "kody": [
-    "C13T44J64N",
-    "T44J64N"
-   ]
-  },
-  {
    "n": "Epson originální ink C13T97420N, cyan",
    "u": "/epson-originalni-ink-c13t97420n-cyan",
    "kody": [
@@ -12369,20 +9272,6 @@
    "kody": [
     "A0X5452",
     "TNP22C"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T54X30N, vivid magenta, 350ml",
-   "u": "/epson-originalni-ink-c13t54x30n-vivid-magenta-350ml",
-   "kody": [
-    "C13T54X30N"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T54X80N, matte black, 350ml",
-   "u": "/epson-originalni-ink-c13t54x80n-matte-black-350ml",
-   "kody": [
-    "C13T54X80N"
    ]
   },
   {
@@ -12425,103 +9314,6 @@
    ]
   },
   {
-   "n": "Canon originální toner T11 C, 5147C001, cyan, 33000str., high capacity",
-   "u": "/canon-originalni-toner-t11-c-5147c001-cyan-33000str-high-capacity",
-   "kody": [
-    "5147C001",
-    "T11"
-   ]
-  },
-  {
-   "n": "Canon originální toner T11 M, 5148C001, magenta, 33000str., high capacity",
-   "u": "/canon-originalni-toner-t11-m-5148c001-magenta-33000str-high-capacity",
-   "kody": [
-    "5148C001",
-    "T11"
-   ]
-  },
-  {
-   "n": "Canon originální toner T11 Y, 5149C001, yellow, 33000str., high capacity",
-   "u": "/canon-originalni-toner-t11-y-5149c001-yellow-33000str-high-capacity",
-   "kody": [
-    "5149C001",
-    "T11"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T13L140, XL, black",
-   "u": "/epson-originalni-ink-c13t13l140-xl-black",
-   "kody": [
-    "C13T13L140"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T13L240, XL, cyan",
-   "u": "/epson-originalni-ink-c13t13l240-xl-cyan",
-   "kody": [
-    "C13T13L240"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T13L340, XL, magenta",
-   "u": "/epson-originalni-ink-c13t13l340-xl-magenta",
-   "kody": [
-    "C13T13L340"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T13L440, XL, yellow",
-   "u": "/epson-originalni-ink-c13t13l440-xl-yellow",
-   "kody": [
-    "C13T13L440"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T97430N, magenta",
-   "u": "/epson-originalni-ink-c13t97430n-magenta",
-   "kody": [
-    "C13T97430N"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T97440N, yellow",
-   "u": "/epson-originalni-ink-c13t97440n-yellow",
-   "kody": [
-    "C13T97440N"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T90744N, T9074, XXL, yellow, 69ml",
-   "u": "/epson-originalni-ink-c13t90744n-t9074-xxl-yellow-69ml",
-   "kody": [
-    "C13T90744N",
-    "T9074"
-   ]
-  },
-  {
-   "n": "Konica Minolta originální toner ACP8250, TN715Y, yellow, 45000str.",
-   "u": "/konica-minolta-originalni-toner-acp8250-tn715y-yellow-45000str",
-   "kody": [
-    "ACP8250",
-    "TN715Y"
-   ]
-  },
-  {
-   "n": "Sharp originální toner BPGT20CB, cyan, 5000str.",
-   "u": "/sharp-originalni-toner-bpgt20cb-cyan-5000str",
-   "kody": [
-    "BPGT20CB"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T49H10N, T49H, black, 140ml",
-   "u": "/epson-originalni-ink-c13t49h10n-t49h-black-140ml",
-   "kody": [
-    "C13T49H10N",
-    "T49H"
-   ]
-  },
-  {
    "n": "Konica Minolta originální toner A0DK353, TN318M, magenta, 8000str.",
    "u": "/konica-minolta-originalni-toner-a0dk353-tn318m-magenta-8000str",
    "kody": [
@@ -12545,55 +9337,10 @@
    ]
   },
   {
-   "n": "Epson originální ink C13T50M30N, magenta",
-   "u": "/epson-originalni-ink-c13t50m30n-magenta",
-   "kody": [
-    "C13T50M30N"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T50M80N, matte black",
-   "u": "/epson-originalni-ink-c13t50m80n-matte-black",
-   "kody": [
-    "C13T50M80N"
-   ]
-  },
-  {
-   "n": "G&G kompatibilní toner s MLT-D111L, NT-PS2020XC, black, 1800str., high capacity",
-   "u": "/g-g-kompatibilni-toner-s-mlt-d111l-nt-ps2020xc-black-1800str-high-capacity",
-   "kody": [
-    "MLTD111L",
-    "NTPS2020XC"
-   ]
-  },
-  {
    "n": "Xerox originální Toner 106R04052, yellow, 16500str., pro Západní trh, high capacity",
    "u": "/xerox-originalni-toner-106r04052-yellow-16500str-pro-zapadni-trh-high-capacity",
    "kody": [
     "106R04052"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T83914N, T8391, XL, black, 20000str., 402.1ml",
-   "u": "/epson-originalni-ink-c13t83914n-t8391-xl-black-20000str-402-1ml",
-   "kody": [
-    "C13T83914N",
-    "T8391"
-   ]
-  },
-  {
-   "n": "Sharp originální toner BPGT700, black, 40000str.",
-   "u": "/sharp-originalni-toner-bpgt700-black-40000str",
-   "kody": [
-    "BPGT700"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T44Q64N, T44Q640, vivid light magenta, 350ml, UltraChrome PRO 12",
-   "u": "/epson-originalni-ink-c13t44q64n-t44q640-vivid-light-magenta-350ml-ultrachrome-pro-12",
-   "kody": [
-    "C13T44Q64N",
-    "T44Q640"
    ]
   },
   {
@@ -12681,48 +9428,6 @@
    ]
   },
   {
-   "n": "Epson originální ink C13T53A100, photo black",
-   "u": "/epson-originalni-ink-c13t53a100-photo-black",
-   "kody": [
-    "C13T53A100"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T53A200, cyan",
-   "u": "/epson-originalni-ink-c13t53a200-cyan",
-   "kody": [
-    "C13T53A200"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T53A30N, magenta",
-   "u": "/epson-originalni-ink-c13t53a30n-magenta",
-   "kody": [
-    "C13T53A30N"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T53A400, yellow",
-   "u": "/epson-originalni-ink-c13t53a400-yellow",
-   "kody": [
-    "C13T53A400"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T53A80N, matt black",
-   "u": "/epson-originalni-ink-c13t53a80n-matt-black",
-   "kody": [
-    "C13T53A80N"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T53A900, red",
-   "u": "/epson-originalni-ink-c13t53a900-red",
-   "kody": [
-    "C13T53A900"
-   ]
-  },
-  {
    "n": "Epson originální ink C13T53F100, photo black",
    "u": "/epson-originalni-ink-c13t53f100-photo-black",
    "kody": [
@@ -12765,31 +9470,10 @@
    ]
   },
   {
-   "n": "Epson originální ink C13T55K100, photo black",
-   "u": "/epson-originalni-ink-c13t55k100-photo-black",
-   "kody": [
-    "C13T55K100"
-   ]
-  },
-  {
    "n": "Epson originální ink C13T55K200, cyan",
    "u": "/epson-originalni-ink-c13t55k200-cyan",
    "kody": [
     "C13T55K200"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T55K30N, vivid magenta",
-   "u": "/epson-originalni-ink-c13t55k30n-vivid-magenta",
-   "kody": [
-    "C13T55K30N"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T55K400, yellow",
-   "u": "/epson-originalni-ink-c13t55k400-yellow",
-   "kody": [
-    "C13T55K400"
    ]
   },
   {
@@ -12800,13 +9484,6 @@
    ]
   },
   {
-   "n": "Epson originální ink C13T55K60N, vivid light magenta",
-   "u": "/epson-originalni-ink-c13t55k60n-vivid-light-magenta",
-   "kody": [
-    "C13T55K60N"
-   ]
-  },
-  {
    "n": "Epson originální ink C13T55K700, light black",
    "u": "/epson-originalni-ink-c13t55k700-light-black",
    "kody": [
@@ -12814,101 +9491,10 @@
    ]
   },
   {
-   "n": "Epson originální ink C13T55K80N, matt black",
-   "u": "/epson-originalni-ink-c13t55k80n-matt-black",
-   "kody": [
-    "C13T55K80N"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T55K900, light light black",
-   "u": "/epson-originalni-ink-c13t55k900-light-light-black",
-   "kody": [
-    "C13T55K900"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T55KA00, orange",
-   "u": "/epson-originalni-ink-c13t55ka00-orange",
-   "kody": [
-    "C13T55KA00"
-   ]
-  },
-  {
    "n": "Epson originální ink C13T55KB00, green",
    "u": "/epson-originalni-ink-c13t55kb00-green",
    "kody": [
     "C13T55KB00"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T55W100, photo black",
-   "u": "/epson-originalni-ink-c13t55w100-photo-black",
-   "kody": [
-    "C13T55W100"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T55W200, cyan",
-   "u": "/epson-originalni-ink-c13t55w200-cyan",
-   "kody": [
-    "C13T55W200"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T55W300, vivid magenta",
-   "u": "/epson-originalni-ink-c13t55w300-vivid-magenta",
-   "kody": [
-    "C13T55W300"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T55W400, yellow",
-   "u": "/epson-originalni-ink-c13t55w400-yellow",
-   "kody": [
-    "C13T55W400"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T55W500, light cyan",
-   "u": "/epson-originalni-ink-c13t55w500-light-cyan",
-   "kody": [
-    "C13T55W500"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T55W600, vivid light magenta",
-   "u": "/epson-originalni-ink-c13t55w600-vivid-light-magenta",
-   "kody": [
-    "C13T55W600"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T55W700, gray",
-   "u": "/epson-originalni-ink-c13t55w700-gray",
-   "kody": [
-    "C13T55W700"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T55W800, matt black",
-   "u": "/epson-originalni-ink-c13t55w800-matt-black",
-   "kody": [
-    "C13T55W800"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T55W900, light gray",
-   "u": "/epson-originalni-ink-c13t55w900-light-gray",
-   "kody": [
-    "C13T55W900"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T55WD00, violet",
-   "u": "/epson-originalni-ink-c13t55wd00-violet",
-   "kody": [
-    "C13T55WD00"
    ]
   },
   {
@@ -12996,57 +9582,6 @@
    ]
   },
   {
-   "n": "Epson originální ink C13T55KD00, violet",
-   "u": "/epson-originalni-ink-c13t55kd00-violet",
-   "kody": [
-    "C13T55KD00"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R01831, yellow, 18500str.",
-   "u": "/xerox-originalni-toner-006r01831-yellow-18500str",
-   "kody": [
-    "006R01831"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner TK-1260, 1T0C150NL0, black, 10000str.",
-   "u": "/kyocera-originalni-toner-tk-1260-1t0c150nl0-black-10000str",
-   "kody": [
-    "1T0C150NL0",
-    "TK1260"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner TK-1270, 1T0C140NL0, black, 10000str.",
-   "u": "/kyocera-originalni-toner-tk-1270-1t0c140nl0-black-10000str",
-   "kody": [
-    "1T0C140NL0",
-    "TK1270"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R04832, cyan, 5500str.",
-   "u": "/xerox-originalni-toner-006r04832-cyan-5500str",
-   "kody": [
-    "006R04832"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R04833, magenta, 5500str.",
-   "u": "/xerox-originalni-toner-006r04833-magenta-5500str",
-   "kody": [
-    "006R04833"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R04834, yellow, 5500str.",
-   "u": "/xerox-originalni-toner-006r04834-yellow-5500str",
-   "kody": [
-    "006R04834"
-   ]
-  },
-  {
    "n": "Epson originální ink C13T44QD40, T44QD40, violet, 350ml, UltraChrome PRO 12",
    "u": "/epson-originalni-ink-c13t44qd40-t44qd40-violet-350ml-ultrachrome-pro-12",
    "kody": [
@@ -13062,14 +9597,6 @@
    ]
   },
   {
-   "n": "Epson originální ink C13T90734N, T9073, XXL, magenta, 69ml",
-   "u": "/epson-originalni-ink-c13t90734n-t9073-xxl-magenta-69ml",
-   "kody": [
-    "C13T90734N",
-    "T9073"
-   ]
-  },
-  {
    "n": "Kyocera originální toner 1T02S50NL0, TK-1170, black, 7200str.",
    "u": "/kyocera-originalni-toner-1t02s50nl0-tk-1170-black-7200str",
    "kody": [
@@ -13078,50 +9605,11 @@
    ]
   },
   {
-   "n": "Sharp originální toner BPGT30MB, Magenta, 7500str.",
-   "u": "/sharp-originalni-toner-bpgt30mb-magenta-7500str",
-   "kody": [
-    "BPGT30MB"
-   ]
-  },
-  {
    "n": "HP originální toner W1760A, HP 176A, black, 45000str.",
    "u": "/hp-originalni-toner-w1760a-hp-176a-black-45000str",
    "kody": [
     "HP176A",
     "W1760A"
-   ]
-  },
-  {
-   "n": "Konica Minolta originální toner TN227C, ACVH450, cyan, 24000str.",
-   "u": "/konica-minolta-originalni-toner-tn227c-acvh450-cyan-24000str",
-   "kody": [
-    "ACVH450",
-    "TN227C"
-   ]
-  },
-  {
-   "n": "Konica Minolta originální toner TN227K, ACVH150, black, 24000str.",
-   "u": "/konica-minolta-originalni-toner-tn227k-acvh150-black-24000str",
-   "kody": [
-    "ACVH150",
-    "TN227K"
-   ]
-  },
-  {
-   "n": "Konica Minolta originální toner TN227M, ACVH350, magenta, 24000str.",
-   "u": "/konica-minolta-originalni-toner-tn227m-acvh350-magenta-24000str",
-   "kody": [
-    "ACVH350",
-    "TN227M"
-   ]
-  },
-  {
-   "n": "Konica Minolta originální toner TN227Y, ACVH250, yellow, 24000str.",
-   "u": "/konica-minolta-originalni-toner-tn227y-acvh250-yellow-24000str",
-   "kody": [
-    "ACVH250",
-    "TN227Y"
    ]
   },
   {
@@ -13285,69 +9773,12 @@
    ]
   },
   {
-   "n": "Xerox originální toner 006R04827, black, 2200str.",
-   "u": "/xerox-originalni-toner-006r04827-black-2200str",
-   "kody": [
-    "006R04827"
-   ]
-  },
-  {
-   "n": "Sharp originální toner BPC50GTBA, black, 24000str.",
-   "u": "/sharp-originalni-toner-bpc50gtba-black-24000str",
-   "kody": [
-    "BPC50GTBA"
-   ]
-  },
-  {
-   "n": "Sharp originální toner BPC50GTCA, cyan, 8000str.",
-   "u": "/sharp-originalni-toner-bpc50gtca-cyan-8000str",
-   "kody": [
-    "BPC50GTCA"
-   ]
-  },
-  {
-   "n": "Sharp originální toner BPC50GTMA, magenta, 8000str.",
-   "u": "/sharp-originalni-toner-bpc50gtma-magenta-8000str",
-   "kody": [
-    "BPC50GTMA"
-   ]
-  },
-  {
-   "n": "Sharp originální toner BPC50GTYA, yellow, 8000str.",
-   "u": "/sharp-originalni-toner-bpc50gtya-yellow-8000str",
-   "kody": [
-    "BPC50GTYA"
-   ]
-  },
-  {
-   "n": "Sharp originální toner BPGT30CA, cyan, 15000str.",
-   "u": "/sharp-originalni-toner-bpgt30ca-cyan-15000str",
-   "kody": [
-    "BPGT30CA"
-   ]
-  },
-  {
-   "n": "Konica Minolta originální toner AF1R151, TN634K, black, 60000str.",
-   "u": "/konica-minolta-originalni-toner-af1r151-tn634k-black-60000str",
-   "kody": [
-    "AF1R151",
-    "TN634K"
-   ]
-  },
-  {
    "n": "HP originální toner SV058A, MLT-D307E, 307E, black, 20000str., extra high capacity",
    "u": "/hp-originalni-toner-sv058a-mlt-d307e-307e-black-20000str-extra-high-capacity",
    "kody": [
     "307E",
     "MLTD307E",
     "SV058A"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T591600, light vivid magenta, 700ml",
-   "u": "/epson-originalni-ink-c13t591600-light-vivid-magenta-700ml",
-   "kody": [
-    "C13T591600"
    ]
   },
   {
@@ -13376,20 +9807,6 @@
    ]
   },
   {
-   "n": "Xerox originální toner 006R04824, cyan, 1800str.",
-   "u": "/xerox-originalni-toner-006r04824-cyan-1800str",
-   "kody": [
-    "006R04824"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R04826, yellow, 1800str.",
-   "u": "/xerox-originalni-toner-006r04826-yellow-1800str",
-   "kody": [
-    "006R04826"
-   ]
-  },
-  {
    "n": "Canon originální ink PFI-3700 PC, 6451C001, photo cyan, 700ml",
    "u": "/canon-originalni-ink-pfi-3700-pc-6451c001-photo-cyan-700ml",
    "kody": [
@@ -13406,56 +9823,10 @@
    ]
   },
   {
-   "n": "OKI originální toner 09006238, black, 12000str.",
-   "u": "/oki-originalni-toner-09006238-black-12000str",
-   "kody": []
-  },
-  {
-   "n": "OKI originální toner 09006236, black, 3000str.",
-   "u": "/oki-originalni-toner-09006236-black-3000str",
-   "kody": []
-  },
-  {
-   "n": "OKI originální toner 09006237, black, 7000str.",
-   "u": "/oki-originalni-toner-09006237-black-7000str",
-   "kody": []
-  },
-  {
-   "n": "HP originální toner W2171Z, HP 217Z, cyan, 24000str.",
-   "u": "/hp-originalni-toner-w2171z-hp-217z-cyan-24000str",
-   "kody": [
-    "HP217Z",
-    "W2171Z"
-   ]
-  },
-  {
-   "n": "HP originální toner W2172Z, HP 217Z, yellow, 24000str.",
-   "u": "/hp-originalni-toner-w2172z-hp-217z-yellow-24000str",
-   "kody": [
-    "HP217Z",
-    "W2172Z"
-   ]
-  },
-  {
-   "n": "HP originální toner W2173Z, HP 217Z, magenta, 24000str.",
-   "u": "/hp-originalni-toner-w2173z-hp-217z-magenta-24000str",
-   "kody": [
-    "HP217Z",
-    "W2173Z"
-   ]
-  },
-  {
    "n": "Epson originální ink C13T41E240, cyan, 700ml",
    "u": "/epson-originalni-ink-c13t41e240-cyan-700ml",
    "kody": [
     "C13T41E240"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T41E34N, magenta, 700ml",
-   "u": "/epson-originalni-ink-c13t41e34n-magenta-700ml",
-   "kody": [
-    "C13T41E34N"
    ]
   },
   {
@@ -13498,51 +9869,11 @@
    ]
   },
   {
-   "n": "Konica Minolta originální toner AF1R151, TN635K, black, 66000str.",
-   "u": "/konica-minolta-originalni-toner-af1r151-tn635k-black-66000str",
-   "kody": [
-    "AF1R151",
-    "TN635K"
-   ]
-  },
-  {
    "n": "Konica Minolta originální toner A3VX151, TNP-620K, black, 60000str.",
    "u": "/konica-minolta-originalni-toner-a3vx151-tnp-620k-black-60000str",
    "kody": [
     "A3VX151",
     "TNP620K"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner 1T02WH0NL0, TK-5315K, black, 24000str.",
-   "u": "/kyocera-originalni-toner-1t02wh0nl0-tk-5315k-black-24000str",
-   "kody": [
-    "1T02WH0NL0",
-    "TK5315K"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner 1T02WHCNL0, TK-5315C, cyan, 18000str.",
-   "u": "/kyocera-originalni-toner-1t02whcnl0-tk-5315c-cyan-18000str",
-   "kody": [
-    "1T02WHCNL0",
-    "TK5315C"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner 1T02WHBNL0, TK-5315M, magenta, 18000str.",
-   "u": "/kyocera-originalni-toner-1t02whbnl0-tk-5315m-magenta-18000str",
-   "kody": [
-    "1T02WHBNL0",
-    "TK5315M"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner 1T02WHANL0, TK-5315Y, yellow, 18000str.",
-   "u": "/kyocera-originalni-toner-1t02whanl0-tk-5315y-yellow-18000str",
-   "kody": [
-    "1T02WHANL0",
-    "TK5315Y"
    ]
   },
   {
@@ -13567,14 +9898,6 @@
    ]
   },
   {
-   "n": "HP originální ink 7FP38UE, HP 654, Tri-colour, 200str.",
-   "u": "/hp-originalni-ink-7fp38ue-hp-654-tri-colour-200str",
-   "kody": [
-    "7FP38UE",
-    "HP654"
-   ]
-  },
-  {
    "n": "Epson originální ink C13T887100, T8871, black, 50000str., 1ks",
    "u": "/epson-originalni-ink-c13t887100-t8871-black-50000str-1ks",
    "kody": [
@@ -13588,91 +9911,6 @@
    "kody": [
     "2980C001",
     "T04"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner 1T02YM0NL0, TK-8545K, black, 30000str.",
-   "u": "/kyocera-originalni-toner-1t02ym0nl0-tk-8545k-black-30000str",
-   "kody": [
-    "1T02YM0NL0",
-    "TK8545K"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R04825, magenta, 1800str.",
-   "u": "/xerox-originalni-toner-006r04825-magenta-1800str",
-   "kody": [
-    "006R04825"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T56U100, photo black, 350ml",
-   "u": "/epson-originalni-ink-c13t56u100-photo-black-350ml",
-   "kody": [
-    "C13T56U100"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T56U200, cyan, 350ml",
-   "u": "/epson-originalni-ink-c13t56u200-cyan-350ml",
-   "kody": [
-    "C13T56U200"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T56U300, vivid magenta, 350ml",
-   "u": "/epson-originalni-ink-c13t56u300-vivid-magenta-350ml",
-   "kody": [
-    "C13T56U300"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T56U400, yellow, 350ml",
-   "u": "/epson-originalni-ink-c13t56u400-yellow-350ml",
-   "kody": [
-    "C13T56U400"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T56U500, light cyan, 350ml",
-   "u": "/epson-originalni-ink-c13t56u500-light-cyan-350ml",
-   "kody": [
-    "C13T56U500"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T56U600, vivid light magenta, 350ml",
-   "u": "/epson-originalni-ink-c13t56u600-vivid-light-magenta-350ml",
-   "kody": [
-    "C13T56U600"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T56U700, gray, 350ml",
-   "u": "/epson-originalni-ink-c13t56u700-gray-350ml",
-   "kody": [
-    "C13T56U700"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T56U800, matte black, 350ml",
-   "u": "/epson-originalni-ink-c13t56u800-matte-black-350ml",
-   "kody": [
-    "C13T56U800"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T56U900, light gray, 350ml",
-   "u": "/epson-originalni-ink-c13t56u900-light-gray-350ml",
-   "kody": [
-    "C13T56U900"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T56UD00, violet, 350ml",
-   "u": "/epson-originalni-ink-c13t56ud00-violet-350ml",
-   "kody": [
-    "C13T56UD00"
    ]
   },
   {
@@ -13697,14 +9935,6 @@
    "kody": [
     "2645B011",
     "CRG723H"
-   ]
-  },
-  {
-   "n": "Canon originální toner CRG723, 2643B011, cyan, 8500str.",
-   "u": "/canon-originalni-toner-crg723-2643b011-cyan-8500str",
-   "kody": [
-    "2643B011",
-    "CRG723"
    ]
   },
   {
@@ -13736,71 +9966,10 @@
    ]
   },
   {
-   "n": "Lexmark originální toner 24B6718, 24B6718, magenta",
-   "u": "/lexmark-originalni-toner-24b6718-24b6718-magenta",
-   "kody": [
-    "24B6718"
-   ]
-  },
-  {
    "n": "Xerox originální waste Toner Container 008R08101, 121000str.",
    "u": "/xerox-originalni-waste-toner-container-008r08101-121000str",
    "kody": [
     "008R08101"
-   ]
-  },
-  {
-   "n": "Sharp originální toner MXC32GVB, black, 9000str.",
-   "u": "/sharp-originalni-toner-mxc32gvb-black-9000str",
-   "kody": [
-    "MXC32GVB"
-   ]
-  },
-  {
-   "n": "OKI originální toner 09006256, black, 10500str., high capacity",
-   "u": "/oki-originalni-toner-09006256-black-10500str-high-capacity",
-   "kody": []
-  },
-  {
-   "n": "OKI originální toner 09006257, cyan, 7500str., high capacity",
-   "u": "/oki-originalni-toner-09006257-cyan-7500str-high-capacity",
-   "kody": []
-  },
-  {
-   "n": "OKI originální toner 09006258, magenta, 7500str., high capacity",
-   "u": "/oki-originalni-toner-09006258-magenta-7500str-high-capacity",
-   "kody": []
-  },
-  {
-   "n": "OKI originální toner 09006259, yellow, 7500str., high capacity",
-   "u": "/oki-originalni-toner-09006259-yellow-7500str-high-capacity",
-   "kody": []
-  },
-  {
-   "n": "OKI originální toner 09006260, black, 3000str.",
-   "u": "/oki-originalni-toner-09006260-black-3000str",
-   "kody": []
-  },
-  {
-   "n": "OKI originální toner 09006261, cyan, 2000str.",
-   "u": "/oki-originalni-toner-09006261-cyan-2000str",
-   "kody": []
-  },
-  {
-   "n": "OKI originální toner 09006262, magenta, 2000str.",
-   "u": "/oki-originalni-toner-09006262-magenta-2000str",
-   "kody": []
-  },
-  {
-   "n": "OKI originální toner 09006263, yellow, 2000str.",
-   "u": "/oki-originalni-toner-09006263-yellow-2000str",
-   "kody": []
-  },
-  {
-   "n": "Sharp originální toner DX25GTBA, black, 20000str.",
-   "u": "/sharp-originalni-toner-dx25gtba-black-20000str",
-   "kody": [
-    "DX25GTBA"
    ]
   },
   {
@@ -13864,73 +10033,9 @@
    ]
   },
   {
-   "n": "Canon originální ink PFI-2700 PBK, 5288C001, black, 700ml",
-   "u": "/canon-originalni-ink-pfi-2700-pbk-5288c001-black-700ml",
-   "kody": [
-    "5288C001",
-    "PFI2700"
-   ]
-  },
-  {
-   "n": "Canon originální ink PFI-2700 C, 5289C001, cyan, 700ml",
-   "u": "/canon-originalni-ink-pfi-2700-c-5289c001-cyan-700ml",
-   "kody": [
-    "5289C001",
-    "PFI2700"
-   ]
-  },
-  {
-   "n": "Canon originální ink PFI-2700 M, 5290C001, magenta, 700ml",
-   "u": "/canon-originalni-ink-pfi-2700-m-5290c001-magenta-700ml",
-   "kody": [
-    "5290C001",
-    "PFI2700"
-   ]
-  },
-  {
-   "n": "Canon originální ink PFI-2700 R, 5293C001, red, 700ml",
-   "u": "/canon-originalni-ink-pfi-2700-r-5293c001-red-700ml",
-   "kody": [
-    "5293C001",
-    "PFI2700"
-   ]
-  },
-  {
-   "n": "Canon originální ink PFI-2700 Y, 5291C001, yellow, 700ml",
-   "u": "/canon-originalni-ink-pfi-2700-y-5291c001-yellow-700ml",
-   "kody": [
-    "5291C001",
-    "PFI2700"
-   ]
-  },
-  {
    "n": "OKI originální toner 09006128, magenta, 6000str.",
    "u": "/oki-originalni-toner-09006128-magenta-6000str",
    "kody": []
-  },
-  {
-   "n": "HP originální ink 7FP39UE, HP 654, black, 400str.",
-   "u": "/hp-originalni-ink-7fp39ue-hp-654-black-400str",
-   "kody": [
-    "7FP39UE",
-    "HP654"
-   ]
-  },
-  {
-   "n": "HP originální ink 7FP44AE, HP 37, Tri-colour, 700str.",
-   "u": "/hp-originalni-ink-7fp44ae-hp-37-tri-colour-700str",
-   "kody": [
-    "7FP44AE",
-    "HP37"
-   ]
-  },
-  {
-   "n": "HP originální ink 7FP45AE, HP 37, black, 1300str.",
-   "u": "/hp-originalni-ink-7fp45ae-hp-37-black-1300str",
-   "kody": [
-    "7FP45AE",
-    "HP37"
-   ]
   },
   {
    "n": "HP originální ink 6L6S6UE, HP 308, black/color, 160/120str., 2-pack",
@@ -13973,20 +10078,6 @@
    ]
   },
   {
-   "n": "Xerox originální Toner 006R04962, black, 1500str.",
-   "u": "/xerox-originalni-toner-006r04962-black-1500str",
-   "kody": [
-    "006R04962"
-   ]
-  },
-  {
-   "n": "Xerox originální toner 006R04964, black, 2 x 1500str.",
-   "u": "/xerox-originalni-toner-006r04964-black-2-x-1500str",
-   "kody": [
-    "006R04964"
-   ]
-  },
-  {
    "n": "Canon originální toner T04 M, 2978C001, magenta, 27500str., high capacity",
    "u": "/canon-originalni-toner-t04-m-2978c001-magenta-27500str-high-capacity",
    "kody": [
@@ -14003,27 +10094,11 @@
    ]
   },
   {
-   "n": "HP originální toner W1590A, HP159A, black, 5000str.",
-   "u": "/hp-originalni-toner-w1590a-hp159a-black-5000str",
-   "kody": [
-    "HP159A",
-    "W1590A"
-   ]
-  },
-  {
    "n": "HP originální toner W1590X, HP159X, black, 10000str.",
    "u": "/hp-originalni-toner-w1590x-hp159x-black-10000str",
    "kody": [
     "HP159X",
     "W1590X"
-   ]
-  },
-  {
-   "n": "Konica Minolta originální toner AF2A050, TNP96K, black, 18000str.",
-   "u": "/konica-minolta-originalni-toner-af2a050-tnp96k-black-18000str",
-   "kody": [
-    "AF2A050",
-    "TNP96K"
    ]
   },
   {
@@ -14059,22 +10134,6 @@
    ]
   },
   {
-   "n": "G&G kompatibilní toner s Canon 069C, NT-CC069C, cyan, 1900str., DOPRODEJ",
-   "u": "/g-g-kompatibilni-toner-s-canon-069c-nt-cc069c-cyan-1900str-doprodej",
-   "kody": [
-    "069C",
-    "NTCC069C"
-   ]
-  },
-  {
-   "n": "Canon originální ink CL-586XL, 6226C001, color, 300str.",
-   "u": "/canon-originalni-ink-cl-586xl-6226c001-color-300str",
-   "kody": [
-    "6226C001",
-    "CL586XL"
-   ]
-  },
-  {
    "n": "Brother originální toner TN-627BK, black, 10000str.",
    "u": "/brother-originalni-toner-tn-627bk-black-10000str",
    "kody": [
@@ -14103,33 +10162,11 @@
    ]
   },
   {
-   "n": "Sharp originální toner MX561GT, black, 40000str.",
-   "u": "/sharp-originalni-toner-mx561gt-black-40000str",
-   "kody": [
-    "MX561GT"
-   ]
-  },
-  {
-   "n": "HP originální toner W1600A, HP160A, black, 10500str.",
-   "u": "/hp-originalni-toner-w1600a-hp160a-black-10500str",
-   "kody": [
-    "HP160A",
-    "W1600A"
-   ]
-  },
-  {
    "n": "HP originální toner W1600Y, HP160Y, black, 38000str.",
    "u": "/hp-originalni-toner-w1600y-hp160y-black-38000str",
    "kody": [
     "HP160Y",
     "W1600Y"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T56P100, photo black, 700ml",
-   "u": "/epson-originalni-ink-c13t56p100-photo-black-700ml",
-   "kody": [
-    "C13T56P100"
    ]
   },
   {
@@ -14140,59 +10177,10 @@
    ]
   },
   {
-   "n": "Epson originální ink C13T56P300, vivid magenta, 700ml",
-   "u": "/epson-originalni-ink-c13t56p300-vivid-magenta-700ml",
-   "kody": [
-    "C13T56P300"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T56P400, yellow, 700ml",
-   "u": "/epson-originalni-ink-c13t56p400-yellow-700ml",
-   "kody": [
-    "C13T56P400"
-   ]
-  },
-  {
    "n": "Epson originální ink C13T56P500, light cyan, 700ml",
    "u": "/epson-originalni-ink-c13t56p500-light-cyan-700ml",
    "kody": [
     "C13T56P500"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T56P600, vivid light magenta, 700ml",
-   "u": "/epson-originalni-ink-c13t56p600-vivid-light-magenta-700ml",
-   "kody": [
-    "C13T56P600"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T56P700, gray, 700ml",
-   "u": "/epson-originalni-ink-c13t56p700-gray-700ml",
-   "kody": [
-    "C13T56P700"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T56P800, matte black, 700ml",
-   "u": "/epson-originalni-ink-c13t56p800-matte-black-700ml",
-   "kody": [
-    "C13T56P800"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T56P900, light gray, 700ml",
-   "u": "/epson-originalni-ink-c13t56p900-light-gray-700ml",
-   "kody": [
-    "C13T56P900"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T56PD00, violet, 700ml",
-   "u": "/epson-originalni-ink-c13t56pd00-violet-700ml",
-   "kody": [
-    "C13T56PD00"
    ]
   },
   {
@@ -14209,13 +10197,6 @@
    "kody": [
     "6848C001",
     "PFI711"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner TK-8455K, TK-8455K, black, 25000str.",
-   "u": "/kyocera-originalni-toner-tk-8455k-tk-8455k-black-25000str",
-   "kody": [
-    "TK8455K"
    ]
   },
   {
@@ -14526,14 +10507,6 @@
    ]
   },
   {
-   "n": "Kyocera originální toner TK-5240K, 1T02R70NL0, black, 4000str., poškozený obal typ B",
-   "u": "/kyocera-originalni-toner-tk-5240k-1t02r70nl0-black-4000str-poskozeny-obal-typ-b",
-   "kody": [
-    "1T02R70NL0",
-    "TK5240K"
-   ]
-  },
-  {
    "n": "Epson originální ink C13T44C240, SJIC36P(C), cyan",
    "u": "/epson-originalni-ink-c13t44c240-sjic36p-c-cyan",
    "kody": [
@@ -14555,30 +10528,6 @@
    "kody": [
     "C13T44C440",
     "SJIC36P"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T44C540, SJIC36P(MK), black",
-   "u": "/epson-originalni-ink-c13t44c540-sjic36p-mk-black",
-   "kody": [
-    "C13T44C540",
-    "SJIC36P"
-   ]
-  },
-  {
-   "n": "Epson originální ink C13T52M540, T52M540, matte black",
-   "u": "/epson-originalni-ink-c13t52m540-t52m540-matte-black",
-   "kody": [
-    "C13T52M540",
-    "T52M540"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner TK5450K, 1T0C0D0NL0, black, 4100str.",
-   "u": "/kyocera-originalni-toner-tk5450k-1t0c0d0nl0-black-4100str",
-   "kody": [
-    "1T0C0D0NL0",
-    "TK5450K"
    ]
   },
   {
@@ -14622,14 +10571,6 @@
    "kody": [
     "1T02YJANL0",
     "TK5370Y"
-   ]
-  },
-  {
-   "n": "Kyocera originální toner TK-8345Y, 1T02L7ANL0, yellow, 12000str., poškozený obal typ B",
-   "u": "/kyocera-originalni-toner-tk-8345y-1t02l7anl0-yellow-12000str-poskozeny-obal-typ-b",
-   "kody": [
-    "1T02L7ANL0",
-    "TK8345Y"
    ]
   },
   {
@@ -14784,13 +10725,6 @@
    ]
   },
   {
-   "n": "Kompatibilní toner s C13S110079, black, 6100str., DOPRODEJ",
-   "u": "/kompatibilni-toner-s-c13s110079-black-6100str-doprodej",
-   "kody": [
-    "C13S110079"
-   ]
-  },
-  {
    "n": "G&G kompatibilní toner W2201X, NT-PH2201XC-B-V2-S1, cyan, 5500str., high capacity, DOPRODEJ",
    "u": "/g-g-kompatibilni-toner-w2201x-nt-ph2201xc-b-v2-s1-cyan-5500str-high-capacity-doprodej",
    "kody": [
@@ -14830,11 +10764,6 @@
    ]
   },
   {
-   "n": "Xerox kompatibilní toner s 44059107, cyan, 8000str.",
-   "u": "/xerox-kompatibilni-toner-s-44059107-cyan-8000str",
-   "kody": []
-  },
-  {
    "n": "G&G kompatibilní toner s OKI 45862839, NT-COMC853FC, cyan, 7300str., DOPRODEJ",
    "u": "/g-g-kompatibilni-toner-s-oki-45862839-nt-comc853fc-cyan-7300str-doprodej",
    "kody": [
@@ -14863,43 +10792,10 @@
    ]
   },
   {
-   "n": "Sharp originální toner MX-62GTCA, cyan, 40000str.",
-   "u": "/sharp-originalni-toner-mx-62gtca-cyan-40000str",
-   "kody": [
-    "MX62GTCA"
-   ]
-  },
-  {
    "n": "Sharp originální toner MX-62GTMA, magenta, 40000str.",
    "u": "/sharp-originalni-toner-mx-62gtma-magenta-40000str",
    "kody": [
     "MX62GTMA"
-   ]
-  },
-  {
-   "n": "Neutre kompatibilní separation pad s RM1-4840, RM1-8765, RM-4425, separační podložka, DOPRODEJ",
-   "u": "/neutre-kompatibilni-separation-pad-s-rm1-4840-rm1-8765-rm-4425-separacni-podlozka-doprodej",
-   "kody": [
-    "RM14840",
-    "RM18765",
-    "RM4425"
-   ]
-  },
-  {
-   "n": "HP repasovaný transfer belt CC468-67927, 150000str., RM2-7448, CC468-67907, přenosový pás, DOPRODEJ",
-   "u": "/hp-repasovany-transfer-belt-cc468-67927-150000str-rm2-7448-cc468-67907-prenosovy-pas-doprodej",
-   "kody": [
-    "CC46867907",
-    "CC46867927",
-    "RM27448"
-   ]
-  },
-  {
-   "n": "HP originální paper pick-up roller RM2-2516,RM2-2517, podavač papíru, DOPRODEJ",
-   "u": "/hp-originalni-paper-pick-up-roller-rm2-2516-rm2-2517-podavac-papiru-doprodej",
-   "kody": [
-    "RM22516",
-    "RM22517"
    ]
   },
   {
@@ -14935,29 +10831,6 @@
    ]
   },
   {
-   "n": "Xerox originální toner 106R03939, black, 16900str., extra high capacity",
-   "u": "/xerox-originalni-toner-106r03939-black-16900str-extra-high-capacity",
-   "kody": [
-    "106R03939"
-   ]
-  },
-  {
-   "n": "Canon originální ink GI-55 BK, 6292C001, black, 3000str.",
-   "u": "/canon-originalni-ink-gi-55-bk-6292c001-black-3000str2",
-   "kody": [
-    "6292C001",
-    "GI55"
-   ]
-  },
-  {
-   "n": "Canon originální ink GI-55 C, 6289C001, cyan, 3000str.",
-   "u": "/canon-originalni-ink-gi-55-c-6289c001-cyan-3000str2",
-   "kody": [
-    "6289C001",
-    "GI55"
-   ]
-  },
-  {
    "n": "Canon originální ink GI-55 M, 6290C001, magenta, 3000str.",
    "u": "/canon-originalni-ink-gi-55-m-6290c001-magenta-3000str2",
    "kody": [
@@ -14987,14 +10860,6 @@
    "kody": [
     "HP185X",
     "W1850X"
-   ]
-  },
-  {
-   "n": "Canon originální toner C-EXV 1007 C, 6730C002, cyan, 19000str.",
-   "u": "/canon-originalni-toner-c-exv-1007-c-6730c002-cyan-19000str",
-   "kody": [
-    "1007",
-    "6730C002"
    ]
   },
   {
@@ -15058,43 +10923,39 @@
  "tiskarny_slouceno": 0,
  "nesparovano_nove": [],
  "nesparovano_dle_znacky": {
-  "Kyocera": 417,
-  "Konica Minolta": 329,
-  "Epson": 254,
-  "HP": 206,
-  "OKI": 178,
-  "Lexmark": 149,
-  "Sharp": 148,
-  "Canon": 126,
-  "Xerox": 111,
-  "Brother": 28,
-  "Utax": 17,
+  "Kyocera": 332,
+  "Konica Minolta": 285,
+  "HP": 162,
+  "OKI": 150,
+  "Epson": 140,
+  "Sharp": 95,
+  "Canon": 79,
+  "Lexmark": 77,
+  "Xerox": 39,
+  "Brother": 26,
   "Samsung": 16,
+  "Utax": 8,
   "UPrint": 7,
   "Toshiba": 6,
-  "Katun": 6,
-  "Kompatibilní": 4,
-  "G&G": 4,
-  "Oce": 3,
-  "Triumph": 3,
-  "Tally": 2,
+  "Katun": 3,
+  "G&G": 3,
+  "Kompatibilní": 2,
+  "Oce": 2,
   "KATUN": 2,
-  "IBM": 1,
-  "Triumph-Adler": 1,
-  "Olivetti": 1,
-  "Neutre": 1
+  "Tally": 1,
+  "Olivetti": 1
  },
  "souhrn": {
-  "datum": "2026-11-27",
-  "produktu": 3502,
+  "datum": "2026-11-28",
+  "produktu": 3304,
   "sad": 1093,
   "tiskaren": 5483,
-  "odebrano": 1,
+  "odebrano": 198,
   "pridano": 0,
-  "nesparovano": 2020,
+  "nesparovano": 1436,
   "nesparovano_nove": 0,
   "tiskarny_preznaceny": 0,
   "tiskarny_slouceno": 0,
-  "velikost_kb": 960
+  "velikost_kb": 916
  }
 }

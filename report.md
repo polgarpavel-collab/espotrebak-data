@@ -1,11 +1,208 @@
-# Index tonerů a inkoustů – 2026-11-27
+# Index tonerů a inkoustů – 2026-11-28
 
-- Produktů ve vyhledávači: **3502**, tiskáren: **5483**, velikost 960 KB
-- Nově přidáno: **0**, odebráno (už nejsou v e-shopu): **1**
-- Nespárováno (nejsou ve vyhledávači): **2020**, z toho nově: **0**
-- Nespárované podle značky: Kyocera 417, Konica Minolta 329, Epson 254, HP 206, OKI 178, Lexmark 149, Sharp 148, Canon 126, Xerox 111, Brother 28, Utax 17, Samsung 16, UPrint 7, Toshiba 6, Katun 6, Kompatibilní 4, G&G 4, Oce 3, Triumph 3, Tally 2, KATUN 2, IBM 1, Triumph-Adler 1, Olivetti 1, Neutre 1
+- Produktů ve vyhledávači: **3304**, tiskáren: **5483**, velikost 916 KB
+- Nově přidáno: **0**, odebráno (už nejsou v e-shopu): **198**
+- Nespárováno (nejsou ve vyhledávači): **1436**, z toho nově: **0**
+- Nespárované podle značky: Kyocera 332, Konica Minolta 285, HP 162, OKI 150, Epson 140, Sharp 95, Canon 79, Lexmark 77, Xerox 39, Brother 26, Samsung 16, Utax 8, UPrint 7, Toshiba 6, Katun 3, G&G 3, Kompatibilní 2, Oce 2, KATUN 2, Tally 1, Olivetti 1
 
 ## Odebrané
 
-- G&G kompatibilní toner s Canon 057H, NT-PC057X, black, 10000str., POZOR bez čipu, high capacity
+- HP originální ink 51645AE, HP 45, black, 930str., 42ml
+- Xerox kompatibilní toner s CE251A, cyan, 7000str.
+- Xerox kompatibilní toner s CE252A, yellow, 7000str.
+- Xerox kompatibilní toner s CE253A, magenta, 7000str.
+- Kompatibilní toner s CE310A, H.310/H.350AB, black, 1200str.
+- Kompatibilní toner s CE311A, H311/H.351AC, cyan, 1000str.
+- Kompatibilní toner s CE312A, H.312/H.352AY, yellow, 1000str.
+- Kompatibilní toner s CE313A, H313/H.353AM, magenta, 1000str.
+- Xerox kompatibilní toner s CE390A, black, 10000str.
+- Kompatibilní toner s CF287A, H.87A, black, 9000str.
+- Kompatibilní toner s CF410A, H.410AB, black, 2300str.
+- G&G kompatibilní toner s HP CF542A, NT-PH203Y, HP 203A, yellow, 1300str.
+- Kompatibilní toner s Q2613X, H.15X/13X/24X/EP25, black, 3500str.
+- G&G kompatibilní toner s HP W1350A, NT-PH1350C, HP 135, black, 1100str.
+- G&G kompatibilní toner s HP W1350X, NT-PH1350, HP 135, black, 2400str., high capacity
+- G&G kompatibilní toner s HP W1390X, NT-PH1390XC, black
+- G&G kompatibilní toner s HP W1420A, NT-PH1420C, black, 950str.
+- G&G kompatibilní toner s HP W1420A, NT-PH1420LC, black, 2000str.
+- G&G kompatibilní toner s HP W1490A, NT-PH1490C, black
+- G&G kompatibilní toner s HP W1490X, NT-PH1490XC, black
+- Xerox kompatibilní toner s W2070A, HP 117A, black, 1000str.
+- Xerox kompatibilní toner s W2073A, HP 117A, magenta, 700str.
+- G&G kompatibilní ink s LC-427XLBK, NP-B-0427XLBK, black
+- G&G kompatibilní ink s LC-427XLC, NP-B-0427XLC, cyan
+- G&G kompatibilní ink s LC-427XLM, NP-B-0427XLM, magenta
+- G&G kompatibilní ink s LC-427XLY, NP-B-0427XLY, yellow
+- HP originální ink C8727AE, po expiraci typ HP 27, black, 10ml
+- Canon originální toner C-EXV50 BK, 9436B002_P, black, 17600str., bez čipu
+- Katun Performance kompatibilní toner s Canon 041HBK, 0453C002, black, 20000str., high capacity
+- Katun Performance kompatibilní toner s Canon 045HBK, 1246C002, black, 2800str., high capacity
+- Katun Performance kompatibilní toner s Canon 045HC, 1245C002, cyan, 2200str., high capacity
+- Katun Performance kompatibilní toner s Canon 045HM, 1244C002, magenta, 2200str., high capacity
+- Katun Performance kompatibilní toner s Canon 045HY, 1243C002, yellow, 2200str., high capacity
+- Katun Performance kompatibilní toner s Canon FX7, 7621A002, black, 4500str.
+- Katun Performance kompatibilní toner s HP CE250X, Canon 2645B002, HP 504X, CRG723H, black, 10500str., CE250X
+- Katun Performance kompatibilní toner s HP CE251A, Canon 2643B002, HP 504A, CRG723C, cyan, 7000str., CE251A
+- Katun Performance kompatibilní toner s HP CE252A, Canon 2641B002, HP 504A, CRG723Y, yellow, 7000str., CE252A
+- Katun Performance kompatibilní toner s HP CE253A, Canon 2642B002, HP 504A, CRG723M, magenta, 7000str., CE253A
+- Katun Performance kompatibilní toner s HP CE255A, HP 55A, black, 6000str., CE255A
+- Katun Performance kompatibilní toner s HP CE255X, HP 55X, black, 12500str., CE255X
+- Katun Performance kompatibilní toner s HP CE260X, HP 649X, black, 17000str., high capacity, CE260X
+- Katun Performance kompatibilní toner s HP CE261A, HP 648A, cyan, 11000str., CE261A
+- Katun Performance kompatibilní toner s HP CE262A, HP 648A, yellow, 11000str., CE262A
+- Katun Performance kompatibilní toner s HP CE263A, HP 648A, magenta, 11000str., CE263A
+- Katun Performance kompatibilní toner s HP CE400X, HP 507X, black, 11000str., CE400X
+- Katun Performance kompatibilní toner s HP CE401A, HP 507A, cyan, 6000str., CE401A
+- Katun Performance kompatibilní toner s HP CE402A, HP 507A, yellow, 6000str., CE402A
+- Katun Performance kompatibilní toner s HP CE403A, HP 507A, magenta, 6000str., CE403A
+- Katun Performance kompatibilní toner s HP CE505X, HP 05X, black, 6500str., old: 37485, high capacity, CE505X
+- Katun Performance kompatibilní toner s HP CF217A, HP 17A, black, 1600str., CF217A
+- Katun Performance kompatibilní toner s HP CF226A, HP 26A, black, 3100str., 700g, CF226A
+- Katun Performance kompatibilní toner s HP CF230A, HP 30A, black, 1600str., CF230A
+- Katun Performance kompatibilní toner s HP CF230X, HP 30X, black, 3500str., high capacity, CF230X
+- Katun Performance kompatibilní toner s HP CF237A, HP 37A, black, 11000str., CF237A
+- Katun Select kompatibilní toner s HP CF237A, HP 37A, black, 11000str., CF237A
+- Katun Performance kompatibilní toner s HP CF279A, HP 79A, black, 1000str., CF279A
+- Katun Performance kompatibilní toner s HP CF280X, HP 80X, black, 6900str., 1050g, CF280X
+- Katun Performance kompatibilní toner s HP CF281X, HP 81X, black, 25000str., CF281X
+- Katun Performance kompatibilní toner s HP CF283A, HP 83A, black, 1500str., 830g, CF283A
+- Katun Performance kompatibilní toner s HP CF287A, HP 87A, black, 8550str., 930g, CF287A
+- Katun Performance kompatibilní toner s HP CF287X, HP 87X, black, 18000str., high capacity, 1230g, CF287X
+- Katun Performance kompatibilní toner s HP CF325X, HP 25X, black, 40000str., CF325X
+- Katun Performance kompatibilní toner s HP CF360A, HP 508A, black, 6000str., 2850g, CF360A
+- Katun Performance kompatibilní toner s HP CF361A, HP 508A, cyan, 5000str., 860g, CF361A
+- Katun Performance kompatibilní toner s HP CF362A, HP 508A, yellow, 5000str., 860g, CF362A
+- Katun Performance kompatibilní toner s HP CF363A, HP 508A, magenta, 5000str., 860g, CF363A
+- Katun Performance kompatibilní toner s HP CF400X, HP 201X, black, 2800str., 770g, CF400X
+- Katun Performance kompatibilní toner s HP CF401X, HP 201X, cyan, 2300str., 770g, CF401X
+- Katun Performance kompatibilní toner s HP CF402X, HP 201X, yellow, 2300str., 770g, CF402X
+- Katun Performance kompatibilní toner s HP CF403X, HP 201X, magenta, 2300str., 770g, CF403X
+- Katun Performance kompatibilní toner s HP CF410X, HP 410X, black, 6500str., high capacity, 680g, CF410X
+- Katun Performance kompatibilní toner s HP CF411X, HP 410X, cyan, 5000str., high capacity, 650g, CF411X
+- Katun Performance kompatibilní toner s HP CF412X, HP 410X, yellow, 5000str., high capacity, 650g, CF412X
+- Katun Performance kompatibilní toner s HP CF413X, HP 410X, magenta, 5000str., high capacity, 650g, CF413X
+- Katun Performance kompatibilní toner s HP CF530A, HP 205A, black, 1100str., CF530A
+- Katun Performance kompatibilní toner s HP CF531A, HP 205A, cyan, 900str., CF531A
+- Katun Performance kompatibilní toner s HP CF532A, HP 205A, yellow, 900str., CF532A
+- Katun Performance kompatibilní toner s HP CF533A, HP 205A, magenta, 900str., CF533A
+- Katun Performance kompatibilní toner s HP Q6473A, HP 502A, magenta, 4000str., Q6473A
+- Katun Performance kompatibilní toner s Brother TN2120, black, 2600str.
+- Katun Performance kompatibilní toner s Brother TN230C, cyan, 1400str.
+- Katun Performance kompatibilní toner s Brother TN230M, magenta, 1400str.
+- Katun Performance kompatibilní toner s Brother TN2421, TN2420, black, 3000str.
+- Katun Performance kompatibilní toner s Brother TN325M, magenta, 3500str.
+- Katun Performance kompatibilní toner s Brother TN325Y, yellow, 3500str.
+- Katun Performance kompatibilní toner s Brother TN326C, cyan, 3500str.
+- Katun Performance kompatibilní toner s Brother TN326Y, yellow, 3500str.
+- Katun Performance kompatibilní toner s Canon CEXV22, 1872B002, black, 48000str.
+- Katun Performance kompatibilní toner s Canon CEXV29C, 2794B002, cyan, 484g
+- Katun Performance kompatibilní toner s Canon CEXV29M, 2798B002, magenta, 484g
+- Katun Performance kompatibilní toner s Canon CEXV29Y, 2802B002, yellow, 484g
+- Katun Performance kompatibilní toner s Canon CEXV34K, 3782B002, black, 23000str., 420g
+- Katun Performance kompatibilní toner s Canon CEXV34C, 3783B002, cyan, 19000str., 270g
+- Katun Performance kompatibilní toner s Canon CEXV34Y, 3785B002, yellow, 19000str., 270g
+- Katun Performance kompatibilní toner s Canon CEXV38, 4791B002, black, 34200str.
+- Katun Performance kompatibilní toner s Canon CEXV47C, 8517B002, cyan, 21500str.
+- Katun Performance kompatibilní toner s Canon CEXV47M, 8518B002, magenta, 21500str.
+- Katun Performance kompatibilní toner s Canon CEXV47Y, 8519B002, yellow, 21500str.
+- Katun Performance kompatibilní toner s Canon CEXV48K, 9106B002, black, 16500str., 318g
+- Katun Performance kompatibilní toner s Canon CEXV48C, 9107B002, cyan, 11500str., 197g
+- Katun Performance kompatibilní toner s Canon CEXV48M, 9108B002, magenta, 11500str., 197g
+- Katun Performance kompatibilní toner s Canon CEXV48Y, 9109B002, yellow, 11500str., 197g
+- Katun Performance kompatibilní toner s Canon CEXV49K, 8524B002, black, 36000str., 790g
+- Katun Performance kompatibilní toner s Canon CEXV49C, 8525B002, cyan, 19000str., 463g
+- Katun Performance kompatibilní toner s Canon CEXV49M, 8526B002, magenta, 19000str., 463g
+- Katun Performance kompatibilní toner s Canon CEXV49Y, 8527b002, yellow, 19000str., 463g
+- Katun Performance kompatibilní toner s Canon CEXV51C, 0482C002, cyan, 60000str., 681g
+- Katun Performance kompatibilní toner s Canon CEXV51M, 0483C002, magenta, 60000str., 681g
+- Katun Performance kompatibilní toner s Canon CEXV51Y, 0484C002, yellow, 60000str., 681g
+- HP originální ink F6V25AE, po expiraci typ HP 652, black, 360str.
+- G&G kompatibilní toner s 067 H M, 5104C002, magenta, 2350str., high capacity
+- Canon kompatibilní toner s 067 H Y, 5103C002, yellow, 2350str., high capacity
+- Katun Performance kompatibilní toner s HP CE505A, HP 05A, black, 2300str., CE505A
+- G&G kompatibilní toner s HP CF259X, NT-PH259X, HP 59X, black, 10000str., POZOR bez čipu
+- G&G kompatibilní toner s 067 H C, 5105C002, cyan, 2350str., high capacity
+- G&G kompatibilní toner s 067 H BK, 5106C002, black, 3130str., high capacity
+- G&G kompatibilní toner s HP CF383A, NT-PHF383M, HP 312A, magenta, 2700str.
+- G&G kompatibilní toner s HP W1420A, NT-PH1420C, black, 950str.
+- Canon originální toner 057 H BK, 3010C002, black, 10000str., poškozený obal typ high capacity
+- Canon originální toner 737 BK, 9435B002, black, 2400str.
+- Canon originální toner C-EXV14 BK, 0384B006, black, 8300str., poškozený obal typ 1ks v balení, 460g
+- Epson originální ink C13T75444N, T7544, XXL, yellow, 69ml
+- G&G kompatibilní toner s Canon 057H, NT-PC057X, black, 10000str., high capacity
+- G&G kompatibilní toner s HP CF281X, NT-PH281XWC, HP 81X, black, 25000str.
+- HP originální toner W2412A, HP 216A, yellow, 850str.
+- G&G kompatibilní toner s HP CE410A, NT-PH305BK(CE410A), HP 305A, black, 2090str.
+- Canon originální toner C-EXV21 C, 0453B002, cyan, 14000str., 260g
+- G&G kompatibilní toner s HP CF279A, NT-PH279LC, black, 1000str.
+- G&G kompatibilní toner s Canon 045HY, NT-PC045XY, yellow, 2200str.
+- Katun Select kompatibilní toner s HP CB435A, CB436A, Canon 1870B002, 3484B002, HP 35A, HP 36A, CRG712, CRG725, black, 1500str., CB
+- Canon originální ink CLI-551XL BK/C/M/Y PHOTO VALUE, 6443B008, CMYK
+- Canon originální ink PGI-2500 BK/C/M/Y MULTI, 9290B006, CMYK
+- Canon originální ink PGI-2500XL BK TWIN, 9254B011, black
+- Xerox originální toner 106R02308, black, 2300str.
+- Canon originální ink PG-540Lx2/CL-541XL, CMYK
+- Canon originální ink PG-545XLx2/CL-546XL, CMYK
+- Canon originální ink PG-560XLx2/CL-561XL MULTI, 3712C009, CMYK
+- Canon originální ink PFI-300 CO, 4201C001, chroma optimizer, 14,4ml
+- Canon originální ink PFI-300 C, 4194C001, cyan, 14,4ml
+- Canon originální ink PFI-300 M, 4195C001, magenta, 14,4ml
+- Canon originální ink PFI-300 R, 4199C001, red, 14,4ml
+- Canon originální ink PFI-300 Y, 4196C001, yellow, 14,4ml
+- Canon originální ink PG-545XL/CL-546XL PHOTO VALUE, 8286B012, CMYK
+- Canon originální ink PGI-525 BK TWIN, 4529B017, black
+- Epson originální ink C13T33374011, T33, CMYK, 6,4/4x4,5ml
+- Katun Business Ink kompatibilní ink s F6U16AE, HP 953XL, cyan, 1600str., 20ml, high capacity
+- Allprint kompatibilní ink s N9K08AE, HP 304XL, black, 20ml, DOPRODEJ
+- Xerox originální toner 006R04360, black, 3000str.
+- Xerox originální toner 006R04361, cyan, 2000str.
+- Xerox originální toner 006R04362, magenta, 2000str.
+- Xerox originální toner 006R04363, yellow, 2000str.
+- Canon originální ink PG-510/CL-511 PVP, 2970B017, color
+- Katun Performance kompatibilní toner s Lexmark C544X1KG, C544X2KG, black, 6000str., extra high capacity, return
+- Katun Performance kompatibilní toner s Lexmark C544X1CG, C544X2CG, cyan, 4000str., extra high capacity, return
+- Katun Performance kompatibilní toner s Lexmark C544X1MG, C544X2MG, magenta, 4000str., extra high capacity, return
+- Katun Performance kompatibilní toner s Lexmark C544X1YG, C544X2YG, yellow, 4000str., extra high capacity, return
+- Katun Performance kompatibilní toner s Lexmark 24B6010, 24B6010, yellow, 3000str., high capacity
+- Katun Performance kompatibilní toner s Lexmark 24B6008, 24B6008, cyan, 3000str., high capacity
+- Katun Performance kompatibilní toner s Lexmark 24B6009, 24B6009, magenta, 3000str., high capacity
+- Katun Performance kompatibilní toner s Lexmark 24B6011, 24B6011, black, 6000str., high capacity
+- Katun Performance kompatibilní toner s Lexmark 24B6186, black, 16000str., return
+- Katun Performance kompatibilní toner s Lexmark 24B6213, black, 10000str., return
+- Katun Performance kompatibilní toner s Lexmark 50F0HA0, 50F2U00, 500HA, black, 5000str., high capacity
+- Katun Performance kompatibilní toner s Lexmark 51B2H00, black, 8500str.
+- Katun Performance kompatibilní toner s Lexmark 51B2X00, black, 20000str., return
+- Katun Performance kompatibilní toner s Lexmark 53B0HA0, 53B2H00, black, 25000str., high capacity
+- Katun Performance kompatibilní toner s Lexmark 53B2000, black, 11000str.
+- Katun Performance kompatibilní toner s Lexmark 64036HE, 64016HE, X644H11E, X644H21E, black, 21000str.
+- Katun Performance kompatibilní toner s Lexmark 70C2HC0, cyan, 3000str., high capacity, return
+- Katun Performance kompatibilní toner s Lexmark 70C2HK0, black, 4000str., high capacity, return
+- Katun Performance kompatibilní toner s Lexmark 70C2HM0, magenta, 3000str., high capacity, return
+- Katun Performance kompatibilní toner s Lexmark 70C2HY0, yellow, 3000str., high capacity, return
+- Katun Performance kompatibilní toner s Lexmark 71B20K0, black, 3000str.
+- Katun Performance kompatibilní toner s Lexmark 71B20M0, magenta, 2300str.
+- Katun Performance kompatibilní toner s Lexmark 71B20Y0, yellow
+- Katun Performance kompatibilní toner s Lexmark 71B2HC0, cyan, 3500str.
+- Katun Performance kompatibilní toner s Lexmark 71B2HY0, yellow, 3500str.
+- Katun Performance kompatibilní toner s Lexmark 80C2HC0, cyan, 3000str., return
+- Katun Performance kompatibilní toner s Lexmark 80C2HK0, black, 4000str., return
+- Katun Performance kompatibilní toner s Lexmark 80C2HM0, magenta, 3000str., return
+- Katun Performance kompatibilní toner s Lexmark 80C2HY0, yellow, 3000str., return
+- Katun Performance kompatibilní toner s Lexmark 80C2SC0, cyan, 2000str., return
+- Katun Performance kompatibilní toner s Lexmark 80C2SK0, black, 2500str., return
+- Katun Performance kompatibilní toner s Lexmark 80C2SM0, magenta, 2000str., return
+- Katun Performance kompatibilní toner s Lexmark 80C2SY0, yellow, 2000str., return
+- Katun Performance kompatibilní toner s Lexmark E260A11E, E360H11E, E360H21E, E460X11E, E4, black, 3500str., return
+- Allprint kompatibilní toner s Lexmark X950X2YG, yellow, 24000str., extra high capacity
+- Katun Performance kompatibilní toner s Xerox 106R02229, cyan, 6000str., high capacity
+- HP originální toner W2030XR, HP 415X, black, 7500str., high capacity
+- Canon originální ink PGI-520 BK TWIN, 2932B019, black
+- Katun Performance kompatibilní toner s Xerox 106R02231, yellow, 6000str., high capacity, DOPRODEJ
+- Canon originální toner 041 H BK, 0453C004, black, 20000str., high capacity
+- HP originální ink 3YL81AE, po expiraci typ HP 912XL, high capacity, cyan, 700str., 8.5ml
+- Canon originální ink PFI-5100 10ink multi pack, 6951C009, multi color pack 10 ink, 10-pack
+- G&G kompatibilní toner s HP W1106A, NT-PH1106XXLC, HP 106A, black, 5000str., high capacity, DOPRODEJ
+- Neutre kompatibilní toner s HP CF211A, Canon CRG731, H.131ACE, cyan, 1400str., DOPRODEJ
+- G&G kompatibilní ink s C9351A, HP 21XL, NH-R9351BK(HP21), black, 475str., DOPRODEJ
+- Xerox kompatibilní toner s W2071A, HP 117A, cyan, 700str., DOPRODEJ
 
